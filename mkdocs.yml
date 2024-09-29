@@ -1,4 +1,91 @@
 site_name: Conocimiento Abierto
+site_description: Blog personal de Francisco Puga
 site_url: https://fpuga.github.io/conocimientoabierto
+site_author: Francisco Puga
+copyright: Copyright (C) 2007-2024 Francisco Puga. Bajo licencia CC-BY 4.0.
+
 theme:
   name: material
+  language: es
+  features:
+      - navigation.indexes
+      - navigation.tabs
+      - navigation.tabs.sticky
+      - navigation.sections
+      - navigation.top
+      - navigation.instant
+      - navigation.instant.progress
+      - navigation.tracking
+      - header.autohide
+      - toc.follow
+      - content.code.copy
+
+
+exclude_docs: |
+    drafts/            # A "drafts" directory anywhere.
+
+# strict: true
+
+validation:
+    omitted_files: warn
+    absolute_links: warn
+    unrecognized_links: warn
+
+plugins:
+  - search
+  - blog:
+      blog_toc: true
+      archive_date_format: MMMM yyyy
+      categories_allowed:
+        - Holidays
+        - News
+        - Testing
+      pagination_per_page: 5
+  - tags:
+      enabled: true
+      tags: true
+      tags_file: tags.md
+      # tags_file: blog/tags.md
+  - privacy:
+      enabled: !ENV [CI, false]
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      name: fpuga on GitHub
+      link: https://github.com/fpuga
+    - icon: fontawesome/brands/twitter
+      name: fpuga on X
+      link: https://x.com/fpuga
+    - icon: fontawesome/brands/stack-overflow
+      name: fpuga on StackOverflow
+      link: https://stackoverflow.com/users/930271/francisco-puga
+      
+
+markdown_extensions:
+  - attr_list
+  - abbr
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+        alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Home: index.md
+  - Proyectos: proyectos/
+  - Tags: tags.md
+  - Blog:
+     - blog/index.md
+     # - blog/tags.md
