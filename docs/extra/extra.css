@@ -1,0 +1,15 @@
+/* https://github.com/squidfunk/mkdocs-material/blob/master/src/templates/assets/stylesheets/main/_colors.scss */
+[data-md-color-scheme="conocimientoabierto"] {
+    --md-primary-fg-color: #007bc4;
+    --md-primary-bg-color: #fff;
+
+    /* --md-primary-fg-color--light: #ecb7b7;
+    --md-primary-fg-color--dark: #90030c; */
+    --md-footer-fg-color: #fff;
+    --md-footer-bg-color: #007bc4;
+    --md-footer-bg-color--dark: #007bc4;
+}
+
+h1 {
+    color: red !important;
+}
