@@ -1,14 +1,12 @@
 ---
-id: 125
-title: Ecofont
-date: '2009-08-12T09:58:46+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=125'
-permalink: /se-ahorra-tinta-con-ecofont/125/
 categories:
-    - General
+- General
+date: 2009-08-12
+permalink: /se-ahorra-tinta-con-ecofont/125/
+slug: se-ahorra-tinta-con-ecofont
 ---
+
+# Ecofont
 
 <div class="ngg-gallery-singlepic-image ngg-left" style="max-width: 320px"> [ ![Fuente Ecofont - by FCPB @ Wikimedia Commons](https://conocimientoabierto.es/wp-content/blogs.dir/16/files/galerias/enelblog/cache/ecofont.jpg-nggid019-ngg0dyn-320x240x100-00f0w010c010r110f110r010t010.jpg "Fuente Ecofont - by FCPB @ Wikimedia Commons") ](https://conocimientoabierto.es/wp-content/blogs.dir/16/files/galerias/enelblog/ecofont.jpg "http://es.wikipedia.org/wiki/Archivo:Ecofont.jpg") </div> Hace un par de meses la aparición de un nuevo tipo de letra tubo [cierta repercusión](http://www.neoteo.com/ecofont-la-fuente-economica-ahorra-tinta-15118.neo) en la blogsfera. Esta nueva fuente llamada [Ecofont](http://es.wikipedia.org/wiki/Ecofont), creada por la empresa [Spranq](http://www.spranq.eu/) decía que podía llegar a ahorrar hasta un 20% de tinta a la hora de imprimir. La idea en la que se basan es simplemente <a>añadir una serie de agujeros circulares</a> a una letra ya existente. Cuando se imprime en tamaños inferiores a 10 los agujeros no se notan y se ahorra tinta. La idea es sencilla y práctica así que iba a escribir una nota aquí recomendando su uso. Pero buscando un poco de [información adicional (leer los comentarios)](http://www.manuelgago.org/blog/index.php/2009/03/11/ecofont-unha-fonte-para-aforrar-tinta/) me he dado cuenta de que tiene algunos puntos oscuros. Antes de continuar debo reconocer que hasta ayer no tenía ni idea sobre tipografía y ni siquiera sabía lo que significaba serif, así que tómense las afirmaciones que siguen con cuidado y más como interrogaciones que como afirmaciones.
 

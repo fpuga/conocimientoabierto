@@ -1,17 +1,15 @@
 ---
-id: 403
-title: BLOGUZZ-0a2dbc2d7d
-date: '2011-10-08T16:22:42+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=403'
-permalink: /bloguzz-0a2dbc2d7d/403/
 categories:
-    - General
+- General
+date: 2011-10-08
+permalink: /bloguzz-0a2dbc2d7d/403/
+slug: bloguzz-0a2dbc2d7d
 tags:
-    - bloguzz
-    - 'modelos de negocio'
+- bloguzz
+- modelos de negocio
 ---
+
+# BLOGUZZ-0a2dbc2d7d
 
 Título raro pero es que acabo de darme de alta en [bloguzz](http://www.bloguzz.com/), una empresa que pone en contacto a blogers y marcas de forma que los bloguers reciben productos y servicios para postear sobre ellos.
 

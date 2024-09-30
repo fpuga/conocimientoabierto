@@ -1,19 +1,17 @@
 ---
-id: 851
-title: 'Eventos en backbonejs'
-date: '2016-01-02T14:02:19+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=851'
-permalink: /eventos-backbonejs/851/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2016-01-02
+permalink: /eventos-backbonejs/851/
+slug: eventos-backbonejs
 tags:
-    - backbonejs
-    - 'desarrollo sofware'
-    - 'desarrollo web'
-    - patrones
+- backbonejs
+- desarrollo sofware
+- desarrollo web
+- patrones
 ---
+
+# Eventos en backbonejs
 
 Una de las formas más interesantes de desacoplar código, vistas fundamentalmente, usando un framework MV\* tipo backbone es aprender a usar correctamente los eventos y patrones asociados. Observer (pub/sub), Event Aggregator, Mediator, …
 

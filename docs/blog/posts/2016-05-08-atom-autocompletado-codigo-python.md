@@ -1,20 +1,18 @@
 ---
-id: 865
-title: 'Atom: Autocompletado de código en python'
-date: '2016-05-08T21:09:38+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=865'
-permalink: /atom-autocompletado-codigo-python/865/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2016-05-08
+permalink: /atom-autocompletado-codigo-python/865/
+slug: atom-autocompletado-codigo-python
 tags:
-    - atom
-    - desarrollo
-    - 'desarrollo sofware'
-    - IDE
-    - python
+- atom
+- desarrollo
+- desarrollo sofware
+- IDE
+- python
 ---
+
+# Atom: Autocompletado de código en python
 
 Al margen del [«Code Completion» de PyCharm](https://confluence.jetbrains.com/display/PYH/Code+completion), y algún otro, el resto de editores/IDEs proveen autocompletado a través de librerías o «servicios externos». Para el caso de python hay fundamentalmente dos, [rope](https://github.com/python-rope/rope) y [jedi](https://jedi.readthedocs.io/en/latest/index.html). Rope está más enfocada a Refactoring y Jedi a Autocompletado, por tanto las dos son complementarias. En la actualidad varios editores que usaban rope están migrando a jedi, su autor ha hecho una [comparación defendiendo su librería](http://jedidjah.ch/code/2013/1/19/why_jedi_not_rope/).
 

@@ -1,19 +1,13 @@
 ---
-id: 49
-title: 'Nuevo vídeo de Amnistía'
-date: '2008-09-24T15:40:00+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/nuevo-video-de-amnistia/49/'
-permalink: /nuevo-video-de-amnistia/49/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2008/09/nuevo-vdeo-de-amnista.html
 categories:
-    - comunicacion
-    - 'tercer sector'
+- comunicacion
+- tercer sector
+date: 2008-09-24
+permalink: /nuevo-video-de-amnistia/49/
+slug: nuevo-video-de-amnistia
 ---
+
+# Nuevo vídeo de Amnistía
 
 Amnistía Internacional es una organización a la que tengo un alto respeto, pero creo que tanto [esta vez](http://www.es.amnesty.org/el-gobierno-obstaculiza-la-emision-de-un-anuncio-de-amnistia-internacional-otra-vez/) como la anterior no están haciendo lo correcto. Si quieren mantener el alto grado de confianza que la gente deposita en ellos deben evitar jugar con el doble lenguaje. Decir que el<span><span class="on down" title="Enlace"></span></span> Gobierno «obstaculiza» la emisión de un spot publicitario, como dejando entrever que hay censura, puede asegurarte que un buen montón de blogueros [te monten una campaña](http://vigoamnesty.blogspot.com/2008/09/el-ministerio-de-industria-obstaculiza.html) de marketing viral, pero por lo menos en mi caso hace descender su reputación.
 

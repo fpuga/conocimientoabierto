@@ -1,18 +1,16 @@
 ---
-id: 723
-title: 'Libro: Matar a un ruiseñor'
-date: '2014-08-09T10:00:55+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=723'
-permalink: /libro-matar-a-un-ruisenor/723/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2014-08-09
+permalink: /libro-matar-a-un-ruisenor/723/
+slug: libro-matar-a-un-ruisenor
 tags:
-    - 'Harper Lee'
-    - libros
-    - 'Matar a un ruiseñor'
+- Harper Lee
+- libros
+- Matar a un ruiseñor
 ---
+
+# Libro: Matar a un ruiseñor
 
 [Matar a un ruiseñor](http://es.wikipedia.org/wiki/Matar_un_ruise%C3%B1or) es una de las entradas de la wikipedia sobre un libro más largas que he leído. Creo que el libro ha crecido con esa mitificación que tienen los [escritores de novela única](http://www.finanzas.com/xl-semanal/firmas/20120108/magazine-firmas-animales-compania-585.html) animada con las [teorías conspiranoicas de haber sido escrito por Truman Capote](http://www.rjellory.com/an-interesting-slant-on-the-truman-capoteharper-lee-relationship-by-norman-mailer/), amigo de la autora.
 

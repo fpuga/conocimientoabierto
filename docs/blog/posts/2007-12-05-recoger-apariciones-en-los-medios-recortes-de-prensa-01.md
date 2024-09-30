@@ -1,21 +1,15 @@
 ---
-id: 31
-title: 'Recoger apariciones en los medios (recortes de prensa 01)'
-date: '2007-12-05T19:28:00+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/recoger-apariciones-en-los-medios-recortes-de-prensa-01/31/'
-permalink: /recoger-apariciones-en-los-medios-recortes-de-prensa-01/31/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2007/12/recoger-apariciones-en-los-medios.html
 categories:
-    - comunicacion
-    - comunicaciong
-    - receta
-    - 'tercer sector'
+- comunicacion
+- comunicaciong
+- receta
+- tercer sector
+date: 2007-12-05
+permalink: /recoger-apariciones-en-los-medios-recortes-de-prensa-01/31/
+slug: recoger-apariciones-en-los-medios-recortes-de-prensa-01
 ---
+
+# Recoger apariciones en los medios (recortes de prensa 01)
 
 La mayoría de las organizaciones dedican bastantes esfuerzos a hacer que sus acciones aparezcan en los medios de comunicación tradicionales. Pero creo que muchas de ellas descuidan la forma en la que después se recopilan estas apariciones. Recoger los recortes de prensa en los que aparezca citada nuestra organización o una actividad en la que participemos puede ser muy útil:
 

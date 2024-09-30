@@ -1,20 +1,18 @@
 ---
-id: 924
-title: 'Porqué creo que es útil discutir de Tabuladores y Espacios'
-date: '2017-08-15T11:18:04+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=924'
-permalink: /porque-creo-que-es-util-discutir-de-tabuladores-y-espacios/924/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2017-08-15
+permalink: /porque-creo-que-es-util-discutir-de-tabuladores-y-espacios/924/
+slug: porque-creo-que-es-util-discutir-de-tabuladores-y-espacios
 tags:
-    - comunidad
-    - consenso
-    - 'desarrollo sofware'
-    - 'estilo de código'
-    - poss
+- comunidad
+- consenso
+- desarrollo sofware
+- estilo de código
+- poss
 ---
+
+# Porqué creo que es útil discutir de Tabuladores y Espacios
 
 Discutir de tabuladores y espacios es <del>importante</del> útil.
 

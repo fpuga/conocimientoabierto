@@ -1,17 +1,15 @@
 ---
-id: 280
-title: 'Teatro: Sexos'
-date: '2011-01-17T22:44:38+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=280'
-permalink: /teatro-sexos/280/
 categories:
-    - General
+- General
+date: 2011-01-17
+permalink: /teatro-sexos/280/
+slug: teatro-sexos
 tags:
-    - '2011'
-    - teatro
+- '2011'
+- teatro
 ---
+
+# Teatro: Sexos
 
 Ayer estuve en el centro cultural Garcia Barbón viendo la obra [Sexos](http://www.europapress.es/madrid/noticia-sexos-teatro-latina-sexos-20090904134155.html). Los actores son Pepón Nieto, Adriana Ozores, Neus Sanz y Federico Celada que en los últimos tiempos han actuado en [Los hombres de Paco](http://www.antena3.com/series/los-hombres-de-paco/)) y Anabel Alonso, [7 Vidas](http://www.7vidas.telecinco.es/).
 

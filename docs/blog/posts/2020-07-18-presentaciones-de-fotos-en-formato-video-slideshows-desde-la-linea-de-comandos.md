@@ -1,18 +1,16 @@
 ---
-id: 1004
-title: 'Presentaciones de fotos en formato vídeo (slideshows) desde la línea de comandos'
-date: '2020-07-18T11:00:52+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=1004'
-permalink: /presentaciones-de-fotos-en-formato-video-slideshows-desde-la-linea-de-comandos/1004/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2020-07-18
+permalink: /presentaciones-de-fotos-en-formato-video-slideshows-desde-la-linea-de-comandos/1004/
+slug: presentaciones-de-fotos-en-formato-video-slideshows-desde-la-linea-de-comandos
 tags:
-    - linux
-    - receta
-    - vídeo
+- linux
+- receta
+- vídeo
 ---
+
+# Presentaciones de fotos en formato vídeo (slideshows) desde la línea de comandos
 
 Hace ya algunos años apareció en este blog como [hacer presentaciones de fotos en formato vídeo](http://conocimientoabierto.es/hacer-presentaciones-de-fotos-en-formato-video/35/). A pesar de que hay muchos programas buenos para editar vídeo en GNU/Linux, esta vez quería tener un proceso sencillo y fácilmente replicable aún a costa de perder un poco de calidad o efectos (como degradado entre imágenes, …).
 

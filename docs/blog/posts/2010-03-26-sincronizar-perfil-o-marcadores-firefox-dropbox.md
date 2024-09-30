@@ -1,22 +1,20 @@
 ---
-id: 220
-title: 'Sincronizar el perfil o los marcadores de Firefox mediante dropbox'
-date: '2010-03-26T00:35:20+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=220'
-permalink: /sincronizar-perfil-o-marcadores-firefox-dropbox/220/
 categories:
-    - General
+- General
+date: 2010-03-26
+permalink: /sincronizar-perfil-o-marcadores-firefox-dropbox/220/
+slug: sincronizar-perfil-o-marcadores-firefox-dropbox
 tags:
-    - backup
-    - como
-    - dropbox
-    - firefox
-    - 'how to'
-    - receta
-    - sincronizar
+- backup
+- como
+- dropbox
+- firefox
+- how to
+- receta
+- sincronizar
 ---
+
+# Sincronizar el perfil o los marcadores de Firefox mediante dropbox
 
 Cuando de manera habitual usas más de un ordenador mantener la misma configuración en ambos acaba siendo problemático. Una de las cosas que más echo de menos desde que he dejado de usar mi portátil personal en el trabajo es poder sincronizar los marcadores de Firefox.
 

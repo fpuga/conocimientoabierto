@@ -1,17 +1,15 @@
 ---
-id: 442
-title: 'Deducción por vivienda'
-date: '2012-01-07T15:05:54+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=442'
-permalink: /deduccion-por-vivienda/442/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2012-01-07
+permalink: /deduccion-por-vivienda/442/
+slug: deduccion-por-vivienda
 tags:
-    - economia
-    - vivienda
+- economia
+- vivienda
 ---
+
+# Deducción por vivienda
 
 Me ha parecido bastante interesante este artículo que he leído sobre la [deducción por compra de vivienda](http://www.fedeablogs.net/economia/?p=17288) así que copio&amp;pego aquí lo más interesante añadiendo algún comentario de cosecha propia.
 

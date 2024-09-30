@@ -1,18 +1,12 @@
 ---
-id: 27
-title: 'Manifestación contra a pobreza [Vigo]'
-date: '2007-10-17T16:55:00+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/manifestacion-contra-a-pobreza-vigo/27/'
-permalink: /manifestacion-contra-a-pobreza-vigo/27/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2007/10/manifestacin-contra-pobreza-vigo.html
 categories:
-    - General
+- General
+date: 2007-10-17
+permalink: /manifestacion-contra-a-pobreza-vigo/27/
+slug: manifestacion-contra-a-pobreza-vigo
 ---
+
+# Manifestación contra a pobreza [Vigo]
 
 [![Cartel Pobreza Cero 2007](http://farm3.static.flickr.com/2386/1600121547_f511741adb_m.jpg)](http://www.flickr.com/photos/fpuga/1600121547/ "Intercambio de fotos")O próximo domingo 21 unha manifestación percorrerá as rúas de Vigo para <span style="font-style: italic">rebelarse contra a pobreza</span> e <span style="font-style: italic">esixir máis feitos e menos palabras</span>. A manifestación partirá as 12:00 da Praza de América e está organizada polo Foro Social Galicia Sur.
 

@@ -1,24 +1,22 @@
 ---
-id: 898
-title: 'Recargar el navegador desde Emacs'
-date: '2017-05-21T12:41:45+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=898'
-permalink: /recargar-el-navegador-desde-emacs/898/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2017-05-21
+permalink: /recargar-el-navegador-desde-emacs/898/
+slug: recargar-el-navegador-desde-emacs
 tags:
-    - como
-    - css
-    - 'desarrollo web'
-    - emacs
-    - herramientas
-    - html
-    - IDE
-    - javascript
-    - tutorial
+- como
+- css
+- desarrollo web
+- emacs
+- herramientas
+- html
+- IDE
+- javascript
+- tutorial
 ---
+
+# Recargar el navegador desde Emacs
 
 Aunque Emacs no suele aparecer entre los editores preferidos para desarrollo web sigue teniendo opciones que lo hacen interesante.
 

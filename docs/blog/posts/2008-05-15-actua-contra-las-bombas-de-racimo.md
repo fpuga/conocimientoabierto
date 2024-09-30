@@ -1,20 +1,14 @@
 ---
-id: 41
-title: 'Actúa contra las bombas de racimo'
-date: '2008-05-15T17:30:00+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/actua-contra-las-bombas-de-racimo/41/'
-permalink: /actua-contra-las-bombas-de-racimo/41/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2008/05/hace-un-par-de-meses-se-hablo-en-este.html
 categories:
-    - 'bombas de racimo'
-    - ciberactivismo
-    - politica
+- bombas de racimo
+- ciberactivismo
+- politica
+date: 2008-05-15
+permalink: /actua-contra-las-bombas-de-racimo/41/
+slug: actua-contra-las-bombas-de-racimo
 ---
+
+# Actúa contra las bombas de racimo
 
 <div style="text-align: justify">[![](http://farm2.static.flickr.com/1160/1458025170_272d233eac.jpg)](http://www.flickr.com/photos/fpuga/1458025170/ "photo sharing")Hace un par de meses [se hablo en este blog](http://conocimientoabierto.blogspot.com/2007/09/di-no-las-bombas-de-racimo.html) de la campaña <span style="font-weight: bold">Di no a las bombas de racimo</span>. Cuando escribí aquel post parecía que el Gobierno español tras la presión ejercida por ciudadanos y ONG se posicionaría claramente en contra del uso de este clase de armamento. Pero como nos recuerda [Francisco Polo](http://www.franciscopolo.com/depende-de-ti/trackback) todavía no está todo hecho. Hoy, a tres días de que comience la [negociación final](http://www.stopclustermunitions.org/news.asp?id=134) de un tratado internacional que prohíba las bombas de racimo la [postura del gobierno es demasiado tibia](http://www.publico.es/081712/espana/resiste/acabar/bombas/racimo). Si todavía no sabes que son las bombas de racimo navega por el blog de la campaña empezando por [aquí](http://dinoalasbombasderacimo.com/?page_id=23) o por la página de [Greenpeace sobre el tema](http://www.greenpeace.org/espana/bombas-de-racimo/bombas-de-racimo). Si quieres conocer sus consecuencias mira [estas fotos](http://www.greenpeace.org/espana/photosvideos/slideshows/bombas-de-racimo?page=1).
 

@@ -1,18 +1,12 @@
 ---
-id: 22
-title: 'Ciberactivismo de cartón'
-date: '2007-09-17T16:35:00+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/ciberactivismo-de-carton/22/'
-permalink: /ciberactivismo-de-carton/22/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2007/09/ciberactivismo-de-cartn.html
 categories:
-    - General
+- General
+date: 2007-09-17
+permalink: /ciberactivismo-de-carton/22/
+slug: ciberactivismo-de-carton
 ---
+
+# Ciberactivismo de cartón
 
 No me gustan los mails en cadena ni ese rollo blogueril al que se le suele llamar (de forma incorrecta a pesar de que lo use todo el mundo) [meme.](http://es.wikipedia.org/wiki/Meme)
 

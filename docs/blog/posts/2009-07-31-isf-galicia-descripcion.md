@@ -1,14 +1,12 @@
 ---
-id: 119
-title: 'ISF Galicia modifica su descripción'
-date: '2009-07-31T13:38:22+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=119'
-permalink: /isf-galicia-descripcion/119/
 categories:
-    - General
+- General
+date: 2009-07-31
+permalink: /isf-galicia-descripcion/119/
+slug: isf-galicia-descripcion
 ---
+
+# ISF Galicia modifica su descripción
 
 Cansados de aburridas descripciones de ONGs que empiezan por
 

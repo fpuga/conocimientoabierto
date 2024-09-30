@@ -1,20 +1,18 @@
 ---
-id: 189
-title: '[Vigo] Dúas actividades para o martes 29'
-date: '2009-12-28T19:08:56+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=189'
-permalink: /vigo-actividades-martes-29/189/
 categories:
-    - General
+- General
+date: 2009-12-28
+permalink: /vigo-actividades-martes-29/189/
+slug: vigo-actividades-martes-29
 tags:
-    - 'arcadi oliveres'
-    - concierto
-    - conferencia
-    - decrecimiento
-    - rsgs
+- arcadi oliveres
+- concierto
+- conferencia
+- decrecimiento
+- rsgs
 ---
+
+# [Vigo] Dúas actividades para o martes 29
 
 Todos sabemos que o nadal é unha época na que as ONG aproveitan o espíritu destas festas para incrementar as súas campañas de captación de fondos e sensibilización. Ben sei que hai moita xente que recela destas campañas navideñas por consideralas <span style="font-style: italic">aproveitadas</span>, inda así correrei o risco de promocionar algúns actos, ben porque sei que son desinteresados, ben porque coñezo aos organizadores e estou seguro de que van a estar ben.
 

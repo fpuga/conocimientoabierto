@@ -1,20 +1,18 @@
 ---
-id: 360
-title: 'Comentario sobre el diseño de bases de datos PostGIS'
-date: '2011-06-17T17:09:54+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=360'
-permalink: /comentario-diseno-bases-de-datos-postgis/360/
 categories:
-    - General
+- General
+date: 2011-06-17
+permalink: /comentario-diseno-bases-de-datos-postgis/360/
+slug: comentario-diseno-bases-de-datos-postgis
 tags:
-    - 'base de datos'
-    - cartolab
-    - gis
-    - postgis
-    - sistemas
+- base de datos
+- cartolab
+- gis
+- postgis
+- sistemas
 ---
+
+# Comentario sobre el diseño de bases de datos PostGIS
 
 Un par de comentarios muy rápidso sobre una práctica que considero acertada a la hora del diseño con bases de datos PostGIS.
 

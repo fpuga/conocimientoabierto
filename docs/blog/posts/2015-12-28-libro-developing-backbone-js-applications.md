@@ -1,20 +1,18 @@
 ---
-id: 837
-title: 'Libro: Developing Backbone.js Applications'
-date: '2015-12-28T17:21:32+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=837'
-permalink: /libro-developing-backbone-js-applications/837/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2015-12-28
+permalink: /libro-developing-backbone-js-applications/837/
+slug: libro-developing-backbone-js-applications
 tags:
-    - addyosmani
-    - backbonejs
-    - 'desarrollo sofware'
-    - 'desarrollo web'
-    - libros
+- addyosmani
+- backbonejs
+- desarrollo sofware
+- desarrollo web
+- libros
 ---
+
+# Libro: Developing Backbone.js Applications
 
 He terminado de releer estos días [Developing Backbone.js Applications](http://addyosmani.com/backbone-fundamentals/), escrito fundamentalmente por [Addy Osmani](http://addyosmani.com/) con la colaboración de más gente vía pull-requests en github. Los primeros capítulos del libro (Introduction, Fundamentals, Basics) se leen muy rápido y dan una buena idea, no sólo de como usar backbone si no de porqué usar un framework MVC.
 

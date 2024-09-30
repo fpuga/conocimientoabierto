@@ -1,20 +1,14 @@
 ---
-id: 56
-title: 'No somos nosotros, es el Banco'
-date: '2009-01-12T16:38:00+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/no-somos-nosotros-es-el-banco/56/'
-permalink: /no-somos-nosotros-es-el-banco/56/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2009/01/no-somos-nosotros-es-el-banco.html
 categories:
-    - economia
-    - globalizacion
-    - literatura
+- economia
+- globalizacion
+- literatura
+date: 2009-01-12
+permalink: /no-somos-nosotros-es-el-banco/56/
+slug: no-somos-nosotros-es-el-banco
 ---
+
+# No somos nosotros, es el Banco
 
 Y entonces el inquilino se irguió airado. El abuelo tomó la tierra y tuvo que matar a los indios y expulsarlos de allí. Y el padre nació allí y hubo que quitar malezas y matar culebras. Luego vino un año malo y tuvo que solicitar un pequeño préstamo.
 

@@ -1,23 +1,21 @@
 ---
-id: 637
-title: 'Libro: Tropas del espacio'
-date: '2013-12-08T14:00:58+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=637'
-permalink: /libro-tropas-del-espacio/637/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2013-12-08
+permalink: /libro-tropas-del-espacio/637/
+slug: libro-tropas-del-espacio
 tags:
-    - 'asuntos militares'
-    - 'ciencia ficción'
-    - 'derecho al voto'
-    - educación
-    - libros
-    - 'Robert A. Heinlein'
-    - 'space opera'
-    - 'tropas del espacio'
+- asuntos militares
+- ciencia ficción
+- derecho al voto
+- educación
+- libros
+- Robert A. Heinlein
+- space opera
+- tropas del espacio
 ---
+
+# Libro: Tropas del espacio
 
 He acabado de releer estos días [Tropas del Espacio](http://es.wikipedia.org/wiki/Starship_Troopers_(novela)), ganadora del premio Hugo a la mejor novela en 1960. Es una mezcla entre *space opera* y *cadete espacial* de tinte bastante militarista que ha generado [rios de tinta y bits](http://rescepto.wordpress.com/2012/03/28/tropas-del-espacio/). Para mi la mayor crítica al libro, cada cual puede tener sus ideas, es el tono adoctrinador de la novela, con largos *flashbacks* que te desconectan del hilo principal, muy distinto, por ejemplo al estilo [Stephenson](http://conocimientoabierto.es/la-era-del-diamante-ciencia-ficcion/519/) que trata al lector como alguien inteligente donde el proceso reflexivo va implícito en la historia.
 

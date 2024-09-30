@@ -1,19 +1,13 @@
 ---
-id: 34
-title: 'Imágenes del año 2007 por reuters'
-date: '2008-01-10T16:45:00+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/imagenes-del-ano-2007-por-reuters/34/'
-permalink: /imagenes-del-ano-2007-por-reuters/34/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2008/01/imgenes-del-ao-2007-por-reuters.html
 categories:
-    - cultura
-    - intimo
+- cultura
+- intimo
+date: 2008-01-10
+permalink: /imagenes-del-ano-2007-por-reuters/34/
+slug: imagenes-del-ano-2007-por-reuters
 ---
+
+# Imágenes del año 2007 por reuters
 
 Los comienzos de año siempre traen reflexiones, toca hacer balances y nuevos propósitos. Algunos de mis blogers favoritos como [Andrés](http://obazardenes.blogaliza.org/2008-o-ano-do-software-libre/) y [Olga](http://www.labroma.org/blog/wp-trackback.php?p=1578) están en ello, pero sinceramente, yo en este momento no tengo ningunas ganas de hacerlo. En menos de dos meses saldré por primera vez del nido familiar para disfrutar de una beca erasmus en [Praga](http://www.flickr.com/search/?w=all&q=praga&m=tags), y no me apetece pensar mucho en ello, porque no pensar es la forma más fácil de que no me entre el miedo, al menos eso espero.
 

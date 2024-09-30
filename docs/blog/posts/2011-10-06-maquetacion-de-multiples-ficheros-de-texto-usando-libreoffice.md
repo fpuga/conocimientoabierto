@@ -1,20 +1,18 @@
 ---
-id: 396
-title: 'Maquetación de múltiples ficheros de texto usando LibreOffice'
-date: '2011-10-06T13:02:57+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=396'
-permalink: /maquetacion-de-multiples-ficheros-de-texto-usando-libreoffice/396/
 categories:
-    - General
+- General
+date: 2011-10-06
+permalink: /maquetacion-de-multiples-ficheros-de-texto-usando-libreoffice/396/
+slug: maquetacion-de-multiples-ficheros-de-texto-usando-libreoffice
 tags:
-    - como
-    - 'how to'
-    - 'identidad corporativa'
-    - libreoffice
-    - ofimática
+- como
+- how to
+- identidad corporativa
+- libreoffice
+- ofimática
 ---
+
+# Maquetación de múltiples ficheros de texto usando LibreOffice
 
 [Cartolab](http://cartolab.udc.es) está colaborando con [Ingeniería Sin Fronteras](http://www.isf.es) en un proyecto financiado por la [Xunta de Galicia](http://www.xunta.es/) para la elaboración de materiales para un curso de Sistemas de Información Geográfica y Cooperación al Desarrollo. En la elaboración del curso tenemos la suerte de colaborar también con [iCarto](http://icarto.es/) y con el [Laborate](http://laborate.usc.es/es/). Además el [SIGTE](http://www.sigte.udg.edu/sigte_es/) se encarga de revisar el trabajo y poner la plataforma de teleformación. Gracias a todos ellos por hacer posible este artículo.
 

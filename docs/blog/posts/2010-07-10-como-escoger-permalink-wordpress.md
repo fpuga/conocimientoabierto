@@ -1,21 +1,19 @@
 ---
-id: 238
-title: 'Como escoger el permalink en WordPress'
-date: '2010-07-10T14:51:10+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=238'
-permalink: /como-escoger-permalink-wordpress/238/
 categories:
-    - General
+- General
+date: 2010-07-10
+permalink: /como-escoger-permalink-wordpress/238/
+slug: como-escoger-permalink-wordpress
 tags:
-    - como
-    - 'how to'
-    - permalinks
-    - rendimiento
-    - seo
-    - wordpress
+- como
+- how to
+- permalinks
+- rendimiento
+- seo
+- wordpress
 ---
+
+# Como escoger el permalink en WordPress
 
 Escribí este texto en Mayo de 2009, pero tantas vueltas quería darle para que quedara perfecto, que al final nunca llego a ver la luz. He aprovechado la salida de la nueva versión de WordPress para comprobar si aún tenía vigencia, y a pesar de que [parece que se va a solucionar en breve](http://core.trac.wordpress.org/ticket/12935) por ahora este post sigue siendo correcto.. Así que sin darle más vueltas ahí va. Un batiburrillo de conocimientos sobre posicionamiento en buscadores (SEO), rendimiento de wordpress y permalinks.
 

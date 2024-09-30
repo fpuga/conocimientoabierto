@@ -1,18 +1,12 @@
 ---
-id: 45
-title: 'La prohibición de las bombas de racimo está muy cerca'
-date: '2008-05-29T15:28:00+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/la-prohibicion-de-las-bombas-de-racimo-esta-muy-cerca/45/'
-permalink: /la-prohibicion-de-las-bombas-de-racimo-esta-muy-cerca/45/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2008/05/la-prohibicin-de-las-bombas-de-racimo.html
 categories:
-    - General
+- General
+date: 2008-05-29
+permalink: /la-prohibicion-de-las-bombas-de-racimo-esta-muy-cerca/45/
+slug: la-prohibicion-de-las-bombas-de-racimo-esta-muy-cerca
 ---
+
+# La prohibición de las bombas de racimo está muy cerca
 
 Parece ser que al final se ha conseguido hacer avances muy significativos en las conferencias de Dublin y las bombas de racimo serán finalmente prohibidas.
 

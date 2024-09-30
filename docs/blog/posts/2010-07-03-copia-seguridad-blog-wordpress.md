@@ -1,22 +1,20 @@
 ---
-id: 229
-title: 'Copia de seguridad de un blog en WordPress'
-date: '2010-07-03T16:46:53+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=229'
-permalink: /copia-seguridad-blog-wordpress/229/
 categories:
-    - General
+- General
+date: 2010-07-03
+permalink: /copia-seguridad-blog-wordpress/229/
+slug: copia-seguridad-blog-wordpress
 tags:
-    - backup
-    - bash
-    - como
-    - 'how to'
-    - receta
-    - script
-    - wordpress
+- backup
+- bash
+- como
+- how to
+- receta
+- script
+- wordpress
 ---
+
+# Copia de seguridad de un blog en WordPress
 
 Resulta conveniente realizar con regularidad una copia de seguridad de la información que tengamos en nuestro blog. Este backup deberíamos hacerlo como mínimo antes de una actualización importante del blog, por ejemplo antes de [migrar de WordPress 2.x a la versión 3](http://wordpress3-es.com/como-actualizar-wordpress-3-por-ftp/).
 

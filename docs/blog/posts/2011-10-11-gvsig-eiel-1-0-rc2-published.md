@@ -1,17 +1,15 @@
 ---
-id: 406
-title: 'gvSIG-EIEL 1.0 RC2 Published'
-date: '2011-10-11T22:13:06+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=406'
-permalink: /gvsig-eiel-1-0-rc2-published/406/
 categories:
-    - General
+- General
+date: 2011-10-11
+permalink: /gvsig-eiel-1-0-rc2-published/406/
+slug: gvsig-eiel-1-0-rc2-published
 tags:
-    - cartolab
-    - gvsig
+- cartolab
+- gvsig
 ---
+
+# gvSIG-EIEL 1.0 RC2 Published
 
 Last week, [Cartolab](http://cartolab.udc.es), the university lab where i work, released a new version of [gvSIG-EIEL](cartolab.udc.es/cartoweb/gvsig-eiel).
 

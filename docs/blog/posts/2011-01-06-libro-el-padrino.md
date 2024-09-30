@@ -1,20 +1,18 @@
 ---
-id: 253
-title: 'Libro: El Padrino'
-date: '2011-01-06T13:53:30+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=253'
-permalink: /libro-el-padrino/253/
 categories:
-    - General
+- General
+date: 2011-01-06
+permalink: /libro-el-padrino/253/
+slug: libro-el-padrino
 tags:
-    - 'el padrino'
-    - file
-    - libros
-    - mafia
-    - 'mario puzo'
+- el padrino
+- file
+- libros
+- mafia
+- mario puzo
 ---
+
+# Libro: El Padrino
 
 <div style="float:left;margin-right:2em"></div>Me quedo con una sensación agridulce después de leer [El Padrino](http://es.wikipedia.org/wiki/El_Padrino_%28novela%29). Ya había leído hace tiempo otro libro de [Mario Puzo](http://es.wikipedia.org/wiki/Mario_Puzo) y la sensación había sido la misma. El Padrino es un libro con ritmo, bien escrito, entretenido y fácil de leer que te adentra en un mundo interesante como es el de la [Mafia](http://es.wikipedia.org/wiki/Mafia), pero [se queda corto](http://www.elpais.com/articulo/reportajes/Amante/ganster/querida/obispo/elpepusocdmg/20101010elpdmgrep_7/Tes) y al menos a mi no llega a emocionarme.
 

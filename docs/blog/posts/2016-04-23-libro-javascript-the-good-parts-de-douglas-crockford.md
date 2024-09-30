@@ -1,20 +1,18 @@
 ---
-id: 858
-title: 'Libro: JavaScript: The Good Parts de Douglas Crockford'
-date: '2016-04-23T19:42:33+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=858'
-permalink: /libro-javascript-the-good-parts-de-douglas-crockford/858/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2016-04-23
+permalink: /libro-javascript-the-good-parts-de-douglas-crockford/858/
+slug: libro-javascript-the-good-parts-de-douglas-crockford
 tags:
-    - 'análisis estático de código'
-    - desarrollo
-    - 'desarrollo web'
-    - javascript
-    - libros
+- análisis estático de código
+- desarrollo
+- desarrollo web
+- javascript
+- libros
 ---
+
+# Libro: JavaScript: The Good Parts de Douglas Crockford
 
 A pesar de que Crockford tiene un estilo de comunicación bastante peculiar, [demasiado agresivo](https://medium.com/@valueof/why-i-forked-jslint-to-jshint-73a72fd3612#.y8jj84ixx), para mi gusto, tenía bastantes expectativas puestas en este libro, que al final no se cumplieron.
 

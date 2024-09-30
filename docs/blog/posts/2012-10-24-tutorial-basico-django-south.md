@@ -1,20 +1,18 @@
 ---
-id: 493
-title: 'Tutorial básico de django south'
-date: '2012-10-24T15:29:34+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=493'
-permalink: /tutorial-basico-django-south/493/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2012-10-24
+permalink: /tutorial-basico-django-south/493/
+slug: tutorial-basico-django-south
 tags:
-    - 'desarrollo sofware'
-    - django
-    - south
-    - tutorial
-    - web
+- desarrollo sofware
+- django
+- south
+- tutorial
+- web
 ---
+
+# Tutorial básico de django south
 
 [South](http://south.aeracode.org/) es una app de [django](https://www.djangoproject.com/) que permite modificar la estructura de la base de datos de una aplicación django cuando cambiamos el modelo *(models.py)*.
 

@@ -1,18 +1,16 @@
 ---
-id: 444
-title: 'Parad la SOPA'
-date: '2012-01-18T09:43:04+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=444'
-permalink: /parad-la-sopa/444/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2012-01-18
+permalink: /parad-la-sopa/444/
+slug: parad-la-sopa
 tags:
-    - activismo
-    - 'software libre'
-    - SOPA
+- activismo
+- software libre
+- SOPA
 ---
+
+# Parad la SOPA
 
 [SOPA](http://www.michaelgeist.ca/content/view/6244/125/) es una ley que pretende aprobar el gobierno de EEUU manifiestamente en contra de la libertad en internet. Libertad con mayúsculas a fin de cuentas, puesto que lo digital es sólo otra parte más de nuestras vidas.
 

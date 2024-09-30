@@ -1,19 +1,17 @@
 ---
-id: 391
-title: 'Python Scripting for Students of Remote Sensing'
-date: '2011-10-02T17:14:35+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=391'
-permalink: /python-scripting-for-students-of-remote-sensing/391/
 categories:
-    - General
+- General
+date: 2011-10-02
+permalink: /python-scripting-for-students-of-remote-sensing/391/
+slug: python-scripting-for-students-of-remote-sensing
 tags:
-    - 'desarrollo sofware'
-    - python
-    - teledetección
-    - tutorial
+- desarrollo sofware
+- python
+- teledetección
+- tutorial
 ---
+
+# Python Scripting for Students of Remote Sensing
 
 [Python Scripting for Students of Remote Sensing](http://www.landmap.ac.uk/index.php/Learning-Materials/Python-Scripting/Python-Scripting-for-Students-of-Remote-Sensing/menu-id-100767.html) es un manual de python orientado a la teledetección. Si no sabes nada de python es mejor empezar por otro manual y luego saltar directamente al capítulo 5, «Plottin». La parte de python en sí es muy básica y no está muy bien explicada. Del capítulo 5 al 10 se muestran algunas librerías interesantes de python para mostrar gráficos (matplotlib), para estadística y calculos científicos (numpy), para procesado de raster (gdal), o ejemplos sencillos de trabajo con datos lidar en ficheros ascii. La información que dan es bastante escueta, pero si ya conoces python en un par de horas puedes leerlo para hacerte una idea de que posibilidades hay en estos campos.
 

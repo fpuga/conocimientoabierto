@@ -1,19 +1,13 @@
 ---
-id: 52
-title: 'Globalización es'
-date: '2008-12-14T21:30:00+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/globalizacion-es/52/'
-permalink: /globalizacion-es/52/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2008/12/globalizacin-es.html
 categories:
-    - economia
-    - globalizacion
+- economia
+- globalizacion
+date: 2008-12-14
+permalink: /globalizacion-es/52/
+slug: globalizacion-es
 ---
+
+# Globalización es
 
 Globalización es que una [compañía](http://en.wikipedia.org/wiki/Citigroup) con sede en Nueva York que acaba de ser [rescatada ](http://www.nytimes.com/2008/11/24/business/24citibank.html?_r=2)con el dinero público aportado por los estadounidenses compre una autopista gallega perteneciente a una [empresa](http://es.wikipedia.org/wiki/Sacyr_Vallehermoso) (Sacyr) con sede en Madrid que por culpa de sus deudas (de [19.726 millones de euros)](http://www.lavanguardia.es/economia/noticias/20081201/53590636013/sacyr-reduce-su-deuda-en-un-37-con-la-venta-de-itinere-a-citigroup-por-7.887-millones.html) tenga además que vender su participación en la mayor energética española (española-argentina más bien) a una [empresa privada pero sospechosa](http://www.publico.es/espana/176260/cni/alerta/venta/repsol) de ser usada por el gobierno ruso para [presionar politicamente](http://es.wikipedia.org/wiki/Disputa_de_gas_entre_Rusia_y_Ucrania).
 

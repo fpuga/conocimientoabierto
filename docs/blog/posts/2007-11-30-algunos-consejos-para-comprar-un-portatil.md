@@ -1,25 +1,19 @@
 ---
-id: 30
-title: 'Algunos consejos para comprar un portátil'
-date: '2007-11-30T00:25:00+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/algunos-consejos-para-comprar-un-portatil/30/'
-permalink: /algunos-consejos-para-comprar-un-portatil/30/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2007/11/algunos-consejos-para-comprar-un.html
 categories:
-    - drivers
-    - linux
-    - migracion
-    - portatil
+- drivers
+- linux
+- migracion
+- portatil
+date: 2007-11-30
+permalink: /algunos-consejos-para-comprar-un-portatil/30/
+slug: algunos-consejos-para-comprar-un-portatil
 tags:
-    - 'comprar portátil'
-    - hardware
-    - recomendaciones
+- comprar portátil
+- hardware
+- recomendaciones
 ---
+
+# Algunos consejos para comprar un portátil
 
 Como comenté voy a tratar de dar una serie de consejos a la hora de comprar un portátil e [instalarle linux](http://www.linux-on-laptops.com/). La primera decisión a tomar a la hora de comprar un ordenador debe ser en que horquilla de precios vamos a movernos. Particularmente considero que cualquier portátil de entre 700 y 1000€ debería satisfacer las necesidades de la mayoría de la gente por un período de unos 4 años. Invertir más dinero no significa necesariamente que el portátil nos vaya a durar mucho más tiempo, sino que obtendremos algunas características adicionales o servicios de valor añadido proporcionados por el fabricante.
 

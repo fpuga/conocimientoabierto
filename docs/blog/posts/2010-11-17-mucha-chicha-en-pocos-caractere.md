@@ -1,18 +1,16 @@
 ---
-id: 260
-title: 'Mucha chicha en pocos caracteres'
-date: '2010-11-17T23:06:53+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=260'
-permalink: /mucha-chicha-en-pocos-caractere/260/
 categories:
-    - General
+- General
+date: 2010-11-17
+permalink: /mucha-chicha-en-pocos-caractere/260/
+slug: mucha-chicha-en-pocos-caractere
 tags:
-    - enlaces
-    - mapas
-    - mitos
+- enlaces
+- mapas
+- mitos
 ---
+
+# Mucha chicha en pocos caracteres
 
 Durante mi estancia de Erasmus en Praga cogí la costumbre de enviar un correo-e a alguna gente contando como me había ido la semana. A la vuelta, ese correo cambió de temática para, convirtiéndose en una forma de compartir enlaces curiosos que encontraba en la red. Desde que entré en [Cartolab](http://cartolab.udc.es/) y abrí cuenta en [identi.ca](http://identi.ca/fpuga/) perdí esa costumbre. La semana pasada varias personas me comentaron que ya no escribía esos mails así que probaré a reconvertir esa costumbre a escribir en el blog, una especie de [bocados de actualidad](http://www.versvs.net/categorias/bocados-actualidad) o [cosas que hacer en sábado cuando no estás muerto](http://www.guerraeterna.com/archives/2010/11/cosas_que_hacer_152.html).
 

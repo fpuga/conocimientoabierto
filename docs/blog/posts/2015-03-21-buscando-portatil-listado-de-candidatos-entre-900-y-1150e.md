@@ -1,19 +1,17 @@
 ---
-id: 773
-title: 'Buscando un portátil &#8211; Listado de candidatos entre 900 y 1150€'
-date: '2015-03-21T18:47:27+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=773'
-permalink: /buscando-portatil-listado-de-candidatos-entre-900-y-1150e/773/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2015-03-21
+permalink: /buscando-portatil-listado-de-candidatos-entre-900-y-1150e/773/
+slug: buscando-portatil-listado-de-candidatos-entre-900-y-1150e
 tags:
-    - 'comprar portátil'
-    - hardware
-    - portátil
-    - recomendaciones
+- comprar portátil
+- hardware
+- portátil
+- recomendaciones
 ---
+
+# Buscando un portátil &#8211; Listado de candidatos entre 900 y 1150€
 
 Decidido el tipo de procesador que queremos, podemos echar una ojeada a las páginas de distintas tiendas.
 

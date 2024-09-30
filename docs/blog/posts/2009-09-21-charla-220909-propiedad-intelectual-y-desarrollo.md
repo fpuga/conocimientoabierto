@@ -1,14 +1,12 @@
 ---
-id: 164
-title: 'Charla 22/09/09: Propiedad intelectual y desarrollo'
-date: '2009-09-21T11:00:14+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=164'
-permalink: /charla-220909-propiedad-intelectual-y-desarrollo/164/
 categories:
-    - General
+- General
+date: 2009-09-21
+permalink: /charla-220909-propiedad-intelectual-y-desarrollo/164/
+slug: charla-220909-propiedad-intelectual-y-desarrollo
 ---
+
+# Charla 22/09/09: Propiedad intelectual y desarrollo
 
 Mañana día 22 doy una charla en el curso de extensión universitaria «[Un mundo desigual: Retos y Perspectivas](http://extension.uvigo.es/contidos/documentos/cursos_obradoiros_0809/folleto_cursos09_504.pdf)«\[PDF- 5MB\]. La ponencia se titula «Propiedad intelectual y desarrollo», y aún estoy dándole los últimos ajustes pero la línea principal es la de esta presentación:
 

@@ -1,20 +1,14 @@
 ---
-id: 26
-title: 'Blog Action Day: Cosas fáciles'
-date: '2007-10-15T10:19:00+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/blog-action-day-cosas-faciles/26/'
-permalink: /blog-action-day-cosas-faciles/26/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2007/10/blog-action-day-cosas-fciles.html
 categories:
-    - 'blog action day'
-    - ecologia
-    - receta
+- blog action day
+- ecologia
+- receta
+date: 2007-10-15
+permalink: /blog-action-day-cosas-faciles/26/
+slug: blog-action-day-cosas-faciles
 ---
+
+# Blog Action Day: Cosas fáciles
 
 A lo largo del día de hoy, leereis la frase «[Blog Action Day](http://blogactionday.org/)» muchas veces. De hecho a las 10:21 de la mañana, technorati arroja [733 resultados](http://www.technorati.com/posts/tag/%22blog+action+day%22) buscando la frase entre comillas. El blog action day consiste en que todos los bloggers que se anoten escriban el día de hoy acerca del medio ambiente, había pensando en escribir algo acerca del medio ambiente como aspecto transversal en cooperación, pero tras el primer párrafo me di cuenta que no dominaba el tema lo suficiente. Así que prefiero optar por las actitudes individuales. ¿Que hago yo para defender el medio ambiente?. La lista que sigue son cosas muy sencillas, que estoy redactando sobre la marcha, animaros a escribir las cosas cotidianas que haceis que considerais positivas (o negativas):
 

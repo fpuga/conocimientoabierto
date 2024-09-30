@@ -1,20 +1,14 @@
 ---
-id: 7
-title: 'Cambiar permisos de forma recursiva y selectiva'
-date: '2007-03-12T15:53:00+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/cambiar-permisos-de-forma-recursiva-y-selectiva/4/'
-permalink: /cambiar-permisos-de-forma-recursiva-y-selectiva/7/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2007/03/cambiar-permisos-de-forma-recursiva-y.html
 categories:
-    - migracion
-    - scripting
-    - shell
+- migracion
+- scripting
+- shell
+date: 2007-03-12
+permalink: /cambiar-permisos-de-forma-recursiva-y-selectiva/7/
+slug: cambiar-permisos-de-forma-recursiva-y-selectiva
 ---
+
+# Cambiar permisos de forma recursiva y selectiva
 
 Por culpa de un modem con drivers propietarios (y mi ineptitud para instalar unos libres) llevaba unos 6 meses usando Windows. En otro artículo hablaré de mi odisea particular con los drivers, pero en este quiero hablar de uno de los problemas que nos asaltan cuando migramos de sistema operativo, traspasar los datos que tengamos almacenados en el antiguo sistema al nuevo.
 

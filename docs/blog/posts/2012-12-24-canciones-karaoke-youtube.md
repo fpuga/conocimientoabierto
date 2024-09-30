@@ -1,22 +1,20 @@
 ---
-id: 511
-title: 'Canciones de Karaoke a partir de vídeos del Youtube'
-date: '2012-12-24T20:48:11+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=511'
-permalink: /canciones-karaoke-youtube/511/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2012-12-24
+permalink: /canciones-karaoke-youtube/511/
+slug: canciones-karaoke-youtube
 tags:
-    - audio
-    - bash
-    - como
-    - karaoke
-    - receta
-    - vídeo
-    - youtube
+- audio
+- bash
+- como
+- karaoke
+- receta
+- vídeo
+- youtube
 ---
+
+# Canciones de Karaoke a partir de vídeos del Youtube
 
 Llegan las fechas navideñas, lo que implica fiestas hogareñas y con ello, los amantes del Karaoke se vuelven más exigentes. Como hacer para quitar la voz a uno de esos vídeos de Youtube creados en plan Karaoke. Hagamos un ejemplo con [En El mundo genial de las cosas que dices](http://www.youtube.com/watch?v=Xa8Dv6JTRig) de [Maldita Nerea](http://www.malditanerea.com/). Si te gusta el disco y lo [compras a través de este enlace](http://www.amazon.es/gp/product/B00A5Y7GJY/ref=as_li_ss_tl?ie=UTF8&tag=conociabiert-21&linkCode=as2&camp=3626&creative=24822&creativeASIN=B00A5Y7GJY)![](http://www.assoc-amazon.es/e/ir?t=conociabiert-21&l=as2&o=30&a=B00A5Y7GJY)  
 yo me llevo un porcentaje que motiva a seguir escribiendo ;).

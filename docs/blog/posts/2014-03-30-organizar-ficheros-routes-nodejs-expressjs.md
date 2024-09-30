@@ -1,25 +1,23 @@
 ---
-id: 685
-title: 'Organizar los ficheros de routes en nodejs &#8211; expressjs'
-date: '2014-03-30T09:30:37+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=685'
-permalink: /organizar-ficheros-routes-nodejs-expressjs/685/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2014-03-30
+permalink: /organizar-ficheros-routes-nodejs-expressjs/685/
+slug: organizar-ficheros-routes-nodejs-expressjs
 tags:
-    - cartolab
-    - como
-    - 'desarrollo sofware'
-    - 'desarrollo web'
-    - expressjs
-    - 'how to'
-    - javascript
-    - mvc
-    - nodejs
-    - web
+- cartolab
+- como
+- desarrollo sofware
+- desarrollo web
+- expressjs
+- how to
+- javascript
+- mvc
+- nodejs
+- web
 ---
+
+# Organizar los ficheros de routes en nodejs &#8211; expressjs
 
 Una de las tecnologías que estamos probando en [Cartolab](http://cartolab.udc.es) para aplicaciones web es [nodejs](http://nodejs.org/) con [express](http://expressjs.com/) como framework. Hay un montón de tutoriales de como empezar a usarlos, pero a poco que escribas empiezas a preguntarte como organizar el código, y ahí empiezan los problemas. *express* es un framework *no opinativo*, es decir proporciona un montón de utilidades pero da liberar total al usuario sobre como mezclarlas, así que se van desarrollando distintos modos de hacerlo.
 

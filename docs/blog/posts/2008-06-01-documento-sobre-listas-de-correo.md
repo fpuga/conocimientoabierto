@@ -1,19 +1,13 @@
 ---
-id: 46
-title: 'Documento sobre listas de correo'
-date: '2008-06-01T00:15:00+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/documento-sobre-listas-de-correo/46/'
-permalink: /documento-sobre-listas-de-correo/46/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2008/06/documento-sobre-listas-de-correo.html
 categories:
-    - comunicacion
-    - 'tercer sector'
+- comunicacion
+- tercer sector
+date: 2008-06-01
+permalink: /documento-sobre-listas-de-correo/46/
+slug: documento-sobre-listas-de-correo
 ---
+
+# Documento sobre listas de correo
 
 Desde el blog de [Ingeniería Sin Fronteras Galicia Vida Asociativa](http://esfgalicia.blogspot.com/2008/05/grupos-de-correo.html), podeis acceder a un documento que he escrito sobre la experiencia de ESF trabajando con listas de correo.
 

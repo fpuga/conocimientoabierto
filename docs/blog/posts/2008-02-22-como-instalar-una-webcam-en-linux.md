@@ -1,18 +1,12 @@
 ---
-id: 38
-title: 'Como instalar una webcam en linux'
-date: '2008-02-22T14:31:00+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/como-instalar-una-webcam-en-linux/38/'
-permalink: /como-instalar-una-webcam-en-linux/38/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2008/02/como-instalar-una-webcam-en-linux.html
 categories:
-    - General
+- General
+date: 2008-02-22
+permalink: /como-instalar-una-webcam-en-linux/38/
+slug: como-instalar-una-webcam-en-linux
 ---
+
+# Como instalar una webcam en linux
 
 Hace tiempo que comenté en este blog un modo de [instalar los drivers para una webcam en linux](http://conocimientoabierto.blogspot.com/2007/04/instalar-los-drivers-para-una-webcam.html). La cosa ha avanzado y es un poco más fácil que entonces, pero por desgracia sigue habiendo truquillos que si no los conoces te hacen invertir una horita de busqueda por internet, así que hay va una miniguia, centrada sobre todo en mandriva 2008 pero válida para la mayoría de distros actuales.
 

@@ -1,20 +1,14 @@
 ---
-id: 12
-title: 'De la imprenta a la red (I)'
-date: '2007-05-17T14:00:00+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/de-la-imprenta-a-la-red-i/9/'
-permalink: /de-la-imprenta-a-la-red-i/12/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2007/05/de-la-imprenta-la-red-i.html
 categories:
-    - 'conocimiento abierto'
-    - politica
-    - 'web 2.0'
+- conocimiento abierto
+- politica
+- web 2.0
+date: 2007-05-17
+permalink: /de-la-imprenta-a-la-red-i/12/
+slug: de-la-imprenta-a-la-red-i
 ---
+
+# De la imprenta a la red (I)
 
 <div style="text-align: center">| Sobre todo lo alarma el hecho de que podáis disponer de una imprenta y de que vuestras palabras puedan llegar a los focos de la revuelta |
 |---|

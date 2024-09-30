@@ -1,21 +1,15 @@
 ---
-id: 15
-title: 'Crónica: Un mundo desigual'
-date: '2007-06-26T18:38:00+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/cronica-un-mundo-desigual/12/'
-permalink: /cronica-un-mundo-desigual/15/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2007/06/crnica-un-mundo-desigual.html
 categories:
-    - cooperacion
-    - epd
-    - esf
-    - mundodesigual07
+- cooperacion
+- epd
+- esf
+- mundodesigual07
+date: 2007-06-26
+permalink: /cronica-un-mundo-desigual/15/
+slug: cronica-un-mundo-desigual
 ---
+
+# Crónica: Un mundo desigual
 
 Empiezo hoy una serie de posts en los que haré una crónica del curso [«Un mundo desigual: Retos y perspectivas»](http://galicia.isf.es/unmundodesigual) organizado por [Enxeñería sen Fronteiras Galicia.](http://galicia.isf.es/) Lo que se describe aquí es mi resumen personal de la ponencia, no debe interpretarse como las palabras del ponente puesto que puedo haberlas tergiversado.
 

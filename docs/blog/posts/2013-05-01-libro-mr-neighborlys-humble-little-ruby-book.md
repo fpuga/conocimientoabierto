@@ -1,19 +1,17 @@
 ---
-id: 555
-title: 'Libro: Mr Neighborly&#8217;s humble little ruby book'
-date: '2013-05-01T10:18:47+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=555'
-permalink: /libro-mr-neighborlys-humble-little-ruby-book/555/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2013-05-01
+permalink: /libro-mr-neighborlys-humble-little-ruby-book/555/
+slug: libro-mr-neighborlys-humble-little-ruby-book
 tags:
-    - 'desarrollo sofware'
-    - libros
-    - programación
-    - ruby
+- desarrollo sofware
+- libros
+- programación
+- ruby
 ---
+
+# Libro: Mr Neighborly&#8217;s humble little ruby book
 
 Estos días he estado leyendo el libro sobre ruby [Mr Neighborly’s humble little ruby book](http://www.humblelittlerubybook.com/). Aprovecho para hacer una pequeña reseña.
 

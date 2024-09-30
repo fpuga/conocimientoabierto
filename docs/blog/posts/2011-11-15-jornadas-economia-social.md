@@ -1,20 +1,18 @@
 ---
-id: 413
-title: 'Jornadas de Economía Social'
-date: '2011-11-15T22:01:13+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=413'
-permalink: /jornadas-economia-social/413/
 categories:
-    - General
+- General
+date: 2011-11-15
+permalink: /jornadas-economia-social/413/
+slug: jornadas-economia-social
 tags:
-    - 'desarrollo humano'
-    - empresa
-    - patentes
-    - 'propiedad intelectual'
-    - 'software libre'
+- desarrollo humano
+- empresa
+- patentes
+- propiedad intelectual
+- software libre
 ---
+
+# Jornadas de Economía Social
 
 La semana pasada participé en unas [Jornadas sobre Economía Social](http://www.socialia.org/portal/site/WINS003/menuitem.f769a3cba1eccbab46a046a051d001ca/?vgnextoid=ab1193b20459c110VgnVCM1000000b0d10acRCRD&idCeleb=100004989) organizadas por la [Oficina de Cooperación y Voluntariado](http://www.extension.udc.es/cooperacion/) de la[ Universidad de A Coruña](http://www.udc.es/). Mi charla tiene el título, seguramente no muy acertado por mi parte, de «Cultura Libre». Lo que conté es más o menos lo siguiente.
 

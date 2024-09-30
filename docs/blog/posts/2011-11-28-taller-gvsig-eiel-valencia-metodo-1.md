@@ -1,20 +1,18 @@
 ---
-id: 420
-title: 'Taller de gvSIG-EIEL en Valencia. Método 1.'
-date: '2011-11-28T00:54:39+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=420'
-permalink: /taller-gvsig-eiel-valencia-metodo-1/420/
 categories:
-    - General
+- General
+date: 2011-11-28
+permalink: /taller-gvsig-eiel-valencia-metodo-1/420/
+slug: taller-gvsig-eiel-valencia-metodo-1
 tags:
-    - cartolab
-    - gis
-    - gvsig
-    - 'how to'
-    - workshop
+- cartolab
+- gis
+- gvsig
+- how to
+- workshop
 ---
+
+# Taller de gvSIG-EIEL en Valencia. Método 1.
 
 El jueves por la tarde en las [Jornadas de gvSIG](jornadas.gvsig.org), [Gonzalo](http://cartohistorias.blogspot.com/) y yo estaremos por parte de [Cartolab](cartolab.udc.es) impartiendo el taller sobre [gvSIG-EIEL](http://cartolab.udc.es/cartoweb/gvsig-eiel/).
 

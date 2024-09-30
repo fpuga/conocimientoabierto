@@ -1,14 +1,12 @@
 ---
-id: 66
-title: 'Estadísticas para WordPress'
-date: '2009-05-14T13:05:03+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=66'
-permalink: /estadisticas-wordpress/66/
 categories:
-    - General
+- General
+date: 2009-05-14
+permalink: /estadisticas-wordpress/66/
+slug: estadisticas-wordpress
 ---
+
+# Estadísticas para WordPress
 
 Escoger un plugin de estadísticas para WordPress es complicado. Si [buscas en la página de wordpress](http://wordpress.org/extend/plugins/tags/stats) encontraras decenas de ellos, google tampoco ayuda demasiado, porque los primeros resultados en las búsquedas son a [posts antiguos](http://lorelle.wordpress.com/2007/02/12/counting-wordpress-statistics-wordpress-plugins/) o a [recopilatorios](http://mashable.com/2007/08/07/30-wordpress-plugins-for-statistics/) que se dedican a enumerar [«los 15 mejores plugins»](http://ayudawordpress.com/15-sistemas-de-estadisticas-en-wordpress/), escoger aunque sólo sea entre 15 sigue siendo un infierno si tienes que probarlos todos para encontrar el mejor. Si quieres saber como se hace en este blog sigue leyendo.
 

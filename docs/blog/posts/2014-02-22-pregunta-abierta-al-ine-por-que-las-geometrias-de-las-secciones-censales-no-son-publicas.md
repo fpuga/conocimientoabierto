@@ -1,18 +1,16 @@
 ---
-id: 659
-title: 'Pregunta abierta al INE. ¿Por qué las geometrías de las secciones censales no son públicas?'
-date: '2014-02-22T17:34:06+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=659'
-permalink: /pregunta-abierta-al-ine-por-que-las-geometrias-de-las-secciones-censales-no-son-publicas/659/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2014-02-22
+permalink: /pregunta-abierta-al-ine-por-que-las-geometrias-de-las-secciones-censales-no-son-publicas/659/
+slug: pregunta-abierta-al-ine-por-que-las-geometrias-de-las-secciones-censales-no-son-publicas
 tags:
-    - gis
-    - ine
-    - 'open data'
+- gis
+- ine
+- open data
 ---
+
+# Pregunta abierta al INE. ¿Por qué las geometrías de las secciones censales no son públicas?
 
 Con motivo del [Open Data Day](http://opendataday.org/), [hemos intentado](http://vigodd2014.wordpress.com/) hacer una visualización para la que necesitábamos las geometrías de las secciones censales.
 

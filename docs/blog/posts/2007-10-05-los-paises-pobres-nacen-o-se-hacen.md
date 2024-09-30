@@ -1,22 +1,16 @@
 ---
-id: 24
-title: 'Los paises pobres nacen o se hacen'
-date: '2007-10-05T12:08:00+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/los-paises-pobres-nacen-o-se-hacen/24/'
-permalink: /los-paises-pobres-nacen-o-se-hacen/24/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2007/10/los-paises-pobres-nacen-o-se-hacen.html
 categories:
-    - activismo
-    - cooperacion
-    - cultura
-    - 'deuda externa'
-    - ideologia
+- activismo
+- cooperacion
+- cultura
+- deuda externa
+- ideologia
+date: 2007-10-05
+permalink: /los-paises-pobres-nacen-o-se-hacen/24/
+slug: los-paises-pobres-nacen-o-se-hacen
 ---
+
+# Los paises pobres nacen o se hacen
 
 <div style="text-align: justify">Ese era el título de la conferencia inaugural del simposio [Pobre Mundo Rico](http://www.pobremundorico.org/). El ponente [Carmelo Garcia](http://www.pobremundorico.org/blog/?page_id=47) describió el problema con claridad meridiana. La pobreza del llamado <span style="font-style: italic">tercer mundo</span> se origina fundamentalmente en el proceso colonialista del S. XIX. En esta época de los aproximadamente 150 países que había en el mundo en ese momento sólo 50 eran independientes, el resto estaban dominados por las potencias europeas. Sánchez-Terán también [habla de esto](http://www.xlsemanal.com/web/articulo.php?id=21077&id_edicion=2447) esta semana. A continuación lo que ya sabemos, procesos de independencias con gobiernos títere, ausencia de estructuras internas y demás parafernalia. En realidad esa colonización todavía continúa sólo que ahora es más sutil, [deuda externa](http://conocimientoabierto.blogspot.com/2007/07/crnica-un-mundo-desigual-iv-y-fin.html#links), relaciones comerciales abusivas y acuerdos injustos provocan que alrededor de 1.000 millones de personas vivan con menos de un dolar al día.
 

@@ -1,19 +1,13 @@
 ---
-id: 47
-title: '¿Rascacielos = Crisis?'
-date: '2008-08-21T10:47:00+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/%c2%bfrascacielos-crisis/47/'
-permalink: /%c2%bfrascacielos-crisis/47/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2008/08/rascacielos-crisis.html
 categories:
-    - curiosidades
-    - economia
+- curiosidades
+- economia
+date: 2008-08-21
+permalink: /%c2%bfrascacielos-crisis/47/
+slug: c2bfrascacielos-crisis
 ---
+
+# ¿Rascacielos = Crisis?
 
 Acabo de ver un par de noticias en barrapunto y no he podido resistirme…
 

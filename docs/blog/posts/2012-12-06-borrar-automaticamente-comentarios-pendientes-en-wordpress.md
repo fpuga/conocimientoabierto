@@ -1,19 +1,18 @@
 ---
-id: 502
-title: 'Borrar automáticamente comentarios pendientes en WordPress'
-date: '2012-12-06T16:58:47+01:00'
-layout: post
-guid: 'http://conocimientoabierto.es/?p=502'
-permalink: /borrar-automaticamente-comentarios-pendientes-en-wordpress/502/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2012-12-06
+permalink: /borrar-automaticamente-comentarios-pendientes-en-wordpress/502/
+slug: borrar-automaticamente-comentarios-pendientes-en-wordpress
 tags:
-    - 'how to'
-    - odiseus
-    - spam
-    - web
-    - wordpress
+- how to
+- odiseus
+- spam
+- web
+- wordpress
 ---
+
+# Borrar automáticamente comentarios pendientes en WordPress
 
 Esta mañana me he puesto a actualizar [odiseus](http://odiseus.org) y he visto que la base de datos ocupaba cerca de giga y medio, siendo la mayoría consumido por los 300.000 comentarios de spam que se nos escaparon en un blog que hace tiempo que no tiene supervisión y no tenía [Akismet](http://akismet.com/) instalado.
 

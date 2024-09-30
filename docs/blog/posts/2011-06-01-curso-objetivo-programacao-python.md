@@ -1,18 +1,16 @@
 ---
-id: 328
-title: 'Um curso objetivo de programação em Python'
-date: '2011-06-01T09:04:09+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=325'
-permalink: /curso-objetivo-programacao-python/328/
 categories:
-    - General
+- General
+date: 2011-06-01
+permalink: /curso-objetivo-programacao-python/328/
+slug: curso-objetivo-programacao-python
 tags:
-    - 'desarrollo sofware'
-    - python
-    - tutorial
+- desarrollo sofware
+- python
+- tutorial
 ---
+
+# Um curso objetivo de programação em Python
 
 Gracias al blog de [Anderson Medeiros](http://andersonmedeiros.wordpress.com/2010/06/13/curso-online-de-python/trackback/) encuentro un [interesante tutorial de python escrito en Portugués](http://www.async.com.br/projects/python/pnp/node20.html) pero muy facilito de seguir.
 

@@ -1,19 +1,17 @@
 ---
-id: 1007
-title: 'Circular Dependencies Webcast por Miguel Grinberg'
-date: '2020-06-29T23:30:48+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=1007'
-permalink: /circular-dependencies-webcast-por-miguel-grinberg/1007/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2020-06-29
+permalink: /circular-dependencies-webcast-por-miguel-grinberg/1007/
+slug: circular-dependencies-webcast-por-miguel-grinberg
 tags:
-    - dependencies
-    - flask
-    - python
-    - refactoring
+- dependencies
+- flask
+- python
+- refactoring
 ---
+
+# Circular Dependencies Webcast por Miguel Grinberg
 
 Un [Webcast de Miguel Grinberg sobre como evitar Dependencias Circulares](https://blog.miguelgrinberg.com/post/flask-webcast-3-circular-dependencies) en una aplicación Python / Flask.
 

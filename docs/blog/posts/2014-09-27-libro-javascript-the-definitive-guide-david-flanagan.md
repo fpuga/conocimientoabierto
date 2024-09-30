@@ -1,14 +1,12 @@
 ---
-id: 726
-title: 'Libro: Javascript. The definitive guide. David Flanagan.'
-date: '2014-09-27T09:30:48+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=726'
-permalink: /libro-javascript-the-definitive-guide-david-flanagan/726/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2014-09-27
+permalink: /libro-javascript-the-definitive-guide-david-flanagan/726/
+slug: libro-javascript-the-definitive-guide-david-flanagan
 ---
+
+# Libro: Javascript. The definitive guide. David Flanagan.
 
 Hace poco terminé de leer [JavaScript. The definitive guide, de David Flanagan (la sexta edición)](http://www.amazon.es/gp/product/B00M0NQR34/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=B00M0NQR34&linkCode=as2&tag=conociabiert-21)![](http://ir-es.amazon-adsystem.com/e/ir?t=conociabiert-21&l=as2&o=30&a=B00M0NQR34). El libro tiene unas mil página aunque la segunda parte es una guía de referencia (que viene bastante bien para cuando trabajas off-line).
 

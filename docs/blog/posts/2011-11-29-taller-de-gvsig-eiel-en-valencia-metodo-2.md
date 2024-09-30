@@ -1,20 +1,18 @@
 ---
-id: 425
-title: 'Taller de gvSIG-EIEL en Valencia. Método 2'
-date: '2011-11-29T17:45:20+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=425'
-permalink: /taller-de-gvsig-eiel-en-valencia-metodo-2/425/
 categories:
-    - General
+- General
+date: 2011-11-29
+permalink: /taller-de-gvsig-eiel-en-valencia-metodo-2/425/
+slug: taller-de-gvsig-eiel-en-valencia-metodo-2
 tags:
-    - cartolab
-    - como
-    - gis
-    - gvsig
-    - 'how to'
+- cartolab
+- como
+- gis
+- gvsig
+- how to
 ---
+
+# Taller de gvSIG-EIEL en Valencia. Método 2
 
 Como [comentábamos en la anterior entrada](http://conocimientoabierto.es/taller-gvsig-eiel-valencia-metodo-1/420/) hemos creado un fichero .iso que podéis «quemar» en un pendrive de al menos 4GB para seguir el taller de gvSIG-EIEL. Podéis descargar el .iso desde [este enlace](http://www.adrive.com/public/ef55aaba0e67894a6156d6f1a454dba06ac96790fe8691a241c30515254205e3.html).
 

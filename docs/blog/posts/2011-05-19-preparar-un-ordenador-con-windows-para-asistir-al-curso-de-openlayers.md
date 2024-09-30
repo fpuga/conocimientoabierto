@@ -1,23 +1,21 @@
 ---
-id: 342
-title: 'Preparar un ordenador con Windows para asistir al curso de OpenLayers.'
-date: '2011-05-19T18:25:17+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=342'
-permalink: /preparar-un-ordenador-con-windows-para-asistir-al-curso-de-openlayers/342/
 categories:
-    - General
+- General
+date: 2011-05-19
+permalink: /preparar-un-ordenador-con-windows-para-asistir-al-curso-de-openlayers/342/
+slug: preparar-un-ordenador-con-windows-para-asistir-al-curso-de-openlayers
 tags:
-    - apache
-    - cartolab
-    - como
-    - 'how to'
-    - mod_python
-    - openlayers
-    - sistemas
-    - windows
+- apache
+- cartolab
+- como
+- how to
+- mod_python
+- openlayers
+- sistemas
+- windows
 ---
+
+# Preparar un ordenador con Windows para asistir al curso de OpenLayers.
 
 Un par de instrucciones rápidas para el [curso de OpenLayers que habrá mañana en la Escuela de Caminos en Coruña impulsado por xeoinquedos](http://xeoinquedos.wordpress.com/), No te asustes por el texto es mucho más fácil de lo que parece. En resumen baja los archivos que se enlazan en este post y haz doble click sobre ellos :) Los enlaces son para Windows de 32bits, si usas 64 deja un comentario y te ayudamos.
 

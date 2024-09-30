@@ -1,14 +1,12 @@
 ---
-id: 709
-title: 'Memrise, una plataforma para memorización'
-date: '2014-05-04T12:08:34+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=709'
-permalink: /memrise-plataforma-memorizacion/709/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2014-05-04
+permalink: /memrise-plataforma-memorizacion/709/
+slug: memrise-plataforma-memorizacion
 ---
+
+# Memrise, una plataforma para memorización
 
 [![logo de memrise](http://conocimientoabierto.es/wp-content/blogs.dir/16/files/galerias/enelblog/thumbs/thumbs_memrise.jpg)](http://conocimientoabierto.es/wp-content/blogs.dir/16/files/galerias/enelblog/memrise.jpg " ")Llevo un tiempo [haciendo](http://www.memrise.com/user/fpuga/) algunos *cursos* en [memrise.com](http://www.memrise.com/). Una página que dice usar los últimos [descubrimientos científicos](http://www.memrise.com/faq/#question-8) para mejorar la forma en la que aprendemos:
 

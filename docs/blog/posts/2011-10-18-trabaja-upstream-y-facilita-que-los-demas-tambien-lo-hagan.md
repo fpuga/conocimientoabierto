@@ -1,17 +1,15 @@
 ---
-id: 394
-title: 'Trabaja upstream y facilita que los demás también lo hagan'
-date: '2011-10-18T18:01:10+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=394'
-permalink: /trabaja-upstream-y-facilita-que-los-demas-tambien-lo-hagan/394/
 categories:
-    - General
+- General
+date: 2011-10-18
+permalink: /trabaja-upstream-y-facilita-que-los-demas-tambien-lo-hagan/394/
+slug: trabaja-upstream-y-facilita-que-los-demas-tambien-lo-hagan
 tags:
-    - 'desarrollo sofware'
-    - 'software libre'
+- desarrollo sofware
+- software libre
 ---
+
+# Trabaja upstream y facilita que los demás también lo hagan
 
 No os perdáis los artículos enlazados por[ Andrés sobre los costes de no trabajar upstream](http://nosolosoftware.com/los-costes-de-no-trabajar-upstream/trackback). En resumen:
 

@@ -1,20 +1,14 @@
 ---
-id: 23
-title: 'Di NO a las bombas de racimo'
-date: '2007-09-29T14:11:00+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/di-no-a-las-bombas-de-racimo/23/'
-permalink: /di-no-a-las-bombas-de-racimo/23/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2007/09/di-no-las-bombas-de-racimo.html
 categories:
-    - activismo
-    - 'bombas de racimo'
-    - politica
+- activismo
+- bombas de racimo
+- politica
+date: 2007-09-29
+permalink: /di-no-a-las-bombas-de-racimo/23/
+slug: di-no-a-las-bombas-de-racimo
 ---
+
+# Di NO a las bombas de racimo
 
 <div style="text-align: justify">[![](http://farm2.static.flickr.com/1160/1458025170_272d233eac.jpg)](http://www.flickr.com/photos/fpuga/1458025170/ "photo sharing")Llevaba un par de semanas con la intención de escribir un artículo adhiriéndome a la campaña [Di no a las bombas de racimo](http://bombasno.cosasdeladiplomacia.info/?page_id=2) y al final [llego tarde](http://bombasno.cosasdeladiplomacia.info/wp-trackback.php?p=33), aún así que este post sirva como adhesión (aunque sea a toro pasado), minicrónica de lo sucedido y felicitación a los que llegaron a tiempo. Antes de seguir leyendo puedes entender mejor que son las bombas de racimo si ves este [video](http://es.youtube.com/watch?v=ow5RYUJgi64) (dura menos de dos minutos). Si todavía no lo tienes claro puedes ver sus [terribles efectos en los niños](http://npaid.websys.no/item1)
 

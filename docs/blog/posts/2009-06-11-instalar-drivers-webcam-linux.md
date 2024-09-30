@@ -1,14 +1,12 @@
 ---
-id: 83
-title: 'Instalar los drivers de una webcam en linux'
-date: '2009-06-11T12:36:58+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=83'
-permalink: /instalar-drivers-webcam-linux/83/
 categories:
-    - General
+- General
+date: 2009-06-11
+permalink: /instalar-drivers-webcam-linux/83/
+slug: instalar-drivers-webcam-linux
 ---
+
+# Instalar los drivers de una webcam en linux
 
 Revisando las estadísticas he visto que mucho gente continua llegando al post que escribí hace tiempo sobre como [instalar los drivers para una webcam en linux](http://conocimientoabierto.blogspot.com/2008/02/como-instalar-una-webcam-en-linux.html) desde los buscadores.
 

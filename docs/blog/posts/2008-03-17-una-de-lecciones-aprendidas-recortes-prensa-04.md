@@ -1,19 +1,13 @@
 ---
-id: 40
-title: 'Una de lecciones aprendidas (recortes prensa 04)'
-date: '2008-03-17T14:20:00+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/una-de-lecciones-aprendidas-recortes-prensa-04/40/'
-permalink: /una-de-lecciones-aprendidas-recortes-prensa-04/40/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2008/03/una-de-lecciones-aprendidas-recortes.html
 categories:
-    - comunicaciong
-    - esf
+- comunicaciong
+- esf
+date: 2008-03-17
+permalink: /una-de-lecciones-aprendidas-recortes-prensa-04/40/
+slug: una-de-lecciones-aprendidas-recortes-prensa-04
 ---
+
+# Una de lecciones aprendidas (recortes prensa 04)
 
 Algunas apuntes surgidos a partir de las cosas que estamos aprendiendo en [ISF Galicia](http://galicia.isf.es/ "ISF Galicia") sobre esta especie de press-clipping. Podéis ver como nos está quedando [en este enlace](http://del.icio.us/esfgalicia "aquí").
 

@@ -1,19 +1,17 @@
 ---
-id: 583
-title: 'Libro: Beggining Ruby: From novice to proffesional de Peter Cooper'
-date: '2013-06-17T23:30:59+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=583'
-permalink: /librobeggining-ruby-from-novice-to-proffesional-de-peter-cooper/583/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2013-06-17
+permalink: /librobeggining-ruby-from-novice-to-proffesional-de-peter-cooper/583/
+slug: librobeggining-ruby-from-novice-to-proffesional-de-peter-cooper
 tags:
-    - 'desarrollo sofware'
-    - libros
-    - programación
-    - ruby
+- desarrollo sofware
+- libros
+- programación
+- ruby
 ---
+
+# Libro: Beggining Ruby: From novice to proffesional de Peter Cooper
 
 He terminado estos días de leer el libro de [Peter Cooper](http://www.rubyinside.com/about), Beginning Ruby: From Novice to Professional (Expert’s Voice in Open Source)  
 , es una segunda edición del 2009 publicada por [Apress](http://www.apress.com/9781430223634/). El libro se puede comprar desde la [página del autor](http://beginningruby.org/).

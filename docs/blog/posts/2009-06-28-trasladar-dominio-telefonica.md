@@ -1,14 +1,12 @@
 ---
-id: 96
-title: 'Trasladar un dominio desde telefonica'
-date: '2009-06-28T13:38:03+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=96'
-permalink: /trasladar-dominio-telefonica/96/
 categories:
-    - General
+- General
+date: 2009-06-28
+permalink: /trasladar-dominio-telefonica/96/
+slug: trasladar-dominio-telefonica
 ---
+
+# Trasladar un dominio desde telefonica
 
 Si alguna vez contraste un dominio con telefónica, seguramente vinculado a alguna de sus soluciones de ADSL para empresas y ahora quieres trasladarlo puede que tengas algún problema. Hace un par de días explicaba el [procedimiento más general para trasladar un dominio](http://conocimientoabierto.es/hosting-dominio-traslado-dns/89/), pero mi experiencia con telefónica para trasladar el dominio [marinerosbouzas.com](http://marinerosbouzas.com) no fue tan sencilla. Explico lo que yo tuve que hacer por si alguien se encuentra en la misma tesitura.
 

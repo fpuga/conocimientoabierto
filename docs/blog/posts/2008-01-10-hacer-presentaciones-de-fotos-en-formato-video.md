@@ -1,21 +1,15 @@
 ---
-id: 35
-title: 'Hacer presentaciones de fotos en formato vídeo'
-date: '2008-01-10T18:02:00+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/hacer-presentaciones-de-fotos-en-formato-video/35/'
-permalink: /hacer-presentaciones-de-fotos-en-formato-video/35/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2007/12/hacer-presentaciones-de-fotos-en.html
 categories:
-    - comunicaciong
-    - linux
-    - receta
-    - recomendacion
+- comunicaciong
+- linux
+- receta
+- recomendacion
+date: 2008-01-10
+permalink: /hacer-presentaciones-de-fotos-en-formato-video/35/
+slug: hacer-presentaciones-de-fotos-en-formato-video
 ---
+
+# Hacer presentaciones de fotos en formato vídeo
 
 He estado buscando programas para linux que de manera sencilla permitan crear presentaciones de foto en formato vídeo, con la posibilidad de añadirle música y algún efecto para que quede bonito. Los dos últimos son [servicios web](http://es.wikipedia.org/wiki/Servicio_Web#Ventajas_de_los_servicios_Web) con los que he quedado realmente contento y que os recomiendo probar.
 

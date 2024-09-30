@@ -1,19 +1,17 @@
 ---
-id: 451
-title: 'Si el liferea tarda mucho en arrancar&#8230;'
-date: '2012-02-04T16:34:36+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=451'
-permalink: /si-el-liferea-tarda-mucho-en-arrancar/451/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2012-02-04
+permalink: /si-el-liferea-tarda-mucho-en-arrancar/451/
+slug: si-el-liferea-tarda-mucho-en-arrancar
 tags:
-    - liferea
-    - receta
-    - rss
-    - 'sistema operativo'
+- liferea
+- receta
+- rss
+- sistema operativo
 ---
+
+# Si el liferea tarda mucho en arrancar&#8230;
 
 `<br></br>$ eatmydata liferea<br></br>`  
 [Liferea](http://liferea.sourceforge.net/) es un lector de feeds (como google reader, pero en aplicación de escritorio) libre que cumple su cometido. La verdad es que no me parece la *aplicación definitiva* para leer rss pero funciona.

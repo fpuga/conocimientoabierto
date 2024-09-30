@@ -1,14 +1,12 @@
 ---
-id: 602
-title: 'The biggest waste in product development is re-learning'
-date: '2013-11-01T13:41:52+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=602'
-permalink: /biggest-way-product-development-is-re-learning/602/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2013-11-01
+permalink: /biggest-way-product-development-is-re-learning/602/
+slug: biggest-way-product-development-is-re-learning
 ---
+
+# The biggest waste in product development is re-learning
 
 > The biggest waste in product development is re-learning.
 > 

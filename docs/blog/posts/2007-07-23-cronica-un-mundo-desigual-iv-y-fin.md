@@ -1,21 +1,15 @@
 ---
-id: 326
-title: 'Crónica: Un mundo desigual (IV y fin)'
-date: '2007-07-23T23:02:00+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/cronica-un-mundo-desigual-iv-y-fin/17/'
-permalink: /cronica-un-mundo-desigual-iv-y-fin/326/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2007/07/crnica-un-mundo-desigual-iv-y-fin.html
 categories:
-    - cooperacion
-    - 'deuda externa'
-    - economia
-    - mundodesigual07
+- cooperacion
+- deuda externa
+- economia
+- mundodesigual07
+date: 2007-07-23
+permalink: /cronica-un-mundo-desigual-iv-y-fin/326/
+slug: cronica-un-mundo-desigual-iv-y-fin
 ---
+
+# Crónica: Un mundo desigual (IV y fin)
 
 Acabo con este post la crónica del curso [Un mundo desigual](http://galicia.isf.es/). A continuación el resumen de la ponencia del día 26 de Kiko Ortiz sobre deuda externa. Aviso de nuevo que esta es mi propia interpretación de las palabras del ponente y no tiene porque coincidir con lo que dijo.
 

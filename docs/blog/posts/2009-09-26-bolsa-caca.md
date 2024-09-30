@@ -1,21 +1,19 @@
 ---
-id: 168
-title: bolsa=caca
-date: '2009-09-26T11:17:04+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=168'
-permalink: /bolsa-caca/168/
 categories:
-    - General
+- General
+date: 2009-09-26
+permalink: /bolsa-caca/168/
+slug: bolsa-caca
 tags:
-    - bolsa-caca
-    - empresa
-    - filosofia
-    - indarki
-    - 'medio ambiente'
-    - vigoblog
+- bolsa-caca
+- empresa
+- filosofia
+- indarki
+- medio ambiente
+- vigoblog
 ---
+
+# bolsa=caca
 
 Hay ocasiones en las que no entiendo las posturas de algunas ong, movimientos sociales u otros colectivos que en general considero serios. Uno de ellos es la extraña relación que se tiene con las empresas, parece que las empresas son *malas* por el simple hecho de ser empresas. Parece que ganar dinero sea algo malo, sin discriminar si este es obtenido de forma ética.
 

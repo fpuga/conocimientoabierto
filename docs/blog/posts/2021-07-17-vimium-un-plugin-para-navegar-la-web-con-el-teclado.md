@@ -1,19 +1,17 @@
 ---
-id: 1035
-title: 'Vimium: Un plugin para navegar la web con el teclado'
-date: '2021-07-17T08:00:22+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=1035'
-permalink: /vimium-un-plugin-para-navegar-la-web-con-el-teclado/1035/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2021-07-17
+permalink: /vimium-un-plugin-para-navegar-la-web-con-el-teclado/1035/
+slug: vimium-un-plugin-para-navegar-la-web-con-el-teclado
 tags:
-    - browser
-    - productividad
-    - salud
-    - teclado
+- browser
+- productividad
+- salud
+- teclado
 ---
+
+# Vimium: Un plugin para navegar la web con el teclado
 
 Por productividad y salud estoy intentando usar menos el ratón. Una de las situaciones donde más lo usaba era al navegar por páginas web y tras una [pequeña búsqueda](https://pakstech.com/blog/browse-web-with-keyboard/) me he decidido por [Vimium](https://vimium.github.io/). Un plugin para Firefox, Chrome, y familia que permite usar las teclas de Vim para navegar.
 

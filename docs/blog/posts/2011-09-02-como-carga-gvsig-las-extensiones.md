@@ -1,19 +1,17 @@
 ---
-id: 385
-title: 'Como carga gvSIG las extensiones'
-date: '2011-09-02T10:06:18+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=385'
-permalink: /como-carga-gvsig-las-extensiones/385/
 categories:
-    - General
+- General
+date: 2011-09-02
+permalink: /como-carga-gvsig-las-extensiones/385/
+slug: como-carga-gvsig-las-extensiones
 tags:
-    - cartolab
-    - como
-    - 'desarrollo sofware'
-    - gvsig
+- cartolab
+- como
+- desarrollo sofware
+- gvsig
 ---
+
+# Como carga gvSIG las extensiones
 
 En la línea abierta por [Andrés de «Como gvSIG hace xxx»](http://nosolosoftware.com/how-gvsig-manages-the-snappers/) os presento un artículo que explica como se gestiona la carga de las extensiones en gvSIG. Antes de nada debo agradecer a [Cartolab](http://cartolab.udc.es/) cederme tiempo para poder escribirlo.
 

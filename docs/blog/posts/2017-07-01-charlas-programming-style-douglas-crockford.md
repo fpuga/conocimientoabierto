@@ -1,22 +1,20 @@
 ---
-id: 909
-title: 'Charlas “Programming Style” por Douglas Crockford'
-date: '2017-07-01T10:00:29+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=909'
-permalink: /charlas-programming-style-douglas-crockford/909/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2017-07-01
+permalink: /charlas-programming-style-douglas-crockford/909/
+slug: charlas-programming-style-douglas-crockford
 tags:
-    - charlas
-    - 'coding style'
-    - Crockford
-    - 'desarrollo software'
-    - javascript
-    - recomendaciones
-    - vídeo
+- charlas
+- coding style
+- Crockford
+- desarrollo software
+- javascript
+- recomendaciones
+- vídeo
 ---
+
+# Charlas “Programming Style” por Douglas Crockford
 
 Otra de las [series](http://conocimientoabierto.es/the-better-parts-douglas-crockford/901/) de charlas más conocidas de [Crockford](http://crockford.com/), son en las que habla de la importancia del estilo de código que empleamos.
 

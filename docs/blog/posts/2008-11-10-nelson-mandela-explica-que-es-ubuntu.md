@@ -1,20 +1,14 @@
 ---
-id: 50
-title: 'Nelson Mandela explica que es Ubuntu'
-date: '2008-11-10T16:38:00+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/nelson-mandela-explica-que-es-ubuntu/50/'
-permalink: /nelson-mandela-explica-que-es-ubuntu/50/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2008/11/nelson-mandela-explica-que-es-ubuntu.html
 categories:
-    - activismo
-    - 'conocimiento abierto'
-    - cultura
+- activismo
+- conocimiento abierto
+- cultura
+date: 2008-11-10
+permalink: /nelson-mandela-explica-que-es-ubuntu/50/
+slug: nelson-mandela-explica-que-es-ubuntu
 ---
+
+# Nelson Mandela explica que es Ubuntu
 
 Canonical, Ltd. la empresa que desarrolla Ubuntu, incluye en todos los CD’s (e ISO’s) un vídeo de [Nelson Mandela](http://es.wikipedia.org/wiki/Mandela) en el que explica cual es el origen de la palabra ubuntu, una antigua tradición africana que [Shuttleworth](http://es.wikipedia.org/wiki/Mark_Shuttleworth) escogió como nombre para su distribución.
 

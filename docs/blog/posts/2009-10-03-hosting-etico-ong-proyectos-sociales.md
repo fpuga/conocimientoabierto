@@ -1,21 +1,19 @@
 ---
-id: 171
-title: 'Hosting ético para ONGs y proyectos sociales'
-date: '2009-10-03T16:58:25+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=171'
-permalink: /hosting-etico-ong-proyectos-sociales/171/
 categories:
-    - General
+- General
+date: 2009-10-03
+permalink: /hosting-etico-ong-proyectos-sociales/171/
+slug: hosting-etico-ong-proyectos-sociales
 tags:
-    - alojamiento
-    - 'democracia económica'
-    - 'empresa ética'
-    - hosting
-    - ong
-    - 'tercer sector'
+- alojamiento
+- democracia económica
+- empresa ética
+- hosting
+- ong
+- tercer sector
 ---
+
+# Hosting ético para ONGs y proyectos sociales
 
 Una de las típicas cuestiones que surgen cuando se va a montar una página web es ¿donde?. Los hostings gratuitos suelen resultar bastante malos o incluir mucha más publicidad de la aceptable, así que en principio quedan descartados. Cuando se trata de montar la web de una asociación u ONG nos puede surgir la preocupación adicional de si el sitio donde vamos a montarla cumple ciertos criterios éticos. Hay además muchas empresas de hosting que hacen descuento a este tipo de colectivo y que hay que tratar de aprovechar
 

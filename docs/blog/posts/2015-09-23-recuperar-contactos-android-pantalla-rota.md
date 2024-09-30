@@ -1,21 +1,19 @@
 ---
-id: 819
-title: 'Un sistema como otro cualquiera para recuperar tus contactos en un Android con la pantalla rota'
-date: '2015-09-23T21:15:44+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=819'
-permalink: /recuperar-contactos-android-pantalla-rota/819/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2015-09-23
+permalink: /recuperar-contactos-android-pantalla-rota/819/
+slug: recuperar-contactos-android-pantalla-rota
 tags:
-    - android
-    - como
-    - 'dispositivos móviles'
-    - hardware
-    - 'how to'
-    - receta
+- android
+- como
+- dispositivos móviles
+- hardware
+- how to
+- receta
 ---
+
+# Un sistema como otro cualquiera para recuperar tus contactos en un Android con la pantalla rota
 
 Uno de esos días cualquiera en que te llega alguien (a quien no puedes mandar a <del>freír puñetas</del> buscar en google) que una semana después de comprarse su primer móvil con Android se le ha caído al suelo, se le ha roto la pantalla y quiere recuperar sus contactos.
 

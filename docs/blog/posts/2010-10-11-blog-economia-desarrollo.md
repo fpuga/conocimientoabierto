@@ -1,22 +1,20 @@
 ---
-id: 256
-title: 'Un blog sobre Economía y Desarrollo'
-date: '2010-10-11T17:25:11+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=256'
-permalink: /blog-economia-desarrollo/256/
 categories:
-    - General
+- General
+date: 2010-10-11
+permalink: /blog-economia-desarrollo/256/
+slug: blog-economia-desarrollo
 tags:
-    - cooperacion
-    - economia
-    - gis
-    - 'jeffrey sachs'
-    - mapas
-    - recomendacion
-    - 'william easterly'
+- cooperacion
+- economia
+- gis
+- jeffrey sachs
+- mapas
+- recomendacion
+- william easterly
 ---
+
+# Un blog sobre Economía y Desarrollo
 
 ***Aviso*, esto era originalmente un correo-e, que viendo el resultado final decidí convertir en artículo, así que disculpen si presenta cierta incoherencia.**
 

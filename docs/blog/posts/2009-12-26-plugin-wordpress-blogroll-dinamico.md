@@ -1,20 +1,18 @@
 ---
-id: 186
-title: 'Plugin de WordPress para tener un blogroll dinámico'
-date: '2009-12-26T00:24:29+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=186'
-permalink: /plugin-wordpress-blogroll-dinamico/186/
 categories:
-    - General
+- General
+date: 2009-12-26
+permalink: /plugin-wordpress-blogroll-dinamico/186/
+slug: plugin-wordpress-blogroll-dinamico
 tags:
-    - blogroll
-    - bug
-    - patch
-    - rss
-    - wordpress
+- blogroll
+- bug
+- patch
+- rss
+- wordpress
 ---
+
+# Plugin de WordPress para tener un blogroll dinámico
 
 Estoy probando en [marinerosbouzas.com](http://conocimientoabierto.es) un plugin para wordpress llamado [SBS Blogroll](http://wordpress.org/extend/plugins/sbs-blogroll/) bastante chulo que te permite incluir en tu blog un blogroll dinámico. Es decir en lugar de tener en la barra lateral una lista de enlaces estática a los blogs que te gustan pasarás a tener una lista con el título de las últimas entradas que haya habido en esos blogs. El plugin tiene la opción además de
 

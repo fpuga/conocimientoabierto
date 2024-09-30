@@ -1,18 +1,12 @@
 ---
-id: 43
-title: 'Respuestas desde el congreso (o no)'
-date: '2008-05-24T13:40:00+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/respuestas-desde-el-congreso-o-no/43/'
-permalink: /respuestas-desde-el-congreso-o-no/43/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2008/05/respuestas-desde-el-congreso-o-no.html
 categories:
-    - General
+- General
+date: 2008-05-24
+permalink: /respuestas-desde-el-congreso-o-no/43/
+slug: respuestas-desde-el-congreso-o-no
 ---
+
+# Respuestas desde el congreso (o no)
 
 He estado esperando un par de días antes de volver a publicar por si alguno de [los diputados a los que les había escrito](http://conocimientoabierto.blogspot.com/2008/05/cartas-abiertas-la-comisin-de.html) me respondían y la verdad es que tampoco ha estado mal, un 50% de ellos me han contestado.
 

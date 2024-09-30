@@ -1,18 +1,12 @@
 ---
-id: 48
-title: 'Sólo se coopera desde el Sur?'
-date: '2008-09-10T12:47:00+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/solo-se-coopera-desde-el-sur/48/'
-permalink: /solo-se-coopera-desde-el-sur/48/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2008/09/slo-se-coopera-desde-el-sur.html
 categories:
-    - General
+- General
+date: 2008-09-10
+permalink: /solo-se-coopera-desde-el-sur/48/
+slug: solo-se-coopera-desde-el-sur
 ---
+
+# Sólo se coopera desde el Sur?
 
 Con motivo del Día del Cooperante llamaron del Correo Gallego a [Enxeñería Sen Fronteiras Galicia](http://esfgalicia.blogspot.com/) para hacer una [entrevista](http://www.elcorreogallego.es/index.php?idMenu=130&idNoticia=340802)
 

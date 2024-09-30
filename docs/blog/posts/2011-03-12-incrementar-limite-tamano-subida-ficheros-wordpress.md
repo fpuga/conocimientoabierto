@@ -1,19 +1,17 @@
 ---
-id: 288
-title: 'Incrementar el límite de tamaño de subida de ficheros en WordPress'
-date: '2011-03-12T13:28:59+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=288'
-permalink: /incrementar-limite-tamano-subida-ficheros-wordpress/288/
 categories:
-    - General
+- General
+date: 2011-03-12
+permalink: /incrementar-limite-tamano-subida-ficheros-wordpress/288/
+slug: incrementar-limite-tamano-subida-ficheros-wordpress
 tags:
-    - como
-    - 'how to'
-    - odiseus
-    - wordpress
+- como
+- how to
+- odiseus
+- wordpress
 ---
+
+# Incrementar el límite de tamaño de subida de ficheros en WordPress
 
 Cuando monta una WordPress Network el límite de tamaño de los ficheros que los distintos blogs/usuarios pueden subir mediante wordpress está fijado a 1500 KB y el máximo total de ficheros subidos está limitado a 10MB.
 

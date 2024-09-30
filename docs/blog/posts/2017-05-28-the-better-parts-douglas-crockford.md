@@ -1,21 +1,19 @@
 ---
-id: 901
-title: 'Charlas «The better Parts» por Douglas Crockford'
-date: '2017-05-28T19:07:48+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=901'
-permalink: /the-better-parts-douglas-crockford/901/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2017-05-28
+permalink: /the-better-parts-douglas-crockford/901/
+slug: the-better-parts-douglas-crockford
 tags:
-    - charlas
-    - Crockford
-    - 'desarrollo sofware'
-    - javascript
-    - recomendaciones
-    - vídeo
+- charlas
+- Crockford
+- desarrollo sofware
+- javascript
+- recomendaciones
+- vídeo
 ---
+
+# Charlas «The better Parts» por Douglas Crockford
 
 Seguramente las charlas más conocidas de Crockford son las basadas en su libro [The good parts](http://conocimientoabierto.es/libro-javascript-the-good-parts-de-douglas-crockford/858/) y o algunas más modernas a las que llama de «The better parts» donde revisa alguna de sus anteriores prácticas y comenta features de ES6.
 

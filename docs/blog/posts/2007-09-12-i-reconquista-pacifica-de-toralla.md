@@ -1,18 +1,12 @@
 ---
-id: 21
-title: 'I Reconquista (pacífica) de Toralla'
-date: '2007-09-12T15:10:00+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/i-reconquista-pacifica-de-toralla/21/'
-permalink: /i-reconquista-pacifica-de-toralla/21/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2007/09/i-reconquista-pacfica-de-toralla.html
 categories:
-    - General
+- General
+date: 2007-09-12
+permalink: /i-reconquista-pacifica-de-toralla/21/
+slug: i-reconquista-pacifica-de-toralla
 ---
+
+# I Reconquista (pacífica) de Toralla
 
 [![](http://4.bp.blogspot.com/_wrQ7gWEOyz8/RufqI8EjKII/AAAAAAAAAAc/y31yfZtSOmk/s320/toralla.jpg)](http://4.bp.blogspot.com/_wrQ7gWEOyz8/RufqI8EjKII/AAAAAAAAAAc/y31yfZtSOmk/s1600-h/toralla.jpg)  
 El pasado sábado 8 de septiembre estuve en la [I Reconquista da Illa de Toralla](http://galiza.indymedia.org/gz/2007/08/12061.shtml) organizada por el colectivo Xogo Descuberto.

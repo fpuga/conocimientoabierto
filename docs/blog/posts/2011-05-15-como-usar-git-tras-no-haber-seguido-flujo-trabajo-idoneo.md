@@ -1,19 +1,17 @@
 ---
-id: 300
-title: 'Como usar GIT tras no haber seguido el flujo de trabajo idóneo'
-date: '2011-05-15T17:17:23+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=300'
-permalink: /como-usar-git-tras-no-haber-seguido-flujo-trabajo-idoneo/300/
 categories:
-    - General
+- General
+date: 2011-05-15
+permalink: /como-usar-git-tras-no-haber-seguido-flujo-trabajo-idoneo/300/
+slug: como-usar-git-tras-no-haber-seguido-flujo-trabajo-idoneo
 tags:
-    - como
-    - 'desarrollo sofware'
-    - git
-    - 'how to'
+- como
+- desarrollo sofware
+- git
+- how to
 ---
+
+# Como usar GIT tras no haber seguido el flujo de trabajo idóneo
 
 GIT es una herramienta genial cuando eres un desarrollador disciplinado y sigues el flujo de trabajo recomendado:
 

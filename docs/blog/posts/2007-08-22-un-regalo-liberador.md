@@ -1,19 +1,13 @@
 ---
-id: 20
-title: 'Un regalo liberador'
-date: '2007-08-22T19:51:00+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/un-regalo-liberador/20/'
-permalink: /un-regalo-liberador/20/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2007/08/un-regalo-liberador.html
 categories:
-    - receta
-    - recomendacion
+- receta
+- recomendacion
+date: 2007-08-22
+permalink: /un-regalo-liberador/20/
+slug: un-regalo-liberador
 ---
+
+# Un regalo liberador
 
 <div style="text-align: justify">Gracias a la bitacora de un usuario de [barrapunto](http://www.barrapunto.com/) (no recuerdo el nick, lo siento) me he encontrado con una [joyita](http://www.trycktill.com/eng/unlock_swe.asp) que quería compartir con vosotros. La página en cuestión da los códigos necesarios para liberar un motón de móviles sin más que introducir el IMEI del teléfono y la compañía. Recomiendo encarecidamente leer el texto que sale en la web para no cometer ningún error, ni yo (ni nadie) se va a hacer responsable de lo que le pase a vuestro teléfono haciendo estas cosas. Para poner el cuadro central en inglés hay que pulsar sobre la banderita adecuada abajo a la izquierda.
 

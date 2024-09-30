@@ -1,19 +1,17 @@
 ---
-id: 752
-title: 'Buscando un portátil para programar'
-date: '2015-03-07T18:42:28+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=752'
-permalink: /buscando-portatil-programar/752/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2015-03-07
+permalink: /buscando-portatil-programar/752/
+slug: buscando-portatil-programar
 tags:
-    - 'comprar portátil'
-    - hardware
-    - portátil
-    - recomendaciones
+- comprar portátil
+- hardware
+- portátil
+- recomendaciones
 ---
+
+# Buscando un portátil para programar
 
 Ha llegado el momento de comprar un portátil nuevo para trabajar y la elección no es fácil. Demasiadas marcas, modelos y siglas para hacer una compra medianamente informado, así que antes de volverme muy loco, si alguno de mis estimados lectores tuviera alguna sugerencia sería muy de agradecer.
 

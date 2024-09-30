@@ -1,18 +1,12 @@
 ---
-id: 33
-title: 'Almacenaje y clasificación local (recortes de prensa 03)'
-date: '2007-12-14T16:59:00+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/almacenaje-y-clasificacion-local-recortes-de-prensa-03/33/'
-permalink: /almacenaje-y-clasificacion-local-recortes-de-prensa-03/33/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2007/12/almacenaje-y-clasificacin-local.html
 categories:
-    - General
+- General
+date: 2007-12-14
+permalink: /almacenaje-y-clasificacion-local-recortes-de-prensa-03/33/
+slug: almacenaje-y-clasificacion-local-recortes-de-prensa-03
 ---
+
+# Almacenaje y clasificación local (recortes de prensa 03)
 
 En el [artículo anterior](http://conocimientoabierto.blogspot.com/2007/12/almacenaje-y-clasificacin-20-recortes.html) contaba que la mejor forma de almacenar las apariciones de nuestra entidad en los medios de comunicación es hacer uso de los aplicaciones sociales de la web 2.0 porque ganamos en transparencia y visibilidad. Para aquellos que quieran (o tengan) que optar por el método más tradicional de guardarlas en el disco duro podemos pensar en una serie de recomendaciones. Desde mi punto de vista deberíamos hacer las dos cosas, colgarlas en internet y guardarlas en nuestro disco duro a modo de copia de seguridad.
 

@@ -1,14 +1,12 @@
 ---
-id: 180
-title: 'En defensa de los derechos fundamentales de Internet'
-date: '2009-12-07T23:29:06+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=180'
-permalink: /en-defensa-de-los-derechos-fundamentales-de-internet/180/
 categories:
-    - General
+- General
+date: 2009-12-07
+permalink: /en-defensa-de-los-derechos-fundamentales-de-internet/180/
+slug: en-defensa-de-los-derechos-fundamentales-de-internet
 ---
+
+# En defensa de los derechos fundamentales de Internet
 
 Ante la inclusión en el [**Anteproyecto de Ley de Economía Sostenible**](http://www.meh.es/es-ES/Prensa/En%20Portada/2009/Paginas/anteproyectodeLeydEconomiaSostenible.aspx) de modificaciones legislativas que afectan [al libre ejercicio de las libertades de expresión, información y el derecho de acceso a la cultura a través de Internet](http://www.rtve.es/noticias/20091201/cultura-podra-cerrar-las-webs-descarga-sin-necesidad-autorizacion-judicial/303790.shtml), los periodistas, bloggers, usuarios, profesionales y creadores de internet [manifestamos nuestra firme oposición al proyecto](http://www.rtve.es/noticias/20091202/red-se-une-contra-cierre-paginas-descargas-sin-autorizacion-judicial/303937.shtml), y declaramos que:
 

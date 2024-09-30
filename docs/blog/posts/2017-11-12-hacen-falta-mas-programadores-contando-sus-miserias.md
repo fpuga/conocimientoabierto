@@ -1,19 +1,17 @@
 ---
-id: 938
-title: 'Hacen falta más programadores contando sus miserias'
-date: '2017-11-12T11:54:15+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=938'
-permalink: /hacen-falta-mas-programadores-contando-sus-miserias/938/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2017-11-12
+permalink: /hacen-falta-mas-programadores-contando-sus-miserias/938/
+slug: hacen-falta-mas-programadores-contando-sus-miserias
 tags:
-    - 'buenas prácticas'
-    - deploy
-    - 'desarrollo sofware'
-    - icarto
+- buenas prácticas
+- deploy
+- desarrollo sofware
+- icarto
 ---
+
+# Hacen falta más programadores contando sus miserias
 
 Desde que Andrés planteara hace ya dos años el reto de escribir sobre la [selección tecnológica en pymes](http://nosolosoftware.com/la-importancia-de-la-seleccion-tecnologica-en-una-pyme/) llevo queriendo escribir algo sobre ello.
 

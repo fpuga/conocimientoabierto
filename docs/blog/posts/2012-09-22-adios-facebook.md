@@ -1,22 +1,20 @@
 ---
-id: 487
-title: 'Adios Facebook'
-date: '2012-09-22T17:19:15+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=487'
-permalink: /adios-facebook/487/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2012-09-22
+permalink: /adios-facebook/487/
+slug: adios-facebook
 tags:
-    - ciberactivismo
-    - facebook
-    - filosofia
-    - futuro
-    - 'max barry'
-    - odiseus
-    - 'soberanía digital'
+- ciberactivismo
+- facebook
+- filosofia
+- futuro
+- max barry
+- odiseus
+- soberanía digital
 ---
+
+# Adios Facebook
 
 [Cierro Facebook](https://www.facebook.com/help/?faq=224562897555674#¿Qué-tengo-que-hacer-para-eliminar-permanentemente-mi-cuenta?).
 

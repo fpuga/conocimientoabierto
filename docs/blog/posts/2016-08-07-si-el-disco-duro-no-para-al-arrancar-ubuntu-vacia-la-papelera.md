@@ -1,22 +1,20 @@
 ---
-id: 874
-title: 'Si el disco duro no para al arrancar ubuntu vacía la papelera'
-date: '2016-08-07T21:49:17+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=874'
-permalink: /si-el-disco-duro-no-para-al-arrancar-ubuntu-vacia-la-papelera/874/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2016-08-07
+permalink: /si-el-disco-duro-no-para-al-arrancar-ubuntu-vacia-la-papelera/874/
+slug: si-el-disco-duro-no-para-al-arrancar-ubuntu-vacia-la-papelera
 tags:
-    - gvfs
-    - gvfsd-trash
-    - 'how to'
-    - linux
-    - receta
-    - 'sistema operativo'
-    - sistemas
+- gvfs
+- gvfsd-trash
+- how to
+- linux
+- receta
+- sistema operativo
+- sistemas
 ---
+
+# Si el disco duro no para al arrancar ubuntu vacía la papelera
 
 Los discos duros (casi) infinitos actuales han hecho que en un año haya acumulado más de 4000 ficheros y casi 60GB en la papelera de Gnome. Nunca pensé que esto fuera un problema pero ultimamente el ordenador tardaba muchísimo en iniciarse y el disco duro incluso después de arrancar el escritorio estaba funcionando durante uno o dos minutos.
 

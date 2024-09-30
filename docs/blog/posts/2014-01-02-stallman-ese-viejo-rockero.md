@@ -1,14 +1,12 @@
 ---
-id: 643
-title: 'Stallman, ese viejo rockero'
-date: '2014-01-02T09:00:04+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=643'
-permalink: /stallman-ese-viejo-rockero/643/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2014-01-02
+permalink: /stallman-ese-viejo-rockero/643/
+slug: stallman-ese-viejo-rockero
 ---
+
+# Stallman, ese viejo rockero
 
 [![Stallman y Ghandalf](http://conocimientoabierto.es/files/2013/12/stallman_y_ghandalf-300x200.png)](http://conocimientoabierto.es/files/2013/12/stallman_y_ghandalf.png)Hace unas semanas [Stallman](http://en.wikipedia.org/wiki/Richard_Stallman) estuvo de gira por Galicia dando conferencias y [algunos](http://acovadameiga.net/) [amigos](https://twitter.com/ddgrandio), me preguntaron si merecia la pena verlo. La verdad es que no es fácil contestar a eso.
 

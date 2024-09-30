@@ -1,20 +1,18 @@
 ---
-id: 990
-title: 'Comprar un portátil para desarrollo en 2019'
-date: '2019-05-13T10:00:04+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=990'
-permalink: /comprar-portatil-desarrollo-2019/990/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2019-05-13
+permalink: /comprar-portatil-desarrollo-2019/990/
+slug: comprar-portatil-desarrollo-2019
 tags:
-    - 'comprar portátil'
-    - 'comprar portátil 2019'
-    - hardware
-    - portátil
-    - recomendaciones
+- comprar portátil
+- comprar portátil 2019
+- hardware
+- portátil
+- recomendaciones
 ---
+
+# Comprar un portátil para desarrollo en 2019
 
 Toca cambiar de portátil. 8GB de RAM ya se quedan cortos. La patilla de la pantalla está dañada y no parece que vaya a aguantar mucho más. Y la batería con una vm, el ide y el navegador no dura mucho más de 1h.
 

@@ -1,20 +1,18 @@
 ---
-id: 223
-title: 'Primeros pasos para configurar git'
-date: '2010-05-01T14:07:53+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=223'
-permalink: /primeros-pasos-configurar-git/223/
 categories:
-    - General
+- General
+date: 2010-05-01
+permalink: /primeros-pasos-configurar-git/223/
+slug: primeros-pasos-configurar-git
 tags:
-    - como
-    - git
-    - 'how to'
-    - programación
-    - receta
+- como
+- git
+- how to
+- programación
+- receta
 ---
+
+# Primeros pasos para configurar git
 
 [Git](http://geneura.ugr.es/~jmerelo/tutoriales/git/) es el sistema de control de versiones (SCV) que se está imponiendo en el mundo del software libre. Todo programador que se precie debe aprender a usar un [SCV](http://es.wikipedia.org/wiki/Control_de_versiones) y dado que git puede operar también sobre repositorios svn te recomiendo encarecidamente que lo pruebes. Una de las ventajas de [git](http://git-scm.com/) es que es increíblemente configurable. En este artículo encontraras como realizar esa primera configuración para que sea más cómodo trabajar con git.
 

@@ -1,22 +1,20 @@
 ---
-id: 144
-title: 'Como usar FeedBurner para servir nuestro feed'
-date: '2009-09-10T23:55:18+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=144'
-permalink: /como-usar-feedburner-servir-feed/144/
 categories:
-    - General
+- General
+date: 2009-09-10
+permalink: /como-usar-feedburner-servir-feed/144/
+slug: como-usar-feedburner-servir-feed
 tags:
-    - como
-    - estadísticas
-    - feed
-    - feedburner
-    - 'how to'
-    - permalinks
-    - wordpress
+- como
+- estadísticas
+- feed
+- feedburner
+- how to
+- permalinks
+- wordpress
 ---
+
+# Como usar FeedBurner para servir nuestro feed
 
 <div class="ngg-gallery-singlepic-image ngg-left" style="max-width: 300px"> [ ![feedburner](https://conocimientoabierto.es/wp-content/blogs.dir/16/files/galerias/mybrand/cache/mybrand0.jpg-nggid011-ngg0dyn-300x225x100-00f0w010c010r110f110r010t010.jpg "feedburner") ](https://conocimientoabierto.es/wp-content/blogs.dir/16/files/galerias/mybrand/mybrand0.jpg "usar nuestro propio feed o el de feedburner") </div> [Feedburner](http://www.feedburner.com/) es un servicio web propiedad de Google que se encarga de redistribuir nuestros feeds. Es algo así como si feedburner se subscribiera al feed que proporcionamos desde nuestro blog, luego volviera a distribuirlo y nosotros indicamos a nuestros lectores que se conecten a través de esa segunda versión de nuestro feed y no a través del que proporcionamos directamente en el blog. La ventaja de esto es que ahorramos ancho de banda y que Feedburner puede proporcionarnos [estadísticas](http://conocimientoabierto.es/estadisticas-wordpress/66/) interesantes de los lectores. La parte mala es que pasamos a tener cierta dependencia de un servicio externo y una disminución de la privacidad puesto que google pasa a poder recolectar información sobre nuestros lectores. Feedburner estuvo de modo hace un par de años cuando el ancho de banda era un bien escaso y las empresas de hosting eran caras, en la actualidad no resulta en general necesario. Desde mi punto de vista el único motivo para usarlo sería por el de las estadísticas, tu debes valorar si la información que proporciona compensa el ceder datos a google.
 

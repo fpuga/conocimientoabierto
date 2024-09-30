@@ -1,19 +1,13 @@
 ---
-id: 54
-title: 'Apagar el ordenador cuando finaliza una peli'
-date: '2008-12-30T23:43:00+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/apagar-el-ordenador-cuando-finaliza-una-peli/54/'
-permalink: /apagar-el-ordenador-cuando-finaliza-una-peli/54/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2008/12/apagar-el-ordenador-cuando-finaliza-una.html
 categories:
-    - linux
-    - scripting
+- linux
+- scripting
+date: 2008-12-30
+permalink: /apagar-el-ordenador-cuando-finaliza-una-peli/54/
+slug: apagar-el-ordenador-cuando-finaliza-una-peli
 ---
+
+# Apagar el ordenador cuando finaliza una peli
 
 Si eres de los que se llevan el portátil a la habitación para ver una película o el último episodio de tu serie favorita este artículo te interesa. Con la ayuda de la gente de [espaciolinux](http://www.espaciolinux.com/postlite40062-.html) he escrito un script para linux que hace que el ordenador se apague automáticamente unos segundos después de que finaliza la película que estás viendo.
 

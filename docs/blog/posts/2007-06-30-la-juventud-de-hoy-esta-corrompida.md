@@ -1,18 +1,12 @@
 ---
-id: 16
-title: 'La juventud de hoy está corrompida'
-date: '2007-06-30T14:00:00+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/la-juventud-de-hoy-esta-corrompida/13/'
-permalink: /la-juventud-de-hoy-esta-corrompida/16/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2007/06/la-juventud-de-hoy-est-corrompida.html
 categories:
-    - General
+- General
+date: 2007-06-30
+permalink: /la-juventud-de-hoy-esta-corrompida/16/
+slug: la-juventud-de-hoy-esta-corrompida
 ---
+
+# La juventud de hoy está corrompida
 
 Despierto leyendo [¿Qué les pasa a los jóvenes?](http://www.despacho101.com/press/que-les-pasa-a-los-jovenes/trackback/). Ese artículo y un comentario que realizó ayer uno de los asistentes al [curso «Un mundo Desigual»](http://galicia.isf.es/unmundodesigual), me recuerda algo que escribí hace tiempo en [mi bitacora](http://barrapunto.com/journal.pl?op=display&id=21775&uid=21403) de barrapunto.
 

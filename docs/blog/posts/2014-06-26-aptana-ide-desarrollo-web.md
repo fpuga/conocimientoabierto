@@ -1,19 +1,17 @@
 ---
-id: 719
-title: 'Aptana. Un IDE para desarrollo web'
-date: '2014-06-26T21:14:57+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=719'
-permalink: /aptana-ide-desarrollo-web/719/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2014-06-26
+permalink: /aptana-ide-desarrollo-web/719/
+slug: aptana-ide-desarrollo-web
 tags:
-    - 'desarrollo sofware'
-    - 'desarrollo web'
-    - 'Escoger IDE web'
-    - IDE
+- desarrollo sofware
+- desarrollo web
+- Escoger IDE web
+- IDE
 ---
+
+# Aptana. Un IDE para desarrollo web
 
 Hace unos meses escribía en el blog que estaba [buscando un IDE para desarrollo web el cliente](http://conocimientoabierto.es/ide-desarrollo-web-cliente/604/). Al final no me he dedicado tanto a web-cliente como pensaba y he estado jugando más en la parte de backend sobre todo con nodejs.
 

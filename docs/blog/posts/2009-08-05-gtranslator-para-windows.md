@@ -1,14 +1,12 @@
 ---
-id: 123
-title: 'gtranslator para windows'
-date: '2009-08-05T15:18:57+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=123'
-permalink: /gtranslator-para-windows/123/
 categories:
-    - General
+- General
+date: 2009-08-05
+permalink: /gtranslator-para-windows/123/
+slug: gtranslator-para-windows
 ---
+
+# gtranslator para windows
 
 [GTranslator](http://live.gnome.org/gtranslator) es una aplicación construida sobre el [stack de desarollo de Gnome](http://library.gnome.org/devel/platform-overview/stable/platform.html.es), que permite trabajar de forma muy sencilla con archivos .po. Los archivos .po contienen las cadenas de texto que aparecen en un programa informático y constituyen una forma sencilla y ágil del traducir el programa a otros idiomas sin necesidad de ningún conocimiento de programación. La posibilidad de utilizar una aplicación informática en tu lengua materna es básico para lidiar con la brecha digital. Y uno de los puntos fuertes del software libre, es precisamente que programas como el [el editor de texto gedit](http://www.gnome.org/projects/gedit/), esté disponibles en más de 70 idiomas que van desde el vietnamita al gallego. Esto es posible gracias a la existencia de un gran número de personas, que no tienen conocimientos de programación pero colaboran en la traducción de software. Es labor de los desarrolladores que el hacer estas traducciones sea lo más sencillo posible y ahí es donde entra gtranslator, editor oficial de [archivos po de gnome](http://library.gnome.org/devel/platform-overview/stable/i18n.html.es) y uno de los mejores en su campo.
 

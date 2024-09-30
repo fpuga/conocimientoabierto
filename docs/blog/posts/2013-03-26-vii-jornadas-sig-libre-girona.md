@@ -1,23 +1,21 @@
 ---
-id: 548
-title: 'VII Jornadas de SIG Libre de Girona'
-date: '2013-03-26T12:07:59+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=548'
-permalink: /vii-jornadas-sig-libre-girona/548/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2013-03-26
+permalink: /vii-jornadas-sig-libre-girona/548/
+slug: vii-jornadas-sig-libre-girona
 tags:
-    - cartolab
-    - cooperacion
-    - girona
-    - gis
-    - icarto
-    - isf
-    - laborate
-    - mooc
+- cartolab
+- cooperacion
+- girona
+- gis
+- icarto
+- isf
+- laborate
+- mooc
 ---
+
+# VII Jornadas de SIG Libre de Girona
 
 Este año gracias a [Cartolab](cartolab.udc.es) he tenido la oportunidad de asistir de nuevo a las J[ornadas de SIG Libre de Girona](http://www.sigte.udg.edu/jornadassiglibre/).
 

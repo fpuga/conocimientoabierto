@@ -1,14 +1,12 @@
 ---
-id: 77
-title: 'Como medir multitudes'
-date: '2009-05-27T20:22:50+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=77'
-permalink: /como-medir-multitudes/77/
 categories:
-    - General
+- General
+date: 2009-05-27
+permalink: /como-medir-multitudes/77/
+slug: como-medir-multitudes
 ---
+
+# Como medir multitudes
 
 Es habitual que cuando hay una manifestación las cifras de asistentes que dan los distintos interesados no tengan nada que ver. Recuerdo un tiempo en el que cuando convocantes decían 400.000 y policía 200.000, los que leían el periódico solían pensar que los presentes serían unos 300.000. Ahora escuchamos ya sin inmutarnos cifras que pueden variar [entre 200.000 y un millón](http://diariodeunjabali.com/archivos/categorias/periodismo/el_manifestometro_hace_milagros.html), con lo que tirar por la calle de en medio ya no es posible.
 

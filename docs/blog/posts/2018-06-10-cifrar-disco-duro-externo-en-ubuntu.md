@@ -1,22 +1,20 @@
 ---
-id: 957
-title: 'Cifrar una disco duro externo en Ubuntu'
-date: '2018-06-10T16:24:16+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=957'
-permalink: /cifrar-disco-duro-externo-en-ubuntu/957/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2018-06-10
+permalink: /cifrar-disco-duro-externo-en-ubuntu/957/
+slug: cifrar-disco-duro-externo-en-ubuntu
 tags:
-    - backup
-    - cifrar
-    - como
-    - 'how to'
-    - linux
-    - seguridad
-    - ubuntu
+- backup
+- cifrar
+- como
+- how to
+- linux
+- seguridad
+- ubuntu
 ---
+
+# Cifrar una disco duro externo en Ubuntu
 
 La sencillez con que se pueden hacer ciertas tareas en Ubuntu u otras distros GNU/Linux ha mejorado enormemente desde la [última vez que escribí sobre esto como cifrar un disco duro](http://conocimientoabierto.es/cifrar-particion-disco-duro-externo-linux/197/).
 

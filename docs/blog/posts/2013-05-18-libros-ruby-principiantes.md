@@ -1,19 +1,17 @@
 ---
-id: 567
-title: 'Libros de ruby para principiantes'
-date: '2013-05-18T18:59:21+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=567'
-permalink: /libros-ruby-principiantes/567/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2013-05-18
+permalink: /libros-ruby-principiantes/567/
+slug: libros-ruby-principiantes
 tags:
-    - 'desarrollo sofware'
-    - libros
-    - programación
-    - ruby
+- desarrollo sofware
+- libros
+- programación
+- ruby
 ---
+
+# Libros de ruby para principiantes
 
 Tras mi rápida visita a Ruby a través del [Mr Neighborly’s humble little ruby book](http://conocimientoabierto.es/libro-mr-neighborlys-humble-little-ruby-book/555/) he estado buscando otros libros para principiantes que me dieran una visión más amplia del lenguaje. Recopilo algunos de los libros que se suelen recomendar con mis propias impresiones sobre lo que he leído de ellos. No he leído ninguna así que puedo equivocarme en las apreciaciones, si no estás de acuerdo deja un comentario.
 

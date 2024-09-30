@@ -1,20 +1,14 @@
 ---
-id: 53
-title: 'Concurso de Microrelatos de Implicadas'
-date: '2008-12-19T18:57:00+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/concurso-de-microrelatos-de-implicadas/53/'
-permalink: /concurso-de-microrelatos-de-implicadas/53/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2008/12/concurso-de-microrelatos-de-implicadas.html
 categories:
-    - ideologia
-    - relato
-    - voluntariado
+- ideologia
+- relato
+- voluntariado
+date: 2008-12-19
+permalink: /concurso-de-microrelatos-de-implicadas/53/
+slug: concurso-de-microrelatos-de-implicadas
 ---
+
+# Concurso de Microrelatos de Implicadas
 
 Me ha encantado el [microrelato que la ONG Implicadas no Desenvolvemento](http://implicadas.blogspot.com/2008/12/reencontros-de-susana-snchez-arns.html) ha escogido como ganador de un concurso que han organizado para celebrar su décimo aniversario. Os pego un cachito traducido, el original está en gallego (norma [AGAL](http://gl.wikipedia.org/wiki/AGAL))
 

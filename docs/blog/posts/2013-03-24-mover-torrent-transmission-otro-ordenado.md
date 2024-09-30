@@ -1,20 +1,18 @@
 ---
-id: 544
-title: 'Mover un torrent de transmission a otro ordenador'
-date: '2013-03-24T16:19:35+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=544'
-permalink: /mover-torrent-transmission-otro-ordenado/544/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2013-03-24
+permalink: /mover-torrent-transmission-otro-ordenado/544/
+slug: mover-torrent-transmission-otro-ordenado
 tags:
-    - como
-    - 'how to'
-    - receta
-    - torrent
-    - transmission
+- como
+- how to
+- receta
+- torrent
+- transmission
 ---
+
+# Mover un torrent de transmission a otro ordenador
 
 <div class="ngg-gallery-singlepic-image ngg-left" style="max-width: 240px"> [ ![Logo transmission](https://conocimientoabierto.es/wp-content/blogs.dir/16/files/galerias/enelblog/cache/transmission.png-nggid0217-ngg0dyn-320x240x100-00f0w010c010r110f110r010t010.png "Logo transmission") ](https://conocimientoabierto.es/wp-content/blogs.dir/16/files/galerias/enelblog/transmission.png) </div> Una nota rápida para explicar como mover una descarga (completa o incompleta) de [transmission](http://www.transmissionbt.com/) a otro ordenador. El escenario es sencillo, tengo los torrents divididos entre dos ordenadores, y se dió el caso de que quería mover uno de los torrents de uno de los ordenadores al otro. Mover toda la información de transmission de un ordenador a otro es sencillo, basta mover los ficheros descargados a la misma ruta en el otro ordenador, y copiar la carpeta *~/.config/transmission*. Mover sólo uno es parecido, simplemente hay que ser un pelín más cuidadoso.
 

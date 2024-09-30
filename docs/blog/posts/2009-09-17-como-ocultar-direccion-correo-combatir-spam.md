@@ -1,19 +1,17 @@
 ---
-id: 157
-title: 'Como ocultar la dirección de correo para combatir el spam'
-date: '2009-09-17T13:51:31+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=157'
-permalink: /como-ocultar-direccion-correo-combatir-spam/157/
 categories:
-    - General
+- General
+date: 2009-09-17
+permalink: /como-ocultar-direccion-correo-combatir-spam/157/
+slug: como-ocultar-direccion-correo-combatir-spam
 tags:
-    - como
-    - correo-e
-    - 'how to'
-    - spam
+- como
+- correo-e
+- how to
+- spam
 ---
+
+# Como ocultar la dirección de correo para combatir el spam
 
 Algo que tenía pendiente desde hace ya demasiado era poner una dirección de correo electrónico de contacto en el blog. Todas las guías sobre blogging hablan de la importancia de incluirlo y resulta lógico el permitir que tus lectores contacten contigo en privado pero hasta ahora, más que nada por vagancia, no me había decidido a hacerlo.
 

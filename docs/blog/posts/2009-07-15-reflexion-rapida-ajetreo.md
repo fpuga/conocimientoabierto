@@ -1,14 +1,12 @@
 ---
-id: 102
-title: 'Una reflexión rápida entre mucho ajetreo'
-date: '2009-07-15T15:17:23+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=102'
-permalink: /reflexion-rapida-ajetreo/102/
 categories:
-    - General
+- General
+date: 2009-07-15
+permalink: /reflexion-rapida-ajetreo/102/
+slug: reflexion-rapida-ajetreo
 ---
+
+# Una reflexión rápida entre mucho ajetreo
 
 Llevo algunos días queriendo publicar [algo](http://www.flickr.com/photos/30762580@N02/2883502978/) pero [es que](http://teleco.uvigo.es) son [días de](http://ghandalf.org) estar [increiblemente liado](http://galicia.isf.es).
 

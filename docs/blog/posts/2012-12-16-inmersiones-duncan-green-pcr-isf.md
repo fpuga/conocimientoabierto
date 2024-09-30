@@ -1,21 +1,19 @@
 ---
-id: 507
-title: 'Relacionando las inmersiones por Duncan Green con los PCR de ISF'
-date: '2012-12-16T16:52:39+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=507'
-permalink: /inmersiones-duncan-green-pcr-isf/507/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2012-12-16
+permalink: /inmersiones-duncan-green-pcr-isf/507/
+slug: inmersiones-duncan-green-pcr-isf
 tags:
-    - cooperacion
-    - 'desarrollo humano'
-    - 'duncan green'
-    - isf
-    - pcr
-    - 'tercer sector'
+- cooperacion
+- desarrollo humano
+- duncan green
+- isf
+- pcr
+- tercer sector
 ---
+
+# Relacionando las inmersiones por Duncan Green con los PCR de ISF
 
 Acabo de leer un artículo de [Duncan Green hablando de la importancia de las «inmersiones»](http://www.oxfamblogs.org/fp2p/?p=11608) (pasar periodos de tiempo conviviendo directamente con los beneficiarios) en Cooperación para el Desarrollo.
 

@@ -1,18 +1,16 @@
 ---
-id: 806
-title: 'Comentarios al artículo de Complejidad y Reversibilidad de Kent Beck'
-date: '2015-08-09T13:48:03+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=806'
-permalink: /comentarios-articulo-complejidad-reversibilidad-kent-beck/806/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2015-08-09
+permalink: /comentarios-articulo-complejidad-reversibilidad-kent-beck/806/
+slug: comentarios-articulo-complejidad-reversibilidad-kent-beck
 tags:
-    - 'buenas prácticas'
-    - 'desarrollo sofware'
-    - 'Kent Beck'
+- buenas prácticas
+- desarrollo sofware
+- Kent Beck
 ---
+
+# Comentarios al artículo de Complejidad y Reversibilidad de Kent Beck
 
 [Andrés](http://nosolosoftware.com/) me pincha para que lea y comente [el último post de Kent Beck](http://nosolosoftware.com/complejidad-y-reversibilidad/) en su *muro de facebook*. Como todo lo que escribe Beck hay que leerlo con atención y se pueden sacar lecciones interesantes. Pero este artículo en particular se me hace complicado de leer porque creo que mezcla demasiadas cosas a la vez. Comienza con una teoría general sobre sistemas complejos y luego salta a prácticas concretas de facebook para atajarla en distintos estadios del desarrollo sin pararse a explicar que técnicas tienen sentido en según que contextos. Analicémoslo por tanto atendiendo al artículo como dos partes separadas.
 

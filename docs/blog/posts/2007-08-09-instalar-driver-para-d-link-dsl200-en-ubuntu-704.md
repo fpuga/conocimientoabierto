@@ -1,22 +1,16 @@
 ---
-id: 327
-title: 'Instalar driver para D-Link DSL200 en Ubuntu 7.04'
-date: '2007-08-09T12:25:00+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/instalar-driver-para-d-link-dsl200-en-ubuntu-704/18/'
-permalink: /instalar-driver-para-d-link-dsl200-en-ubuntu-704/327/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2007/08/instalar-driver-para-d-link-dsl200-en.html
 categories:
-    - 'd-link dsl-200'
-    - drivers
-    - linux
-    - migracion
-    - receta
+- d-link dsl-200
+- drivers
+- linux
+- migracion
+- receta
+date: 2007-08-09
+permalink: /instalar-driver-para-d-link-dsl200-en-ubuntu-704/327/
+slug: instalar-driver-para-d-link-dsl200-en-ubuntu-704
 ---
+
+# Instalar driver para D-Link DSL200 en Ubuntu 7.04
 
 <div style="text-align: justify">El principal problema que puedes encontrarte en un sistema operativo es tener algún dispositivo hardware para el que no existan drivers, es decir que los programas de tu ordenador no puedan usar el cacharro que te has comprado. Yo soy un <span style="font-weight: bold">insatisfecho</span> cliente de ONO, para conectarme por ADSL uso el [modem usb d-link dsl 200 b1](http://www.dlink.es/?go=jN7uAYLx/oIJaWVUDLYZU93ygJVYLelXSNvhLPG3yV3oWI9pxu5vbMYjOadh5itsRWm5kCVP+J0IBN7m3qPkLE4S), que sólo viene con drivers para sistemas privativos. Por suerte en el activo mundo del software libre alguien se ha preocupado de programar un [driver llamado eciadsl](http://eciadsl.flashtux.org/) válido para una gran cantidad de modem adsl por usb. Como la instalación del citado driver puede dar algún que otro quebradero de cabeza, voy a tratar de hacer una pequeña guia de los pasos que he seguido yo para poder conectarme a internet, particularizando para mi modem con ONO desde una Ubuntu Feisty (v 7.04)
 

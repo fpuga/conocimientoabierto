@@ -1,20 +1,18 @@
 ---
-id: 941
-title: 'Libro: Think Python: How to Think Like a Computer Scientist'
-date: '2017-11-15T17:37:29+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=941'
-permalink: /libro-think-python-how-to-think-like-a-computer-scientist/941/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2017-11-15
+permalink: /libro-think-python-how-to-think-like-a-computer-scientist/941/
+slug: libro-think-python-how-to-think-like-a-computer-scientist
 tags:
-    - 'desarrollo sofware'
-    - libro
-    - programación
-    - python
-    - recomendaciones
+- desarrollo sofware
+- libro
+- programación
+- python
+- recomendaciones
 ---
+
+# Libro: Think Python: How to Think Like a Computer Scientist
 
 How to Think Like a Computer Scientist es un libro clásico entre los recomendados para comenzar a programar en python. La primera edición es de 2002, escrito por Jeffrey Elkner, Allen B. Downey y Chris Meyers bajo licencia GNU FDL. El ser tan «antiguo» y el estar publicado bajo licencia libre ha hecho que a lo largo del tiempo hayan aparecido diversas versiones del libro.
 

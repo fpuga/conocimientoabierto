@@ -1,14 +1,12 @@
 ---
-id: 74
-title: 'Plugins de estadísticas para WordPress'
-date: '2009-05-20T13:06:04+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=74'
-permalink: /plugins-estadisticas-wordpress/74/
 categories:
-    - General
+- General
+date: 2009-05-20
+permalink: /plugins-estadisticas-wordpress/74/
+slug: plugins-estadisticas-wordpress
 ---
+
+# Plugins de estadísticas para WordPress
 
 Hace poco contaba como hago para [contabilizar las estadísticas en este blog](http://conocimientoabierto.es/estadisticas-wordpress/66/). Antes de decidirme por ese modelo estuve leyendo sobre otros plugins. Aquí va una lista de algunos que me parecieron interesantes:
 

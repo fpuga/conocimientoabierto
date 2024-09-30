@@ -1,18 +1,16 @@
 ---
-id: 251
-title: Clickativismo
-date: '2010-08-17T15:02:42+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=251'
-permalink: /clickativismo/251/
 categories:
-    - General
+- General
+date: 2010-08-17
+permalink: /clickativismo/251/
+slug: clickativismo
 tags:
-    - ciberactivismo
-    - clickactivismo
-    - 'tercer sector'
+- ciberactivismo
+- clickactivismo
+- tercer sector
 ---
+
+# Clickativismo
 
 Gracias a una entrada de [Olga](http://www.labroma.org/blog/) en el blog de [Masticable](http://www.masticable.org/2010/08/17/el-clickactivismo-esta-arruinando-el-activismo-de-izquierdas/) llego a un interesante artículo de opinión en The Guardian, [Clicktivism is ruining leftist activism](http://www.guardian.co.uk/commentisfree/2010/aug/12/clicktivism-ruining-leftist-activism).
 

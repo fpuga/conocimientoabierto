@@ -1,20 +1,14 @@
 ---
-id: 28
-title: 'Cacharro nuevo'
-date: '2007-11-12T11:58:00+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/cacharro-nuevo/28/'
-permalink: /cacharro-nuevo/28/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2007/11/cacharro-nuevo.html
 categories:
-    - linux
-    - migracion
-    - portatil
+- linux
+- migracion
+- portatil
+date: 2007-11-12
+permalink: /cacharro-nuevo/28/
+slug: cacharro-nuevo
 ---
+
+# Cacharro nuevo
 
 Este entrada es sólo para contar que ya tengo un [cacharrito nuevo](http://www.fujitsu-siemens.es/home/products/notebooks/amilo_pi_1505.html), comprado gracias a [Uniporta](http://www.uvigo.es/uniporta/), una subvención de la Xunta de Galicia gestionada a través de las universidades gallegas, que este año está mucho mejor planteada que en ocasiones anteriores. Para que la subvención fuera todavía mejor sólo faltarían dos cosas desde mi punto de vista:
 

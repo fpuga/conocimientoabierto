@@ -1,18 +1,12 @@
 ---
-id: 36
-title: 'Mestizaje y Diversidad'
-date: '2008-02-10T15:22:00+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/mestizaje-y-diversidad/36/'
-permalink: /mestizaje-y-diversidad/36/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2008/02/mestizaje-y-diversidad.html
 categories:
-    - General
+- General
+date: 2008-02-10
+permalink: /mestizaje-y-diversidad/36/
+slug: mestizaje-y-diversidad
 ---
+
+# Mestizaje y Diversidad
 
 No soy de los que suelen dar discursos catastrofistas, pero debo reconocer que últimamente tengo miedo. Estoy asustado porque parece que la [doctrina del shock](http://www.adn.es/cultura/20071003/NWS-1157-Alfonso-Cuaron-Klein-Naomi-doctrina.html) va calando. Estoy asustado porque desde los estrados, los púlpitos y los media oigo cada vez más sin sentidos, pero sobre todo, estoy asustado porque en la mesa de al lado de la cafetería, y a veces también en la propia oigo cosas que no me gustan nada. Y porque a veces parece que por muchos [argumentos con números](http://www.elpais.com/articulo/economia/inmigrantes/aportan/Seguridad/Social/cantidad/equivalente/superavit/elpporeco/20060929elpepieco_17/Tes/) que des, calan más las acusaciones infundadas.
 

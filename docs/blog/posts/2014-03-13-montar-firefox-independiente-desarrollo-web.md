@@ -1,22 +1,20 @@
 ---
-id: 679
-title: 'Montar un firefox independiente para desarrollo web'
-date: '2014-03-13T21:34:29+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=679'
-permalink: /montar-firefox-independiente-desarrollo-web/679/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2014-03-13
+permalink: /montar-firefox-independiente-desarrollo-web/679/
+slug: montar-firefox-independiente-desarrollo-web
 tags:
-    - cartolab
-    - como
-    - 'desarrollo web'
-    - 'entorno de desarrollo'
-    - firefox
-    - 'how to'
-    - web
+- cartolab
+- como
+- desarrollo web
+- entorno de desarrollo
+- firefox
+- how to
+- web
 ---
+
+# Montar un firefox independiente para desarrollo web
 
 [![Firefox_Screenshot](http://conocimientoabierto.es/wp-content/blogs.dir/16/files/galerias/enelblog/thumbs/thumbs_Firefox_Screenshot.PNG)](http://conocimientoabierto.es/wp-content/blogs.dir/16/files/galerias/enelblog/Firefox_Screenshot.PNG "From: http://en.wikipedia.org/wiki/File:Firefox_Screenshot.PNG")En [Cartolab](http://cartolab.udc.es) llevamos ya una temporada investigando en uso de tecnologías web en el ámbito de la ingeniería cvil.
 

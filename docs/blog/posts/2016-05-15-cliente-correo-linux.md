@@ -1,18 +1,16 @@
 ---
-id: 871
-title: 'Cliente de correo para Linux'
-date: '2016-05-15T12:57:17+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=871'
-permalink: /cliente-correo-linux/871/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2016-05-15
+permalink: /cliente-correo-linux/871/
+slug: cliente-correo-linux
 tags:
-    - correo-e
-    - linux
-    - recomendaciones
+- correo-e
+- linux
+- recomendaciones
 ---
+
+# Cliente de correo para Linux
 
 Llevo usando aplicaciones web para usar el correo desde que abrí mi primera cuenta de mail. Gmail tiene tiene una interfaz genial, funciona en cualquier dispositivo y es rápido. El único problema es que tus correos no son tuyos. Estos días he tenido que cerrar una vieja cuenta de correo en gmail y para descargar los mails a modo de copia de seguridad he estado revisando clientes de correo de escritorio:
 

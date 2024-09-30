@@ -1,21 +1,19 @@
 ---
-id: 438
-title: 'Por fin en Odiseus'
-date: '2012-01-05T13:06:27+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=438'
-permalink: /por-fin-en-odiseus/438/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2012-01-05
+permalink: /por-fin-en-odiseus/438/
+slug: por-fin-en-odiseus
 tags:
-    - filosofia
-    - 'identidad digital'
-    - 'max barry'
-    - odiseus
-    - 'soberanía digital'
-    - wordpress
+- filosofia
+- identidad digital
+- max barry
+- odiseus
+- soberanía digital
+- wordpress
 ---
+
+# Por fin en Odiseus
 
 Hace ya algunos años, cuando twitter y facebook todavía no existían para el gran público, [Andrés](nosolosoftware.com) y yo, tras disfrutar de un año de hosting gratis gracias a una [promoción de red.es](http://www.jovenesenred.es/), nos resistíamos a volver a servicios de terceros para alojar nuestra [identidad digital](http://nomada.blogs.com/jfreire/2009/03/las-personas-debemos-tener-identidad-digital-cmo-construirla-sesin-web-de-la-generalitat-de-catalunya.html), aunque en aquel momento creo que todavía no sabía lo que significaba este termino. Aquello fue [el germen de Odiseus](http://odiseus.org/historia/).
 

@@ -1,20 +1,18 @@
 ---
-id: 825
-title: 'Aitor Guevara hablando de la arquitectura de Ducksboard'
-date: '2015-09-26T21:32:02+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=825'
-permalink: /aitor-guevara-arquitectura-ducksboard/825/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2015-09-26
+permalink: /aitor-guevara-arquitectura-ducksboard/825/
+slug: aitor-guevara-arquitectura-ducksboard
 tags:
-    - arquitectura
-    - 'desarrollo sofware'
-    - 'desarrollo web'
-    - ducksboard
-    - vídeo
+- arquitectura
+- desarrollo sofware
+- desarrollo web
+- ducksboard
+- vídeo
 ---
+
+# Aitor Guevara hablando de la arquitectura de Ducksboard
 
 Un vídeo algo antiguo (2013) en el que [Aitor Guevara](http://blog.aitorciki.net/) (CTO de Ducksboard) nos habla de cual era la arquitectura de Ducksboard en aquel momento. A pesar de que el vídeo dura más de una hora y media Aitor consigue hacer amena una charla técnica. No entra al mínimo detalle técnico pero si da una buena idea general. Responde sin rubor a preguntas como cual era el costo de la infraestructura que tenían en Linode (400$) o cuantos clientes de pago tienen.
 

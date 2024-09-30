@@ -1,21 +1,15 @@
 ---
-id: 32
-title: 'Almacenaje y clasificación 2.0 (recortes de prensa 02)'
-date: '2007-12-09T17:50:00+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/almacenaje-y-clasificacion-20-recortes-de-prensa-02/32/'
-permalink: /almacenaje-y-clasificacion-20-recortes-de-prensa-02/32/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2007/12/almacenaje-y-clasificacin-20-recortes.html
 categories:
-    - comunicacion
-    - comunicaciong
-    - receta
-    - 'tercer sector'
+- comunicacion
+- comunicaciong
+- receta
+- tercer sector
+date: 2007-12-09
+permalink: /almacenaje-y-clasificacion-20-recortes-de-prensa-02/32/
+slug: almacenaje-y-clasificacion-20-recortes-de-prensa-02
 ---
+
+# Almacenaje y clasificación 2.0 (recortes de prensa 02)
 
 En la [anterior entrada](http://conocimientoabierto.blogspot.com/2007/12/recoger-apariciones-en-los-medios.html "anterior entrada") hablábamos de como recoger las apariciones en la prensa de nuestra asociación. En esta trataremos el problema de como manejar los archivos que hemos ido almacenando para poder acceder a ellos fácilmente. El proceso de guardar y posteriormente recuperar información (del tipo que sea) es un tema complejo que está en continua discusión. La situación ideal sería el poder crear una base de datos hecha a la medida de nuestras necesidades, pero esto no es algo al alcance de todos.
 

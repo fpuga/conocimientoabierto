@@ -1,18 +1,12 @@
 ---
-id: 19
-title: 'Driver para modem adsl usb en linux mandriva 2007'
-date: '2007-08-16T12:52:00+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/driver-para-modem-adsl-usb-en-linux-mandriva-2007/19/'
-permalink: /driver-para-modem-adsl-usb-en-linux-mandriva-2007/19/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2007/08/driver-para-modem-adsl-usb-en-linux.html
 categories:
-    - General
+- General
+date: 2007-08-16
+permalink: /driver-para-modem-adsl-usb-en-linux-mandriva-2007/19/
+slug: driver-para-modem-adsl-usb-en-linux-mandriva-2007
 ---
+
+# Driver para modem adsl usb en linux mandriva 2007
 
 En mi anterior entrada comenté que había conseguido conectar a internet usando el [driver eciadsl](http://eciadsl.flashtux.org/) para un modem adsl por usb d-link dsl-200 b1 desde Ubuntu Feisty (v 7.04). Pués bien, a pesar de que si que conseguí conectar no lograba una conexión estable y además en muchas ocasiones no lograba conectar al primer intento. Esto, sumado a que no me adaptaba a Gnome y Ubuntu, acostumbrado desde hace unos 6 años a Mandrake/Mandriva y KDE hicieron que volviera a mi distro de toda la vida.
 

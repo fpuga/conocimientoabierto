@@ -1,18 +1,16 @@
 ---
-id: 695
-title: 'Serie: Los Soprano'
-date: '2014-04-05T18:52:53+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=695'
-permalink: /serie-los-soprano/695/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2014-04-05
+permalink: /serie-los-soprano/695/
+slug: serie-los-soprano
 tags:
-    - 'Los Soprano'
-    - serie
-    - televisión
+- Los Soprano
+- serie
+- televisión
 ---
+
+# Serie: Los Soprano
 
 [![the_sopranos](http://conocimientoabierto.es/wp-content/blogs.dir/16/files/galerias/enelblog/thumbs/thumbs_the_sopranos.jpg)](http://conocimientoabierto.es/wp-content/blogs.dir/16/files/galerias/enelblog/the_sopranos.jpg "poster promocional de los soprano")La casualidad hizo que empezara a ver [Los Soprano](http://es.wikipedia.org/wiki/Los_Soprano) el día anterior a [la muerte de Gandolfini](http://www.rtve.es/noticias/20130620/muere-actor-james-gandolfini-protagonista-the-sopranos/693080.shtml).
 

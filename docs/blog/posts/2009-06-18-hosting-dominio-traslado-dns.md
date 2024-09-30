@@ -1,15 +1,13 @@
 ---
-id: 89
-title: 'hostings, dominios, traslados y dns de manera informal e inexacta'
-date: '2009-06-18T11:32:53+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=89'
-permalink: /hosting-dominio-traslado-dns/89/
 categories:
-    - cooperacion
-    - General
+- cooperacion
+- General
+date: 2009-06-18
+permalink: /hosting-dominio-traslado-dns/89/
+slug: hosting-dominio-traslado-dns
 ---
+
+# hostings, dominios, traslados y dns de manera informal e inexacta
 
 Se llama **hosting** al ordenador que está en internet al que subimos los contenidos de nuestra web. Este ordenador nos proporcionará diversas funcionalidades, pueden darnos acceso a 1 base de datos o a 10 o a cero, un espacio limitado o ilimitado, … todo depende de lo que contratemos.
 

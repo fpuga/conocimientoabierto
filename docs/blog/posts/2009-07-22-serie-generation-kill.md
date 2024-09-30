@@ -1,14 +1,12 @@
 ---
-id: 105
-title: 'Serie: Generation Kill'
-date: '2009-07-22T14:30:48+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=105'
-permalink: /serie-generation-kill/105/
 categories:
-    - General
+- General
+date: 2009-07-22
+permalink: /serie-generation-kill/105/
+slug: serie-generation-kill
 ---
+
+# Serie: Generation Kill
 
 [Generation Kill](http://en.wikipedia.org/wiki/Generation_Kill_(TV_series)) es una miniserie que consta de 7 capítulos de aproximadamente una hora de duración emitida en el 2008. La serie está basada en las experiencias vividas por Evan Wrigth, un periodista de Rolling Stone empotrado en un batallón del 1º Cuerpo de Reconocimiento de Marines durante la invasión a Irak de 2003.
 

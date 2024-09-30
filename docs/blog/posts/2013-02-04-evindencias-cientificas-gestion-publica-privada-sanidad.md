@@ -1,18 +1,16 @@
 ---
-id: 532
-title: 'Evidencias científicas sobre gestión pública o privada en sanidad'
-date: '2013-02-04T21:59:54+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=532'
-permalink: /evindencias-cientificas-gestion-publica-privada-sanidad/532/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2013-02-04
+permalink: /evindencias-cientificas-gestion-publica-privada-sanidad/532/
+slug: evindencias-cientificas-gestion-publica-privada-sanidad
 tags:
-    - 'Nada Es Gratis'
-    - 'público vs privado'
-    - sanidad
+- Nada Es Gratis
+- público vs privado
+- sanidad
 ---
+
+# Evidencias científicas sobre gestión pública o privada en sanidad
 
 En [Nada Es Gratis](http://www.fedeablogs.net/economia/), han publicado una serie de artículos que tratan de informar sobre las *evidencias científicas* existentes a la hora de decidir entre modelos de gestión pública o privada para la sanidad.
 

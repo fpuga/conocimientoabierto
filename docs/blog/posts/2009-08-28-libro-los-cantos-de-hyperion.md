@@ -1,18 +1,16 @@
 ---
-id: 135
-title: 'Libro: Los Cantos de Hyperion'
-date: '2009-08-28T10:44:44+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=135'
-permalink: /libro-los-cantos-de-hyperion/135/
 categories:
-    - General
+- General
+date: 2009-08-28
+permalink: /libro-los-cantos-de-hyperion/135/
+slug: libro-los-cantos-de-hyperion
 tags:
-    - 'ciencia ficción'
-    - hyperion
-    - libros
+- ciencia ficción
+- hyperion
+- libros
 ---
+
+# Libro: Los Cantos de Hyperion
 
 <div style="float:left;margin:2em"></div>[Los Cantos de Hyperion](http://es.wikipedia.org/wiki/Los_Cantos_de_Hyperion) es una saga constituida por cuatro libros que generalmente se dividen en dos partes. A los dos primeros libros, Hyperion y La caida de Hyperion se les suele denominar como Los cantos de Hyperion, mientras que a los dos últimos Endymion y El ascenso de Endymion se los denomina como Los viajes de Endymion. Hace poco me regalaron los dos primeros libros (editados en un sólo volumen) y acabo de terminarlos.
 

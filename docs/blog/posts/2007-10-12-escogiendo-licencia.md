@@ -1,18 +1,12 @@
 ---
-id: 25
-title: 'Escogiendo licencia'
-date: '2007-10-12T13:43:00+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/escogiendo-licencia/25/'
-permalink: /escogiendo-licencia/25/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2007/10/escogiendo-licencia.html
 categories:
-    - General
+- General
+date: 2007-10-12
+permalink: /escogiendo-licencia/25/
+slug: escogiendo-licencia
 ---
+
+# Escogiendo licencia
 
 Una de las muchas tareas pendientes que tenía con el blog era el de establecer una licencia para los contenidos. La satisfacción que me produjo que la gente de [Canal Solidario](http://www.canalsolidario.org/web/) incluyera en su portada [una de las entradas de este blog](http://www.canalsolidario.org/web/noticias/noticia/?id_noticia=9270) ha acelerado las cosas.
 

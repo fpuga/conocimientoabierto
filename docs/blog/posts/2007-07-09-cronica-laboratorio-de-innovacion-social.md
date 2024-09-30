@@ -1,20 +1,14 @@
 ---
-id: 18
-title: 'Crónica: Laboratorio de Innovación Social'
-date: '2007-07-09T17:00:00+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/cronica-laboratorio-de-innovacion-social/15/'
-permalink: /cronica-laboratorio-de-innovacion-social/18/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2007/07/crnica-laboratorio-de-innovacin-social.html
 categories:
-    - comunicacion
-    - cooperacion
-    - receta
+- comunicacion
+- cooperacion
+- receta
+date: 2007-07-09
+permalink: /cronica-laboratorio-de-innovacion-social/18/
+slug: cronica-laboratorio-de-innovacion-social
 ---
+
+# Crónica: Laboratorio de Innovación Social
 
 [![](http://3.bp.blogspot.com/_wrQ7gWEOyz8/RpJqNHg-0XI/AAAAAAAAAAM/G9GQV4F5M8M/s320/equipo%2Bf%C3%BAtbol%2Bvigo.JPG)](http://3.bp.blogspot.com/_wrQ7gWEOyz8/RpJqNHg-0XI/AAAAAAAAAAM/G9GQV4F5M8M/s1600-h/equipo%2Bf%C3%BAtbol%2Bvigo.JPG)A pesar del peligro de que este blog se convierta en una colección de resúmenes de los cursos que hago, haré una entrada sobre el [Laboratorio de Innovación Social](http://laboratoriodeinnovacionsocial.org/).
 

@@ -1,22 +1,20 @@
 ---
-id: 265
-title: 'Leído por ahí'
-date: '2010-12-19T16:52:27+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=265'
-permalink: /leido-por-ahi/265/
 categories:
-    - General
+- General
+date: 2010-12-19
+permalink: /leido-por-ahi/265/
+slug: leido-por-ahi
 tags:
-    - desarrollo
-    - file
-    - mapas
-    - mobilidad
-    - sáhara
-    - tren
-    - wikileaks
+- desarrollo
+- file
+- mapas
+- mobilidad
+- sáhara
+- tren
+- wikileaks
 ---
+
+# Leído por ahí
 
 - Ya tiene algún tiempo pero aún así es [inaceptable.](http://www.elpais.com/articulo/sociedad/tertuliano/Telemadrid/realiza/comentarios/sexuales/explicitos/delante/menores/elpepusoc/20101117elpepusoc_1/Tes)
 - Un paper del Igadi que en sólo 15 páginas nos cuenta toda la [historia del conflicto saharaui](http://www.igadi.org/programas_investigacion/001/sahara_occidental.htm). Y para darle un poco más de contexto [un mapa](http://www.mundoarabe.org/mapa_sahara.gif) de como está dividido el territorio en la actualidad.

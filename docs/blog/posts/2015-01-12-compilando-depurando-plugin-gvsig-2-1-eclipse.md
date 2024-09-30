@@ -1,23 +1,21 @@
 ---
-id: 745
-title: 'Compilando y depurando un plugin de ejemplo para gvSIG 2.1 desde Eclipse'
-date: '2015-01-12T20:55:43+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=745'
-permalink: /compilando-depurando-plugin-gvsig-2-1-eclipse/745/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2015-01-12
+permalink: /compilando-depurando-plugin-gvsig-2-1-eclipse/745/
+slug: compilando-depurando-plugin-gvsig-2-1-eclipse
 tags:
-    - como
-    - 'desarrollo sofware'
-    - eclipse
-    - gvsig
-    - 'how to'
-    - programación
-    - receta
-    - tutorial
+- como
+- desarrollo sofware
+- eclipse
+- gvsig
+- how to
+- programación
+- receta
+- tutorial
 ---
+
+# Compilando y depurando un plugin de ejemplo para gvSIG 2.1 desde Eclipse
 
 Joaquín del Cerro ha publicado un artículo explicando [como compilar y depurar un plugin de ejemplo para gvSIG 2.1 con NeatBeans](http://blog.gvsig.org/2014/12/29/compilando-y-depurando-un-plugin-de-ejemplo-para-gvsig-2-1-0-desde-un-ide-netbeans/). He adaptado sus instrucciones para Eclipse que es mi IDE habitual. Este artículo no es tan detallado como el suyo así que seguramente tendrás que consultar los dos, especialmente los pasos previos que comenta Joaquín para que todo funcione.
 

@@ -1,14 +1,12 @@
 ---
-id: 81
-title: Intenciones
-date: '2009-06-03T17:39:59+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=81'
-permalink: /intenciones/81/
 categories:
-    - General
+- General
+date: 2009-06-03
+permalink: /intenciones/81/
+slug: intenciones
 ---
+
+# Intenciones
 
 No lo había dicho antes pero me había marcado el objetivo de escribir como mínimo un post a la semana. Como el primero que escribí de la nueva serie fue en miércoles, ese va a ser en principio el día de publicación.
 

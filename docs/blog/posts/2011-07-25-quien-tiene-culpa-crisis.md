@@ -1,17 +1,15 @@
 ---
-id: 378
-title: 'Quien tiene la culpa de la crisis'
-date: '2011-07-25T16:15:32+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=378'
-permalink: /quien-tiene-culpa-crisis/378/
 categories:
-    - General
+- General
+date: 2011-07-25
+permalink: /quien-tiene-culpa-crisis/378/
+slug: quien-tiene-culpa-crisis
 tags:
-    - crisis
-    - filosofia
+- crisis
+- filosofia
 ---
+
+# Quien tiene la culpa de la crisis
 
 ***Aviso antes de que sigas leyendo**: Este artículo contine cierta dosis de demagogia, pero a veces hace falta llegar al extremo para saber donde está el centro.*
 

@@ -1,20 +1,14 @@
 ---
-id: 14
-title: 'Primates, violencia y genes.'
-date: '2007-06-11T16:32:00+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/primates-violencia-y-genes/11/'
-permalink: /primates-violencia-y-genes/14/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2007/06/primates-violencia-y-genes.html
 categories:
-    - cultura
-    - genetica
-    - primates
+- cultura
+- genetica
+- primates
+date: 2007-06-11
+permalink: /primates-violencia-y-genes/14/
+slug: primates-violencia-y-genes
 ---
+
+# Primates, violencia y genes.
 
 Acabo de verlo en la [tele](http://www.tve.es) y no he podido resistirme.
 

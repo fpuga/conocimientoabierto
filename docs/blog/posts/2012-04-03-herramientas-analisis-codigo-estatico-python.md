@@ -1,19 +1,17 @@
 ---
-id: 468
-title: 'Herramientas de análisis de código estático en Python'
-date: '2012-04-03T01:14:47+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=468'
-permalink: /herramientas-analisis-codigo-estatico-python/468/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2012-04-03
+permalink: /herramientas-analisis-codigo-estatico-python/468/
+slug: herramientas-analisis-codigo-estatico-python
 tags:
-    - 'análisis estático de código'
-    - comparativa
-    - 'desarrollo sofware'
-    - python
+- análisis estático de código
+- comparativa
+- desarrollo sofware
+- python
 ---
+
+# Herramientas de análisis de código estático en Python
 
 Programar es fácil, y puede hacerse con el bloc de notas. Escribir buen código es bastante más complicado, por ello existen un montón de herramientas que pueden ayudarnos. Un tipo de herramientas que he empezado a usar (en python) ultimamente son las de [análisis estático de código](http://en.wikipedia.org/wiki/Static_program_analysis). [Estas herramientas](http://www.embedded.com/design/prototyping-and-development/4006735/Integrate-static-analysis-into-a-software-development-process) examinan tu código (sin ejecutarlo) en busca de ciertos patrones, alertando de «code smells», incroguencias de estilo, posibles bugs, código repetido e incluso dando consejos sobre rendimiento o encapsulamiento en algunos casos.
 

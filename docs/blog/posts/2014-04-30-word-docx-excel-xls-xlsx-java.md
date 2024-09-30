@@ -1,24 +1,22 @@
 ---
-id: 699
-title: 'Trabajar con Word (docx) y Excel (xls y xlsx) desde Java'
-date: '2014-04-30T16:49:23+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=699'
-permalink: /word-docx-excel-xls-xlsx-java/699/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2014-04-30
+permalink: /word-docx-excel-xls-xlsx-java/699/
+slug: word-docx-excel-xls-xlsx-java
 tags:
-    - cartolab
-    - 'desarrollo sofware'
-    - docx
-    - excel
-    - java
-    - programación
-    - word
-    - xls
-    - xlsx
+- cartolab
+- desarrollo sofware
+- docx
+- excel
+- java
+- programación
+- word
+- xls
+- xlsx
 ---
+
+# Trabajar con Word (docx) y Excel (xls y xlsx) desde Java
 
 ![Iconos Word y Excel de MS Office](http://conocimientoabierto.es/wp-content/blogs.dir/16/files/galerias/enelblog/Word-y-Excel-de-Office.jpg)En [Cartolab](http://cartolab.udc.es/) hemos trabajado ultimamente en procesar y generar documentos de Excel (xls y xlsx) y de Word (docx) desde Java. Tras probar algunas librerías open source las que estamos usando son:
 

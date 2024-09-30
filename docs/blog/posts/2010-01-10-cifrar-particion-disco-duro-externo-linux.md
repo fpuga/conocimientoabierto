@@ -1,20 +1,18 @@
 ---
-id: 197
-title: 'Cifrar una partición o disco duro externo en GNU/Linux'
-date: '2010-01-10T15:38:26+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=197'
-permalink: /cifrar-particion-disco-duro-externo-linux/197/
 categories:
-    - General
+- General
+date: 2010-01-10
+permalink: /cifrar-particion-disco-duro-externo-linux/197/
+slug: cifrar-particion-disco-duro-externo-linux
 tags:
-    - cifrado
-    - como
-    - 'how to'
-    - receta
-    - seguridad
+- cifrado
+- como
+- how to
+- receta
+- seguridad
 ---
+
+# Cifrar una partición o disco duro externo en GNU/Linux
 
 A pesar de que soy un firme defensor de los asistentes gráficos, creo que ciertas cosillas, sobre todo las relativas a la seguridad y que llega con hacer una vez en la vida es conveniente aprender a hacerlas «de verdad». Una de esas cosas para las que merece la pena remangarse es aprender a cifrar o encriptar ([sic](http://es.wikipedia.org/wiki/Sic)) particiones o discos duros completos. Las instrucciones que voy a dar a continuación están pensadas para cifrar una partición en dispositivo externo pero también valdrían para una interna. Si lo que queremos es cifrar /home quedarían algunas cosas más por hacer que lo que aquí se describe. Por poner las cosas un poco en contexto, la idea de fondo de esta receta es que tengo un disco duro externo con varias particiones. En dos de ellas, cifradas ambas, hago copia de seguridad de un portátil y un sobremesa. La tercera es un almacen de archivos multimedia, música y vídeos obtenidos de gente que los[ compartía de forma no delictiva a través de internet](http://www.filmica.com/david_bravo/archivos/009353.html).
 

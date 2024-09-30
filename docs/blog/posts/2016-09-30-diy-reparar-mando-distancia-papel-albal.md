@@ -1,21 +1,19 @@
 ---
-id: 884
-title: 'DIY: Reparar el mando a distancia con papel albal'
-date: '2016-09-30T11:34:46+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=884'
-permalink: /diy-reparar-mando-distancia-papel-albal/884/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2016-09-30
+permalink: /diy-reparar-mando-distancia-papel-albal/884/
+slug: diy-reparar-mando-distancia-papel-albal
 tags:
-    - 'cinco erres'
-    - como
-    - diy
-    - hardware
-    - 'how to'
-    - maker
+- cinco erres
+- como
+- diy
+- hardware
+- how to
+- maker
 ---
+
+# DIY: Reparar el mando a distancia con papel albal
 
 Cuando el mando a distancia de la televisión tiene cierto uso no es raro que ciertos botones dejen de funcionar. Repararlo es más sencillo de lo que podría parecer.
 

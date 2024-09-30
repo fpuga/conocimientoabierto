@@ -1,20 +1,18 @@
 ---
-id: 593
-title: 'Tres podcast de JavaHispano sobre legislación'
-date: '2013-09-14T08:00:05+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=593'
-permalink: /tres-podcast-de-javahispano-sobre-legislacion/593/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2013-09-14
+permalink: /tres-podcast-de-javahispano-sobre-legislacion/593/
+slug: tres-podcast-de-javahispano-sobre-legislacion
 tags:
-    - 'desarrollo sofware'
-    - legislación
-    - lopd
-    - 'propiedad intelectual'
-    - 'software libre'
+- desarrollo sofware
+- legislación
+- lopd
+- propiedad intelectual
+- software libre
 ---
+
+# Tres podcast de JavaHispano sobre legislación
 
 Si eres desarrollador hay un par de aspectos de la legislación de las que deberías tener ciertas nociones. Propiedad intelectual, LOPD, LSSICE, Licencias de Software, Software Libre,… son conceptos que si bien seguramente no tienes porque dominar, al menos te deberían sonar. Ultimamente he oído tres podcasts de JavaHispano donde tocan alguno de estos aspectos que no está de más escuchar:
 

@@ -1,18 +1,16 @@
 ---
-id: 829
-title: 'El sol, la tierra la luna y animaciones con css3'
-date: '2015-11-21T13:16:56+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=829'
-permalink: /sol-tierra-luna-animaciones-css3/829/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2015-11-21
+permalink: /sol-tierra-luna-animaciones-css3/829/
+slug: sol-tierra-luna-animaciones-css3
 tags:
-    - css
-    - 'desarrollo web'
-    - html
+- css
+- desarrollo web
+- html
 ---
+
+# El sol, la tierra la luna y animaciones con css3
 
 Hace algún tiempo vi un ejemplo brutal de como usar únicamente [html5 y css3 para hacer una «representación» del sistema solar](http://neography.com/journal/our-solar-system-in-css3/).
 

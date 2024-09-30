@@ -1,19 +1,17 @@
 ---
-id: 141
-title: 'Siempre hay que poner la licencia'
-date: '2009-09-04T17:40:58+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=141'
-permalink: /siempre-hay-que-poner-la-licencia/141/
 categories:
-    - General
+- General
+date: 2009-09-04
+permalink: /siempre-hay-que-poner-la-licencia/141/
+slug: siempre-hay-que-poner-la-licencia
 tags:
-    - copyright
-    - 'domino público'
-    - licencias
-    - meta
+- copyright
+- domino público
+- licencias
+- meta
 ---
+
+# Siempre hay que poner la licencia
 
 A raíz de un [post de David de Ugarte](http://www.lasindias.com/creative-commons-0-%C2%BFun-cero-a-la-izquierda/) de hace un par de días me di cuenta de que todavía no había explicitado la licencia de este blog. Es importante dejar siempre clara la licencia porque si no por defecto se aplica el restrictivo copyright que cada día tiene [usos más alejados](http://www.techdirt.com/articles/20090328/1445494290.shtml) de su idea original demostrando su inoperancia. Así que ya podéis leer en el pie de página lo siguiente:
 

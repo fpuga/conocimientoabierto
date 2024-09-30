@@ -1,20 +1,14 @@
 ---
-id: 37
-title: 'Viejos límites para nuevos modos'
-date: '2008-02-11T14:41:00+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/viejos-limites-para-nuevos-modos/37/'
-permalink: /viejos-limites-para-nuevos-modos/37/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2008/02/viejos-lmites-para-nuevos-modos.html
 categories:
-    - ciberactivismo
-    - comunicaciong
-    - 'tercer sector'
+- ciberactivismo
+- comunicaciong
+- tercer sector
+date: 2008-02-11
+permalink: /viejos-limites-para-nuevos-modos/37/
+slug: viejos-limites-para-nuevos-modos
 ---
+
+# Viejos límites para nuevos modos
 
 A estas alturas la mayoría de la gente interesada en los temas sociales habrá recibido el famoso mail o se habrá enterado [por otra vía](http://notime-towaste.blogspot.com/2008/02/el-gobierno-de-espaa-no-quiere-que-veas.html) del vídeo realizado por Amnistía Internacional. Pero no es del vídeo en si sobre lo que me gustaría hablar, si no de la polémica, o mejor todavía de la no-polémica. Porque así como [ayer decía que estaba asustado](http://conocimientoabierto.blogspot.com/2008/02/mestizaje-y-diversidad.html) hoy he encontrado motivos para ser optimista. Lo que podía haberse convertido en un estúpido «o estás conmigo o estás contra mi» ha sido tratado de forma seria en los blogs que sigo con asiduidad. Así, [Olga](http://www.labroma.org/blog/wp-trackback.php?p=1666), [laotraagenda](http://www.laotraagenda.com/2008/02/el-poder-de-tu-voz-censurado.html) e [Iván Pino](http://ivanpino.com/wp-trackback.php?p=529) hablan de ello sin estridencias ni creerse poseedores de la verdad absoluta, lo cual es realmente de agradecer.
 

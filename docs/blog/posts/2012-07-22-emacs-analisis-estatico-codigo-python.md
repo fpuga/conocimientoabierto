@@ -1,19 +1,17 @@
 ---
-id: 478
-title: 'Emacs y análisis estático de código en python'
-date: '2012-07-22T16:42:23+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=478'
-permalink: /emacs-analisis-estatico-codigo-python/478/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2012-07-22
+permalink: /emacs-analisis-estatico-codigo-python/478/
+slug: emacs-analisis-estatico-codigo-python
 tags:
-    - 'análisis estático de código'
-    - 'desarrollo sofware'
-    - emacs
-    - python
+- análisis estático de código
+- desarrollo sofware
+- emacs
+- python
 ---
+
+# Emacs y análisis estático de código en python
 
 Gracias a [Cartolab](http://cartolab.udc.es/) he podido seguir dándole una vuelta al análisis de código estático en python. La idea era reducir los incómodos errores que se producen porque te equivocas al escribir el nombre de una variable o cosas parecidas de las que no te das cuenta has que ejecutas el código. Tratar de detectar estos errores [de la forma en que lo veíamos en el artículo anterior](http://conocimientoabierto.es/herramientas-analisis-codigo-estatico-python/468/) sigue sin ser demasiado productivo y aquí es donde entra en juego la [extensión para emacs Flymake](http://flymake.sourceforge.net/).
 

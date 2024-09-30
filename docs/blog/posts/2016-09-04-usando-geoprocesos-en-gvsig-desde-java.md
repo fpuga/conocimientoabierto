@@ -1,24 +1,22 @@
 ---
-id: 878
-title: 'Usando GeoProcesos en gvSIG desde Java'
-date: '2016-09-04T19:53:02+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=878'
-permalink: /usando-geoprocesos-en-gvsig-desde-java/878/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2016-09-04
+permalink: /usando-geoprocesos-en-gvsig-desde-java/878/
+slug: usando-geoprocesos-en-gvsig-desde-java
 tags:
-    - como
-    - 'desarrollo sofware'
-    - geoprocesos
-    - gis
-    - gvsig
-    - 'how to'
-    - java
-    - receta
-    - tutorial
+- como
+- desarrollo sofware
+- geoprocesos
+- gis
+- gvsig
+- how to
+- java
+- receta
+- tutorial
 ---
+
+# Usando GeoProcesos en gvSIG desde Java
 
 La semana pasada había [un correo en la lista de desarrollo de gvSIG](https://listserv.gva.es/pipermail/gvsig_desarrolladores/2016-August/007975.html) preguntando como poder lanzar geoprocesos desde tu propio plugin mediante Java. Tras una pequeña investigación he escrito [un código de ejemplo](https://github.com/fpuga/trangalladas/blob/master/gvSIG/GeoProcessExampleExtension.java) que espero que sea útil a quien tenga esta necesidad.
 

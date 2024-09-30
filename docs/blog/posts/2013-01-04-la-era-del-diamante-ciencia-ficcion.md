@@ -1,28 +1,26 @@
 ---
-id: 519
-title: 'La era del diamante ¿Ciencia Ficción?'
-date: '2013-01-04T18:16:39+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=519'
-permalink: /la-era-del-diamante-ciencia-ficcion/519/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2013-01-04
+permalink: /la-era-del-diamante-ciencia-ficcion/519/
+slug: la-era-del-diamante-ciencia-ficcion
 tags:
-    - Asimov
-    - ciberpunk
-    - cienc
-    - educación
-    - fabbing
-    - futuro
-    - 'impresora 3D'
-    - 'Ken Robinson'
-    - 'khan academy'
-    - 'La era del diamante'
-    - libros
-    - mooc
-    - 'Neal Stephenson'
+- Asimov
+- ciberpunk
+- cienc
+- educación
+- fabbing
+- futuro
+- impresora 3D
+- Ken Robinson
+- khan academy
+- La era del diamante
+- libros
+- mooc
+- Neal Stephenson
 ---
+
+# La era del diamante ¿Ciencia Ficción?
 
 Para aquellos a los que [La era de diamante](http://es.wikipedia.org/wiki/La_era_del_diamante) les parecía simplemente un libro más de ciencia ficción un par de enlaces de estos días. A los que no lo hayan leido puede que les falte un poco de contexto, pero los enlaces siguen siendo interesantes…
 

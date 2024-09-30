@@ -1,19 +1,17 @@
 ---
-id: 794
-title: 'Portátiles entre 600 y 700€ para CAD y Diseño'
-date: '2015-08-08T20:45:55+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=794'
-permalink: /portatiles-entre-600-y-700e-para-cad-y-diseno/794/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2015-08-08
+permalink: /portatiles-entre-600-y-700e-para-cad-y-diseno/794/
+slug: portatiles-entre-600-y-700e-para-cad-y-diseno
 tags:
-    - 'comprar portátil'
-    - hardware
-    - portátil
-    - recomendaciones
+- comprar portátil
+- hardware
+- portátil
+- recomendaciones
 ---
+
+# Portátiles entre 600 y 700€ para CAD y Diseño
 
 Estos días un amigo me pidió ayuda para comprar un ordenador. Los requisitos:
 

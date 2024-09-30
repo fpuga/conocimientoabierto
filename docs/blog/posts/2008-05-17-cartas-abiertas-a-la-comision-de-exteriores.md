@@ -1,20 +1,14 @@
 ---
-id: 42
-title: 'Cartas abiertas a la Comisión de Exteriores'
-date: '2008-05-17T13:28:00+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/cartas-abiertas-a-la-comision-de-exteriores/42/'
-permalink: /cartas-abiertas-a-la-comision-de-exteriores/42/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2008/05/cartas-abiertas-la-comisin-de.html
 categories:
-    - 'bombas de racimo'
-    - ciberactivismo
-    - politica
+- bombas de racimo
+- ciberactivismo
+- politica
+date: 2008-05-17
+permalink: /cartas-abiertas-a-la-comision-de-exteriores/42/
+slug: cartas-abiertas-a-la-comision-de-exteriores
 ---
+
+# Cartas abiertas a la Comisión de Exteriores
 
 Comparto con vosotros los emails que he enviado a varios diputados de la Comisión de Exteriores para interrogarlos acerca de su postura en torno a las bombas de racimo. Están basadas en la de [Francisco Polo](http://www.cosasdeladiplomacia.info/wp-content/uploads/2007/09/bombas-de-racimo-carta-tipo.doc) \[formato DOC\] y podéis copiarlas o adaptarlas para enviarlas vosotros también.
 

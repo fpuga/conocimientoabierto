@@ -1,19 +1,17 @@
 ---
-id: 650
-title: 'Charlas del FOSS4G 13'
-date: '2014-01-05T09:00:32+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=650'
-permalink: /charlas-del-foss4g-13/650/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2014-01-05
+permalink: /charlas-del-foss4g-13/650/
+slug: charlas-del-foss4g-13
 tags:
-    - charlas
-    - foss4g
-    - gis
-    - videos
+- charlas
+- foss4g
+- gis
+- videos
 ---
+
+# Charlas del FOSS4G 13
 
 Estoy viendo algunas (la mayoría) de las charlas del FOSS4G que hay [en esta lista de youtube](https://www.youtube.com/playlist?list=PLWW0CjV-TafaBjkroiOxcQw8NdOQ_fhu2). Llevo las primeras 25, y comparto en dos grupos las que me han parecido más interesantes y otras que he visto con una mínima descripción.
 

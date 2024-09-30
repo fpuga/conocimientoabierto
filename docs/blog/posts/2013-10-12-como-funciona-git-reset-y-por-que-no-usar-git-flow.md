@@ -1,18 +1,16 @@
 ---
-id: 598
-title: 'Como funciona git reset y porqué no usar git-flow'
-date: '2013-10-12T17:14:27+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=598'
-permalink: /como-funciona-git-reset-y-por-que-no-usar-git-flow/598/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2013-10-12
+permalink: /como-funciona-git-reset-y-por-que-no-usar-git-flow/598/
+slug: como-funciona-git-reset-y-por-que-no-usar-git-flow
 tags:
-    - 'desarrollo sofware'
-    - git
-    - github
+- desarrollo sofware
+- git
+- github
 ---
+
+# Como funciona git reset y porqué no usar git-flow
 
 [Scott Chacon](http://scottchacon.com/about.html) *demistifica* en el siguiente vídeo git reset, que es probablemente uno de los comandos más complejos de entender de git.
 

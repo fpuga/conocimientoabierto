@@ -1,21 +1,15 @@
 ---
-id: 17
-title: 'Crónica: Un mundo desigual (II)'
-date: '2007-07-02T13:30:00+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/cronica-un-mundo-desigual-ii/14/'
-permalink: /cronica-un-mundo-desigual-ii/17/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2007/07/crnica-un-mundo-desigual-ii.html
 categories:
-    - cooperacion
-    - epd
-    - esf
-    - mundodesigual07
+- cooperacion
+- epd
+- esf
+- mundodesigual07
+date: 2007-07-02
+permalink: /cronica-un-mundo-desigual-ii/17/
+slug: cronica-un-mundo-desigual-ii
 ---
+
+# Crónica: Un mundo desigual (II)
 
 .flickr-photo { border: solid 2px #000000; }
 

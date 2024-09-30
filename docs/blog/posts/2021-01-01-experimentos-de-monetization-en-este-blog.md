@@ -1,18 +1,16 @@
 ---
-id: 1031
-title: 'Experimentos de «Monetization» en este blog'
-date: '2021-01-01T18:50:49+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=1031'
-permalink: /experimentos-de-monetization-en-este-blog/1031/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2021-01-01
+permalink: /experimentos-de-monetization-en-este-blog/1031/
+slug: experimentos-de-monetization-en-este-blog
 tags:
-    - libros
-    - monetization
-    - 'soberanía digital'
+- libros
+- monetization
+- soberanía digital
 ---
+
+# Experimentos de «Monetization» en este blog
 
 Hace unos días Tom MacWright publicaba en su blog un artículo titulado [Monetization experiments on this website](https://macwright.com/2020/11/15/mini-monetization-experiments.html)
 

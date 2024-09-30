@@ -1,22 +1,20 @@
 ---
-id: 965
-title: 'Virtualbox + Windows + VideoConferencia Múltiple en Skype'
-date: '2018-07-24T17:50:24+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=965'
-permalink: /virtualbox-windows-videoconferencia-multiple-en-skype/965/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2018-07-24
+permalink: /virtualbox-windows-videoconferencia-multiple-en-skype/965/
+slug: virtualbox-windows-videoconferencia-multiple-en-skype
 tags:
-    - como
-    - 'how to'
-    - linux
-    - receta
-    - skype
-    - virtualbox
-    - windows
+- como
+- how to
+- linux
+- receta
+- skype
+- virtualbox
+- windows
 ---
+
+# Virtualbox + Windows + VideoConferencia Múltiple en Skype
 
 Si usas linux no sería extraño que alguna vez te hayas encontrado con una **ineludible** videoconferencia de grupo por Skype y hayas tenido que hacer números para poder participar.
 

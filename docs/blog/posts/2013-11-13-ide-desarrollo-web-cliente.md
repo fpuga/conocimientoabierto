@@ -1,19 +1,17 @@
 ---
-id: 604
-title: 'IDE para desarrollo web en cliente'
-date: '2013-11-13T19:50:47+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=604'
-permalink: /ide-desarrollo-web-cliente/604/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2013-11-13
+permalink: /ide-desarrollo-web-cliente/604/
+slug: ide-desarrollo-web-cliente
 tags:
-    - 'desarrollo sofware'
-    - 'desarrollo web'
-    - 'Escoger IDE web'
-    - IDE
+- desarrollo sofware
+- desarrollo web
+- Escoger IDE web
+- IDE
 ---
+
+# IDE para desarrollo web en cliente
 
 Estoy buscando un **IDE** (o editor de código) para desarrollo web centrado en el cliente (**JavaScript, HTML y CSS**). Tras [duckduckgodear](https://duckduckgo.com/?q=IDE+javascript) un poco ya tengo una lista de los entornos que <del>voy a</del> me gustaría probar, no necesariamente en este orden:
 

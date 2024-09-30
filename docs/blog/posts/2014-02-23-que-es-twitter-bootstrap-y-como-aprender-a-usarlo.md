@@ -1,21 +1,19 @@
 ---
-id: 657
-title: 'Qué es Twitter Bootstrap y cómo aprender a usarlo'
-date: '2014-02-23T09:30:10+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=657'
-permalink: /que-es-twitter-bootstrap-y-como-aprender-a-usarlo/657/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2014-02-23
+permalink: /que-es-twitter-bootstrap-y-como-aprender-a-usarlo/657/
+slug: que-es-twitter-bootstrap-y-como-aprender-a-usarlo
 tags:
-    - bootstrap
-    - como
-    - 'desarrollo sofware'
-    - 'desarrollo web'
-    - 'how to'
-    - web
+- bootstrap
+- como
+- desarrollo sofware
+- desarrollo web
+- how to
+- web
 ---
+
+# Qué es Twitter Bootstrap y cómo aprender a usarlo
 
 Generar una plantilla básica sobre la que empezar un proyecto web que tenga en cuenta los distintos navegadores y tamaños de dispositivos consume mucho más tiempo del que debería. Para minimizar este problema durante los últimos dos o tres años [han surgido varios frameworks](http://www.sitepoint.com/best-web-designing-frameworks-2014/) de diseño web. Si te dedicas a esto y no has estado debajo de una piedra este tiempo, sin duda habrás oído hablar de [twitter-bootstrap](http://getbootstrap.com/), que es el que se ha hecho más popular.
 

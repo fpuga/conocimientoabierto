@@ -1,20 +1,18 @@
 ---
-id: 522
-title: 'Science fiction has always been about the present, not the future'
-date: '2013-01-05T17:53:01+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=522'
-permalink: /science-fiction-has-always-been-about-the-present/522/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2013-01-05
+permalink: /science-fiction-has-always-been-about-the-present/522/
+slug: science-fiction-has-always-been-about-the-present
 tags:
-    - Asimov
-    - ciberpunk
-    - 'La era del diamante'
-    - 'Neal Stephenson'
-    - 'Pat Cadigan'
+- Asimov
+- ciberpunk
+- La era del diamante
+- Neal Stephenson
+- Pat Cadigan
 ---
+
+# Science fiction has always been about the present, not the future
 
 No os perdais la [interpretación que hace Andrés del libro Bobedas de Acero](http://nosolosoftware.com/bovedas-de-acero/).
 

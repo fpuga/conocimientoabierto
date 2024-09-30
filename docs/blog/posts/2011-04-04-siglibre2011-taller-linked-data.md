@@ -1,22 +1,20 @@
 ---
-id: 295
-title: 'SigLibre2011: Taller Linked Data'
-date: '2011-04-04T17:48:58+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=295'
-permalink: /siglibre2011-taller-linked-data/295/
 categories:
-    - General
+- General
+date: 2011-04-04
+permalink: /siglibre2011-taller-linked-data/295/
+slug: siglibre2011-taller-linked-data
 tags:
-    - girona
-    - gis
-    - 'linked data'
-    - rdf
-    - siglibre2011
-    - web
-    - 'web semántica'
+- girona
+- gis
+- linked data
+- rdf
+- siglibre2011
+- web
+- web semántica
 ---
+
+# SigLibre2011: Taller Linked Data
 
 Hace poco CartoLab me dió la oportunidad de asistir a las [V Jornadas de SIG Libre de Girona](http://www.sigte.udg.edu/jornadassiglibre2011/). El primer día, y a pesar de los temores de [Gonzalo](http://cartohistorias.blogspot.com/), llegamos a la sede de los talleres sin perdernos, aunque es de recibo decir que caimos de nuevo en el error del año pasado de intentar aparcar en el campus de la Facultat de Letres, lo que roza lo imposible, por lo que al final aparcamos en la ciudad y subimos andando (en realidad son apenas 10 minutitos de caminata).
 

@@ -1,20 +1,18 @@
 ---
-id: 891
-title: 'Modelado de datos booleanos en la base de datos'
-date: '2017-02-09T20:45:09+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=891'
-permalink: /modelado-de-datos-booleanos-en-la-base-de-datos/891/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2017-02-09
+permalink: /modelado-de-datos-booleanos-en-la-base-de-datos/891/
+slug: modelado-de-datos-booleanos-en-la-base-de-datos
 tags:
-    - 'buenas prácticas'
-    - 'desarrollo sofware'
-    - 'modelo de datos'
-    - postgresql
-    - recomendaciones
+- buenas prácticas
+- desarrollo sofware
+- modelo de datos
+- postgresql
+- recomendaciones
 ---
+
+# Modelado de datos booleanos en la base de datos
 
 Cuando definimos la información que un usuario puede visualizar o modificar a través de un formulario nos encontraremos datos aparentemente booleanos. Por ejemplo: ¿Hay un pozo en esta aldea?.
 

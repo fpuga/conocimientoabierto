@@ -1,20 +1,18 @@
 ---
-id: 447
-title: 'Usar PayPal para que una ONL reciba donaciones'
-date: '2012-01-28T12:00:24+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=447'
-permalink: /paypal-onl-donaciones/447/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2012-01-28
+permalink: /paypal-onl-donaciones/447/
+slug: paypal-onl-donaciones
 tags:
-    - financiación
-    - fundraising
-    - isf
-    - paypal
-    - 'tercer sector'
+- financiación
+- fundraising
+- isf
+- paypal
+- tercer sector
 ---
+
+# Usar PayPal para que una ONL reciba donaciones
 
 Hace unas semanas en [Enxeñería Sen Fronteiras Galicia (ESF)](http://galicia.isf.es) surgió la idea de emplear [PayPal](https://www.paypal.com) para la venta de postales navideñas. Hasta ahora las postales se venían vendiendo a empresas e instituciones por ser pedidos grandes y fáciles de gestionar. Pero, la crísis, agudiza el ingenio y las ONL deben incrementar sus fuentes de financiación, de modo que se hizo un tímido intento de venta de merchandising a particulares. La idea de PayPal ya había surgido en alguna ocasión, aunque más bien desde el punto de vista de la recepción de donativos y no para la venta.
 

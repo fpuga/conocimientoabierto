@@ -1,21 +1,19 @@
 ---
-id: 461
-title: 'Actualizar la versión de Antroid de un HTC Tattoo (II parte)'
-date: '2012-03-18T17:12:28+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=461'
-permalink: /actualizar-la-version-de-antroid-de-un-htc-tattoo-ii-parte/461/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2012-03-18
+permalink: /actualizar-la-version-de-antroid-de-un-htc-tattoo-ii-parte/461/
+slug: actualizar-la-version-de-antroid-de-un-htc-tattoo-ii-parte
 tags:
-    - android
-    - como
-    - 'dispositivos móviles'
-    - hardware
-    - 'how to'
-    - software
+- android
+- como
+- dispositivos móviles
+- hardware
+- how to
+- software
 ---
+
+# Actualizar la versión de Antroid de un HTC Tattoo (II parte)
 
 Las consideraciones generales sobre como actualizar las puedes leer en la [primera parte de este artículo](http://conocimientoabierto.es/actualizar-la-version-de-antroid-de-un-htc-tattoo-i-parte/454/).
 

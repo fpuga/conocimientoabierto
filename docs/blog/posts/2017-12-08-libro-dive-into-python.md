@@ -1,20 +1,18 @@
 ---
-id: 945
-title: 'Libro: Dive Into Python'
-date: '2017-12-08T10:37:01+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=945'
-permalink: /libro-dive-into-python/945/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2017-12-08
+permalink: /libro-dive-into-python/945/
+slug: libro-dive-into-python
 tags:
-    - 'desarrollo sofware'
-    - libro
-    - programación
-    - python
-    - recomendacion
+- desarrollo sofware
+- libro
+- programación
+- python
+- recomendacion
 ---
+
+# Libro: Dive Into Python
 
 Hay una versión del libro [para python 2](http://www.diveintopython.net/), cuya última edición es de 2004, y una versión centrada en [python 3](http://www.diveintopython3.net/) con algo de contenido reescrito. El autor original Mark Pilgrim hace tiempo que [desapareció de internet](https://en.wikipedia.org/wiki/Mark_Pilgrim#.22Disappearance.22_from_the_Internet), pero los libros continúan [siendo mantenidos](https://github.com/diveintomark/diveintopython3) aunque poco actualizados en github.
 

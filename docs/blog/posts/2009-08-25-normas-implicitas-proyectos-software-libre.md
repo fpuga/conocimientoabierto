@@ -1,14 +1,12 @@
 ---
-id: 132
-title: 'Normas implícitas en los proyectos de Software Libre'
-date: '2009-08-25T17:00:33+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=132'
-permalink: /normas-implicitas-proyectos-software-libre/132/
 categories:
-    - General
+- General
+date: 2009-08-25
+permalink: /normas-implicitas-proyectos-software-libre/132/
+slug: normas-implicitas-proyectos-software-libre
 ---
+
+# Normas implícitas en los proyectos de Software Libre
 
 Todos los proyectos de software libre tienen una serie de normas que debes cumplir si quieres colaborar en ellos. Por desgracia, suele suceder que muchas de estas normas no están recogidas de forma clara o no son explícitas. Los mantenedores de los proyectos tienden a asumir que los nuevos colaboradores ya tienen experiencia en el desarrollo de software (o en tareas asociadas) y esto no siempre es cierto.
 

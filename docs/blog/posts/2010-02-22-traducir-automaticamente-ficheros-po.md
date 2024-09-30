@@ -1,20 +1,18 @@
 ---
-id: 207
-title: 'Traducir automáticamente ficheros .po'
-date: '2010-02-22T00:43:02+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=207'
-permalink: /traducir-automaticamente-ficheros-po/207/
 categories:
-    - General
+- General
+date: 2010-02-22
+permalink: /traducir-automaticamente-ficheros-po/207/
+slug: traducir-automaticamente-ficheros-po
 tags:
-    - i18n
-    - poss-gl
-    - python
-    - script
-    - traducción
+- i18n
+- poss-gl
+- python
+- script
+- traducción
 ---
+
+# Traducir automáticamente ficheros .po
 
 Ultimamente estoy dedicando parte de mi tiempo libre a algunos trabajos relacionados con la traducción. En concreto he portado a windows la última versión del [software de traducción gtranslator](http://gtranslator.sourceforge.net/) y estoy participando en un proyecto para [traducir de forma colaborativa al gallego el libro Producing Open Source Software](http://producingoss.ghandalf.org/).
 

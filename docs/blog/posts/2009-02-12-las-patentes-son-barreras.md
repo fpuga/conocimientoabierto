@@ -1,18 +1,12 @@
 ---
-id: 58
-title: 'Las patentes son barreras'
-date: '2009-02-12T11:05:00+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/las-patentes-son-barreras/58/'
-permalink: /las-patentes-son-barreras/58/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2009/02/las-patentes-son-barreras.html
 categories:
-    - General
+- General
+date: 2009-02-12
+permalink: /las-patentes-son-barreras/58/
+slug: las-patentes-son-barreras
 ---
+
+# Las patentes son barreras
 
 Hay un gadget nuevo en la ciudad, se llama [Palm Pre](http://www.palm.com/us/products/phones/pre/) y tiene una pinta increíble para los amantes de este tipo de inventos. Apple y su iPhone [le han visto las orejas al lobo](http://es.engadget.com/2009/01/22/apple-amenaza-en-alusion-al-iphone-si-alguien-vulnera-nuestr/) así que no han dudado lo más mínimo
 

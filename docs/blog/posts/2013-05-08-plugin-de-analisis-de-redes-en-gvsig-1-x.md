@@ -1,20 +1,18 @@
 ---
-id: 559
-title: 'Plugin de análisis de redes en gvSIG 1.x'
-date: '2013-05-08T19:25:11+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=559'
-permalink: /plugin-de-analisis-de-redes-en-gvsig-1-x/559/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2013-05-08
+permalink: /plugin-de-analisis-de-redes-en-gvsig-1-x/559/
+slug: plugin-de-analisis-de-redes-en-gvsig-1-x
 tags:
-    - 'análisis de redes'
-    - cartolab
-    - gis
-    - gvsig
-    - scolab
+- análisis de redes
+- cartolab
+- gis
+- gvsig
+- scolab
 ---
+
+# Plugin de análisis de redes en gvSIG 1.x
 
 Una pregunta habitual en las [listas de correo de gvSIG](http://www.gvsig.org/web/home/community/mailing-lists) es si hay alguna herramienta para realizar análisis de redes. En [Cartolab](http://cartolab.udc.es/) hemos estado buscando enlaces a algunos recursos del plugin llamado «*piloto de redes*» que es el más empleado para estos análisis para poder compartirlos.
 

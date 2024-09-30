@@ -1,20 +1,18 @@
 ---
-id: 375
-title: 'Dan Pink en la sorprendente ciencia de la motivación'
-date: '2011-07-17T16:37:41+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=375'
-permalink: /dan-pink-en-la-sorprendente-ciencia-de-la-motivacion/375/
 categories:
-    - General
+- General
+date: 2011-07-17
+permalink: /dan-pink-en-la-sorprendente-ciencia-de-la-motivacion/375/
+slug: dan-pink-en-la-sorprendente-ciencia-de-la-motivacion
 tags:
-    - 'dan pink'
-    - empresa
-    - motivacion
-    - productividad
-    - rendimiento
+- dan pink
+- empresa
+- motivacion
+- productividad
+- rendimiento
 ---
+
+# Dan Pink en la sorprendente ciencia de la motivación
 
 [Sergio](http://acovadameiga.net/) me pasa un vídeo que da los puntos básicos sobre como debería ser una gestión empresarial moderna. Promoción horizontal, incentivos, gestión, productividad, … son temas de moda sobre los que espero seguir escribiendo pero las premisas básicas son fáciles de condensar:
 

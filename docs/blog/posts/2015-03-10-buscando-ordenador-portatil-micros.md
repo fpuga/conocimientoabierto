@@ -1,19 +1,17 @@
 ---
-id: 764
-title: 'Buscando ordenador portátil &#8211; Micros'
-date: '2015-03-10T21:49:38+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=764'
-permalink: /buscando-ordenador-portatil-micros/764/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2015-03-10
+permalink: /buscando-ordenador-portatil-micros/764/
+slug: buscando-ordenador-portatil-micros
 tags:
-    - 'comprar portátil'
-    - hardware
-    - portátil
-    - recomendaciones
+- comprar portátil
+- hardware
+- portátil
+- recomendaciones
 ---
+
+# Buscando ordenador portátil &#8211; Micros
 
 En el [último artículo](http://conocimientoabierto.es/buscando-portatil-impresiones-foros-reviews/760/) veiamos que para encontrar un ordenador portátil adecuado (en rendimiento y presupuesto) uno los factores más importantes era el micro. Centrándonos en los Intel, la [wikipedia nos da un buen punto de entrada](http://en.wikipedia.org/wiki/Intel_Core). Lo primero a saber es que existen varias generaciones.
 

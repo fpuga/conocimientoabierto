@@ -1,19 +1,17 @@
 ---
-id: 760
-title: 'Buscando un portátil &#8211; Impresiones sacadas de foros y reviews'
-date: '2015-03-09T00:37:47+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=760'
-permalink: /buscando-portatil-impresiones-foros-reviews/760/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2015-03-09
+permalink: /buscando-portatil-impresiones-foros-reviews/760/
+slug: buscando-portatil-impresiones-foros-reviews
 tags:
-    - 'comprar portátil'
-    - hardware
-    - portátil
-    - recomendaciones
+- comprar portátil
+- hardware
+- portátil
+- recomendaciones
 ---
+
+# Buscando un portátil &#8211; Impresiones sacadas de foros y reviews
 
 Tras pensar un poco en los requisitos que debería cumplir mi futuro portátil una búsqueda en [DuckDuckgo](https://duckduckgo.com/) y google usando combinaciones de palabras entre *best*, *laptop*, *linux*, *2014*, *2015*, *programmer*, *developer*,… Dan un montón de enlaces para hacerse una idea general del mercado y ajustar requisitos.
 

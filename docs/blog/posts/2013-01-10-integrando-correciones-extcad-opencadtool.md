@@ -1,21 +1,19 @@
 ---
-id: 525
-title: 'Integrando las correcciones de extCAD en OpenCADTools'
-date: '2013-01-10T18:18:35+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=525'
-permalink: /integrando-correciones-extcad-opencadtool/525/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2013-01-10
+permalink: /integrando-correciones-extcad-opencadtool/525/
+slug: integrando-correciones-extcad-opencadtool
 tags:
-    - cad
-    - cartolab
-    - gis
-    - git
-    - gvsig
-    - opencadtools
+- cad
+- cartolab
+- gis
+- git
+- gvsig
+- opencadtools
 ---
+
+# Integrando las correcciones de extCAD en OpenCADTools
 
 He estado trabajando en integrar todas las correcciones que se hicieron en la extensión oficial de CAD para gvSIG, desde el nacimiento de [OpenCADTools](https://github.com/opencadtools/opencadtools) en las propias opencadtools. Este artículo describe:
 

@@ -1,23 +1,21 @@
 ---
-id: 810
-title: 'Video: Aplicaciones en tiempo real con python y postgres'
-date: '2015-08-25T22:59:21+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=810'
-permalink: /video-aplicaciones-tiempo-real-python-postgres/810/
 categories:
-    - 'Sin categoría'
+- Sin categoría
+date: 2015-08-25
+permalink: /video-aplicaciones-tiempo-real-python-postgres/810/
+slug: video-aplicaciones-tiempo-real-python-postgres
 tags:
-    - como
-    - 'desarrollo sofware'
-    - 'desarrollo web'
-    - 'how to'
-    - postresql
-    - python
-    - tutorial
-    - vídeo
+- como
+- desarrollo sofware
+- desarrollo web
+- how to
+- postresql
+- python
+- tutorial
+- vídeo
 ---
+
+# Video: Aplicaciones en tiempo real con python y postgres
 
 <iframe allowfullscreen="" frameborder="0" height="315" loading="lazy" src="https://www.youtube.com/embed/PsorlkAF83s?rel=0" width="420"></iframe>
 

@@ -1,18 +1,16 @@
 ---
-id: 177
-title: 'Libro: El aprendiz de guerrero'
-date: '2009-10-07T22:26:56+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=177'
-permalink: /libro-el-aprendiz-de-guerrero/177/
 categories:
-    - General
+- General
+date: 2009-10-07
+permalink: /libro-el-aprendiz-de-guerrero/177/
+slug: libro-el-aprendiz-de-guerrero
 tags:
-    - 'ciencia ficción'
-    - libros
-    - 'space opera'
+- ciencia ficción
+- libros
+- space opera
 ---
+
+# Libro: El aprendiz de guerrero
 
 [<div class="ngg-gallery-singlepic-image ngg-left" style="max-width: 320px"> [ ![El aprendiz de guerrero](https://conocimientoabierto.es/wp-content/blogs.dir/16/files/galerias/enelblog/cache/aprendizguerrero.jpg-nggid016-ngg0dyn-320x240x100-00f0w010c010r110f110r010t010.jpg "El aprendiz de guerrero") ](https://conocimientoabierto.es/wp-content/blogs.dir/16/files/galerias/enelblog/aprendizguerrero.jpg) </div> ](http://www.casadellibro.com/homeAfiliado?ca=4378&isbn=9788498722932)**El Aprendiz de Guerrero** está escrito por [Lois McMaster Bujold](http://en.wikipedia.org/wiki/Lois_McMaster_Bujold), ganadora de 4 premios Hugo y 2 Nebula, lo que es bastante impresionante. Este libro está ambientado en el universo generalmente conocido como *Vorkosigan Saga* que consiste en unos 23 libros (bastante independientes unos de otros) de los cuales 18 tienen como protagonista a Miles Vorkosigan Naismith. El Aprendiz de Guerrero es el primero de la serie en el que Miles es el protagonista.
 

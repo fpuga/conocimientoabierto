@@ -1,21 +1,19 @@
 ---
-id: 182
-title: 'Un par de párrafos de Jeniffer Gobierno'
-date: '2009-12-19T19:54:42+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=182'
-permalink: /parrafos-de-jeniffer-gobierno/182/
 categories:
-    - General
+- General
+date: 2009-12-19
+permalink: /parrafos-de-jeniffer-gobierno/182/
+slug: parrafos-de-jeniffer-gobierno
 tags:
-    - 'ciencia ficción'
-    - futuro
-    - 'jennifer gobierno'
-    - libros
-    - marketing
-    - 'max barry'
+- ciencia ficción
+- futuro
+- jennifer gobierno
+- libros
+- marketing
+- max barry
 ---
+
+# Un par de párrafos de Jeniffer Gobierno
 
 He acabado [Jennifer Gobierno](http://es.wikipedia.org/wiki/Jennifer_Government) hace un par de días y me gustaría dejaros un par de párrafos que reflejan para mi una de las ideas más interesantes del libro sobre el ¿hipotético? futuro.
 

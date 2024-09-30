@@ -1,18 +1,12 @@
 ---
-id: 8
-title: 'Sonido y múltiples usuarios'
-date: '2007-03-26T14:53:00+02:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/sonido-y-multiples-usuarios/5/'
-permalink: /sonido-y-multiples-usuarios/8/
-blogger_blog:
-    - conocimientoabierto.blogspot.com
-blogger_permalink:
-    - /2007/03/sonido-y-mltiples-usuarios.html
 categories:
-    - General
+- General
+date: 2007-03-26
+permalink: /sonido-y-multiples-usuarios/8/
+slug: sonido-y-multiples-usuarios
 ---
+
+# Sonido y múltiples usuarios
 
 Antes de entrar en el título del post, me gustaría repasar una de las primeras cosas que se aprenden cuando se empieza a profundizar un poco en GNU/Linux, **cualquier elemento del sistema es tratado como si fuese un fichero**. Es decir, desde la foto que hemos descargado de la cámara hasta nuestra tarjeta de sonido pasando por el disco duro tienen una representación (un nombre) dentro del sistema de ficheros.
 

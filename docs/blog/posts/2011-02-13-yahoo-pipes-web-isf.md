@@ -1,19 +1,17 @@
 ---
-id: 282
-title: 'Yahoo Pipes en la web de ISF'
-date: '2011-02-13T23:44:32+01:00'
-author: fpuga
-layout: post
-guid: 'http://conocimientoabierto.es/?p=282'
-permalink: /yahoo-pipes-web-isf/282/
 categories:
-    - General
+- General
+date: 2011-02-13
+permalink: /yahoo-pipes-web-isf/282/
+slug: yahoo-pipes-web-isf
 tags:
-    - 'diseño web'
-    - isf
-    - rss
-    - 'yahoo pipes'
+- diseño web
+- isf
+- rss
+- yahoo pipes
 ---
+
+# Yahoo Pipes en la web de ISF
 
 Una entrada rápida para contar que he estado jugando un ratillo con [Yahoo Pipes](http://pipes.yahoo.com/pipes/). [Sergio](http://covadameiga.blogspot.com/), con razón, llevaba tiempo insistiendo en la necesidad de que la portada de la web de [isf galicia](http://galicia.isf.es) reflejara el dinamismo de la asociación. Dado el cms que se emplea para la web, no es fácil hacer cambios ni hacer muchas virguerías, así que a pesar de que a nivel filosófico no nos gusta usar un servicio externo, la comodidad y rapidez con que podemos hacer algo compensan.
 
