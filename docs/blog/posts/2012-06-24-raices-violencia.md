@@ -1,0 +1,21 @@
+---
+id: 472
+title: 'Las raíces de la violencia'
+date: '2012-06-24T20:05:36+02:00'
+author: fpuga
+layout: post
+guid: 'http://conocimientoabierto.es/?p=472'
+permalink: /raices-violencia/472/
+categories:
+    - 'Sin categoría'
+tags:
+    - cooperacion
+    - 'entrada corta'
+    - violencia
+---
+
+Mis lecturas de fin de semana comenzaban ayer con el artículo [¿Cuáles son los países más violentos del mundo? ¿Por qué?](http://principiamarsupia.wordpress.com/2012/06/19/cuales-son-los-paises-mas-violentos-del-mundo-por-que/). El artículo no es demasiado *científico* pero abre una línea de debate interesante, y hay comentarios de calidad. Mi mayor crítica es hablar de violencia fijándose unicamente en la tasa de homicidios, cuando la violencia puede tener [muchas otras formas](http://sociedad.elpais.com/sociedad/2012/06/22/actualidad/1340392754_868819.html).
+
+El tema debe estar de moda porque hoy he podido leer un poco más sobre [las raices de la violencia urbana](http://www.oxfamblogs.org/fp2p/?p=10555) en el blog de Duncan Green de Oxfam. Os aconsejo leerlo.
+
+PD: Hace poco he estado en Honduras, y [este comentario](http://principiamarsupia.wordpress.com/2012/06/19/cuales-son-los-paises-mas-violentos-del-mundo-por-que/#comment-3987) me ha llamado especialmente la atención, porque coincide con lo que percibí y lo que me transmitieron.

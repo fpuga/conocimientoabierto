@@ -1,0 +1,27 @@
+---
+id: 125
+title: Ecofont
+date: '2009-08-12T09:58:46+02:00'
+author: fpuga
+layout: post
+guid: 'http://conocimientoabierto.es/?p=125'
+permalink: /se-ahorra-tinta-con-ecofont/125/
+categories:
+    - General
+---
+
+<div class="ngg-gallery-singlepic-image ngg-left" style="max-width: 320px"> [ ![Fuente Ecofont - by FCPB @ Wikimedia Commons](https://conocimientoabierto.es/wp-content/blogs.dir/16/files/galerias/enelblog/cache/ecofont.jpg-nggid019-ngg0dyn-320x240x100-00f0w010c010r110f110r010t010.jpg "Fuente Ecofont - by FCPB @ Wikimedia Commons") ](https://conocimientoabierto.es/wp-content/blogs.dir/16/files/galerias/enelblog/ecofont.jpg "http://es.wikipedia.org/wiki/Archivo:Ecofont.jpg") </div> Hace un par de meses la aparición de un nuevo tipo de letra tubo [cierta repercusión](http://www.neoteo.com/ecofont-la-fuente-economica-ahorra-tinta-15118.neo) en la blogsfera. Esta nueva fuente llamada [Ecofont](http://es.wikipedia.org/wiki/Ecofont), creada por la empresa [Spranq](http://www.spranq.eu/) decía que podía llegar a ahorrar hasta un 20% de tinta a la hora de imprimir. La idea en la que se basan es simplemente <a>añadir una serie de agujeros circulares</a> a una letra ya existente. Cuando se imprime en tamaños inferiores a 10 los agujeros no se notan y se ahorra tinta. La idea es sencilla y práctica así que iba a escribir una nota aquí recomendando su uso. Pero buscando un poco de [información adicional (leer los comentarios)](http://www.manuelgago.org/blog/index.php/2009/03/11/ecofont-unha-fonte-para-aforrar-tinta/) me he dado cuenta de que tiene algunos puntos oscuros. Antes de continuar debo reconocer que hasta ayer no tenía ni idea sobre tipografía y ni siquiera sabía lo que significaba serif, así que tómense las afirmaciones que siguen con cuidado y más como interrogaciones que como afirmaciones.
+
+**Licencia**. Ecofont está basada en la fuente [Vera Sans](http://www.bitstream.com/font_rendering/products/dev_fonts/vera.html). Vera Sans tiene una [licencia semi-abierta](http://www.gnome.org/fonts/). En la página web de Ecofont se describe como «De descarga gratuita y de uso gratuito.», pero no aparece nada referido a si se puede modificar, empaquetar con otro software, etc…
+
+**Legibilidad**. Existen dos familias principales de tipografías. [Serif](http://en.wikipedia.org/wiki/Serif) (también llamada Roman) o Sans-Serif (también llamada Ghotic). La serif son los tipos de fuentes que terminan las letras con algún adorno, por ejemplo entre un i mayúscula que es simplmente un palo o a la que se añaden rayas horizontales arriba y abajo ([imagen y texto aclaratorio](http://www.webestilo.com/guia/serif.php3)).
+
+Si bien [no hay ningún estudio serio que lo pruebe](http://www.alexpoole.info/academic/literaturereview.html), se suele considerar que a la hora de imprimir la tipografía serif resulta más legible, y es por tanto la opción más empleada para el cuerpo de texto de libros y periódicos. En impresión la sans-serif se suele reservar para títulos y textos pequeños que requieran una apariencia más informal que la que producen las serif. A la hora de visualizar en la pantalla se suele considerar que la sans-serif es la más legible, y muchas página web la emplean por esta razón.
+
+Ecofont es de tipo Sans-Serif, de modo que puede que en la impresión perdamos algo de legibilidad. Por otro lado [no se recomienda usar un tamaño mayor a 10](http://www.ecofont.eu/preguntas_frecuentes_es.html), con lo que en pantalla podría quedar algo pequeña. La única forma de comprobar esto es hacer un par de impresiones de prueba y preguntar a quien principalmente vaya a leerla si se siente cómodo con la fuente.
+
+**Papel**. [Vera Sans](http://es.letrag.com/tipografia.php?id=151) fue diseñada por la empresa Bitstream pensando en usarla en monitores. Comparada con otras tipografías, sobre todo las serif, es un poco más ancha por lo que ocupa más papel. Además si se da el caso anterior de falta de legibilidad y aumentamos el interlineado para compensar estaremos desperdiciando todavía más papel.
+
+**Tinta**. Y el punto más importante, [un estudio](http://farlukar.110mb.com/stuff.php), algo informal pero en apariencia realista, nos dice que Ecofont puede ahorrar hasta un 20% de tinta con respecto a fuentes como [Verdana](http://es.letrag.com/tipografia.php?id=59) o [Tahoma](http://es.letrag.com/tipografia.php?id=60) (ambas pensadas para pantalla), pero gastar un 20% más que [Garamond](http://es.letrag.com/tipografia.php?id=10) o [Gentium](http://es.letrag.com/tipografia.php?id=166), esta última una de las primeras fuente con [licencia Open Font](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=OFL) y una [bonita historia](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=Gentium) detrás.
+
+He preparado un documento en [ODT](http://conocimientoabierto.odiseus.org/files/2009/08/probando_fuentes.odt) y [PDF](http://conocimientoabierto.odiseus.org/files/2009/08/probando_fuentes.pdf) para que puedes comparar Gentium, Ecofont y DejaVu Sans. Para que el ODT vaya correctamente debes tener las fuentes instaladas en tu sistema.
