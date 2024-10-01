@@ -1,0 +1,2528 @@
+
+<!doctype html>
+<html lang="es" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Blog personal de Francisco Puga">
+      
+      
+        <meta name="author" content="Francisco Puga">
+      
+      
+        <link rel="canonical" href="https://fpuga.github.io/conocimientoabierto/blog/">
+      
+      
+        <link rel="prev" href="../tags/">
+      
+      
+        <link rel="next" href="category/general/">
+      
+      
+        <link rel="alternate" type="application/rss+xml" title="Fuente RSS" href="../feed_rss_created.xml">
+        <link rel="alternate" type="application/rss+xml" title="Fuente RSS de contenido actualizado" href="../feed_rss_updated.xml">
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.38">
+    
+    
+      
+        <title>Blog - Conocimiento Abierto</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.8c3ca2c6.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../extra/extra.css">
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="conocimientoabierto" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#blog" class="md-skip">
+          Saltar a contenido
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      <!--
+  Copyright (c) 2016-2024 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Determine classes -->
+
+
+  
+
+
+<!-- Header -->
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav
+    class="md-header__inner md-grid"
+    aria-label="Cabecera"
+  >
+
+    <!-- Link to home -->
+    <!-- Button to open drawer -->
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+
+    <!-- Header title -->
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+              <a
+                  href=".."
+                  title="Conocimiento Abierto"
+                  aria-label="Conocimiento Abierto"
+             >
+                Conocimiento Abierto
+            </a>
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Blog
+            
+          </span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Color palette toggle -->
+    
+      
+    
+
+    <!-- User preference: color palette -->
+    
+
+    <!-- Site language selector -->
+    
+
+    <!-- Button to open search modal -->
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+
+      <!-- Search interface -->
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Búsqueda" placeholder="Búsqueda" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Buscar">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Limpiar" aria-label="Limpiar" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando búsqueda
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+
+    <!-- Repository information -->
+    
+  </nav>
+
+  <!-- Navigation tabs (sticky) -->
+  
+    
+      
+<nav class="md-tabs" aria-label="Pestañas" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href=".." class="md-tabs__link">
+        
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../proyectos/" class="md-tabs__link">
+        
+  
+    
+  
+  Proyectos
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../tags/" class="md-tabs__link">
+        
+  
+    
+  
+  Tags
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="./" class="md-tabs__link">
+          
+  
+    
+  
+  Blog
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navegación" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Conocimiento Abierto" class="md-nav__button md-logo" aria-label="Conocimiento Abierto" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Conocimiento Abierto
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../proyectos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Proyectos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tags/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tags
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+      
+        
+        
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" checked>
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="./" class="md-nav__link md-nav__link--active">
+              
+  
+  <span class="md-ellipsis">
+    Blog
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link md-nav__link--active" for="__nav_4" id="__nav_4_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Blog
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_2" id="__nav_4_2_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Archivo
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_2">
+            <span class="md-nav__icon md-icon"></span>
+            Archivo
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="archive/2021/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    julio 2021
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="archive/2020/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    julio 2020
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="archive/2019/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    mayo 2019
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="archive/2018/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    julio 2018
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="archive/2017/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    diciembre 2017
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="archive/2016/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    septiembre 2016
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="archive/2015/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    diciembre 2015
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="archive/2014/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    septiembre 2014
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="archive/2013/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    diciembre 2013
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="archive/2012/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    diciembre 2012
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="archive/2011/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    noviembre 2011
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="archive/2010/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    diciembre 2010
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="archive/2009/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    diciembre 2009
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="archive/2008/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    diciembre 2008
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="archive/2007/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    diciembre 2007
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_3" id="__nav_4_3_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Categorías
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_3">
+            <span class="md-nav__icon md-icon"></span>
+            Categorías
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/general/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    General
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/ibrahima-niang/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ibrahima Niang
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/palestina/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Palestina
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/sin-categor%C3%ADa/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sin categoría
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/activismo/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    activismo
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/blog-action-day/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    blog action day
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/bombas-de-racimo/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    bombas de racimo
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/ciberactivismo/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    ciberactivismo
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/comunicacion/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    comunicacion
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/comunicaciong/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    comunicaciong
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/conocimiento-abierto/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    conocimiento abierto
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/cooperacion/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    cooperacion
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/cultura/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    cultura
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/curiosidades/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    curiosidades
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/d-link-dsl-200/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    d-link dsl-200
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/deuda-externa/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    deuda externa
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/drivers/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    drivers
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/ecologia/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    ecologia
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/economia/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    economia
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/epd/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    epd
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/esf/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    esf
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/genetica/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    genetica
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/globalizacion/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    globalizacion
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/ideologia/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    ideologia
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/intimo/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    intimo
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/itrust-wb-1200p/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    itrust wb-1200p
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/linux/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    linux
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/literatura/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    literatura
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/migracion/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    migracion
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/mundodesigual07/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    mundodesigual07
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/politica/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    politica
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/portatil/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    portatil
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/primates/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    primates
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/receta/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    receta
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/recomendacion/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    recomendacion
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/relato/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    relato
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/scripting/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    scripting
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/sexismo/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    sexismo
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/shell/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    shell
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/tercer-sector/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    tercer sector
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/voluntariado/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    voluntariado
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/web-20/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    web 2.0
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="category/webcam/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    webcam
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Tabla de contenidos">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#vimium-un-plugin-para-navegar-la-web-con-el-teclado" class="md-nav__link">
+    <span class="md-ellipsis">
+      Vimium: Un plugin para navegar la web con el teclado
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#experimentos-de-monetization-en-este-blog" class="md-nav__link">
+    <span class="md-ellipsis">
+      Experimentos de «Monetization» en este blog
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#presentaciones-de-fotos-en-formato-video-slideshows-desde-la-linea-de-comandos" class="md-nav__link">
+    <span class="md-ellipsis">
+      Presentaciones de fotos en formato vídeo (slideshows) desde la línea de comandos
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#circular-dependencies-webcast-por-miguel-grinberg" class="md-nav__link">
+    <span class="md-ellipsis">
+      Circular Dependencies Webcast por Miguel Grinberg
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#comprar-un-portatil-para-desarrollo-en-2019" class="md-nav__link">
+    <span class="md-ellipsis">
+      Comprar un portátil para desarrollo en 2019
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+  <div class="md-content" data-md-component="content">
+    <div class="md-content__inner">
+      <header class="md-typeset">
+        <h1 id="blog">Blog</h1>
+      </header>
+      
+        <article class="md-post md-post--excerpt">
+  <header class="md-post__header">
+    
+    <div class="md-post__meta md-meta">
+      <ul class="md-meta__list">
+        <li class="md-meta__item">
+          <time datetime="2021-07-17 00:00:00">17 de julio de 2021</time></li>
+        
+          <li class="md-meta__item">
+            en
+            
+              <a href="category/sin-categor%C3%ADa/" class="md-meta__link">Sin categoría</a></li>
+        
+        
+          
+          <li class="md-meta__item">
+            
+              1 minuto de lectura
+            
+          </li>
+        
+      </ul>
+      
+    </div>
+  </header>
+  <div class="md-post__content md-typeset">
+    <h2 id="vimium-un-plugin-para-navegar-la-web-con-el-teclado"><a class="toclink" href="2021/07/17/vimium-un-plugin-para-navegar-la-web-con-el-teclado/">Vimium: Un plugin para navegar la web con el teclado</a></h2>
+<p>Por productividad y salud estoy intentando usar menos el ratón. Una de las situaciones donde más lo usaba era al navegar por páginas web y tras una <a href="https://pakstech.com/blog/browse-web-with-keyboard/">pequeña búsqueda</a> me he decidido por <a href="https://vimium.github.io/">Vimium</a>. Un plugin para Firefox, Chrome, y familia que permite usar las teclas de Vim para navegar.</p>
+<p>Lo más molón, es la tecla <code>f</code> o <code>F</code> (de follow). Activa lo que llaman hint mode. Detecta todos los enlaces de la página y los marca con unas letras amarillas al lado. Al pulsar la secuencia de letras sigue el enlace. En la misma pestaña si se ha usado f, en otra pestaña si se ha pulsado F, o se teclea la secuencia en mayúsculas. Se puede usar Escape para desactivar los hints. Nuestras teclas preferidas de largo. Según como esté construida la página esta opción funciona también para aceptar avisos de cookies, …</p>
+<p>Y en <a href="https://icarto.es/">iCarto</a> no soy yo sólo quien <a href="https://gitlab.com/icarto/ikdb/-/blob/master/configurar_equipo/browser/browser_navegar_teclado_vimium.md">se ha hecho adicto</a>.</p>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="349" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/t67Sn0RGK54?feature=oembed" title="Vimium - The Hacker's Browser" width="620"></iframe>
+    
+  </div>
+</article>
+      
+        <article class="md-post md-post--excerpt">
+  <header class="md-post__header">
+    
+    <div class="md-post__meta md-meta">
+      <ul class="md-meta__list">
+        <li class="md-meta__item">
+          <time datetime="2021-01-01 00:00:00">1 de enero de 2021</time></li>
+        
+          <li class="md-meta__item">
+            en
+            
+              <a href="category/sin-categor%C3%ADa/" class="md-meta__link">Sin categoría</a></li>
+        
+        
+          
+          <li class="md-meta__item">
+            
+              3 minutos de lectura
+            
+          </li>
+        
+      </ul>
+      
+    </div>
+  </header>
+  <div class="md-post__content md-typeset">
+    <h2 id="experimentos-de-monetization-en-este-blog"><a class="toclink" href="2021/01/01/experimentos-de-monetization-en-este-blog/">Experimentos de «Monetization» en este blog</a></h2>
+<p>Hace unos días Tom MacWright publicaba en su blog un artículo titulado <a href="https://macwright.com/2020/11/15/mini-monetization-experiments.html">Monetization experiments on this website</a></p>
+<p>Como él, un poco por tratar de pagar el hosting, y sobre todo por <em>jugar</em> un poco hice varios experimentos en este blog. Nunca fue algo que me tomara demasiado en serio. De hecho para escribir este artículo he intentado revisar algunos datos para descubrir que las estadísticas de Google Analytics dejaron de funcionar en mi blog, seguramente en alguna actualización y no tengo acceso a datos antiguos. Y me pasa lo mismo con las estadísticas de WordPress.com / Jetpack.</p>
+<p>Cuando escribía en el blog algo más a menudo, sobre todo artículos más utilitaristas del tipo <a href="http://conocimientoabierto.es/cifrar-particion-disco-duro-externo-linux/197/">Como cifrar una partición de un disco duro externo</a> tenía bastantes visitas para ser un blog personal, aunque ahora no me atrevo a dar una cifra. Con este desastre, no puedo dar datos muy concretos, pero para hacernos una idea, en base a mi memoria y los números que me encuentro en Google AdSense, en los últimos tres años constan 15.304 páginas vistas y 1.86€. En él último mes 376 páginas vistas y 0.01€</p>
+<p>Los experimentos:</p>
+<ul>
+<li>Desde que me dí de alta en AdSense (creo recordar que en 2011) he generado un saldo de 33.37€. Google sólo hace efectivos los pagos cuando se llega a 70€. Así que a este ritmo me quedan otros 9 años hasta poder cobrar algo. Al cancelar la cuenta hacen efectivo el pago si pasa de 10€</li>
+<li>Algunos de los <a href="http://conocimientoabierto.es/libro-javascript-the-good-parts-de-douglas-crockford/858/">libros que comento en el blog</a> tenían enlaces a Amazon a través del programa de Affiliates. De modo que si alguien lo comproba siguiendo el enlace me quedaba un porcentaje de la venta. Amazon nunca me notifico una compra a través de estos enlaces.</li>
+<li><a href="http://conocimientoabierto.es/libro-matar-a-un-ruisenor/723/">Otros libros o enlaces</a> a descargas compartidas los ponía a través de adf.ly. Un anonimizador de enlaces que te obliga a pasar por una página previa de publicidad. He comprobado que mi cuenta está actualmente cancelada y en su momento tampoco recuerdo que llegará a obtener más de unos céntimos.</li>
+<li>A través del botón de donaciones de paypal recibí un pago de 1.5€</li>
+<li>En dos ocasiones me llegaron correos ofreciéndome escribir posts patrocionados. Uno de un casino online, el otro no recuerdo de que. Ofrecían unos 50€ pero no comprobé si era verdad porqué rechazé ambas</li>
+</ul>
+<p>Así que arranco el nuevo año con un poco de limpieza:</p>
+<ul>
+<li>Cerrando cuentas en servicios que aparecen en mi keepass en los que no he entrado desde hace tiempo.</li>
+<li>Elimino la primera versión de este blog que todavía existía en blogspot.</li>
+<li>Elimino del blog Google Analytics y Google AdSense</li>
+<li>Borrados los enlaces a Amazon. En algún momento seguramente incluya enlaces a <a href="https://macwright.com/2020/12/24/the-new-reading-stack.html">alguno de los sitios recomendados en este post</a></li>
+<li>Los enlaces a adf.ly los he eliminado o substituido por los enlaces finales directamente</li>
+</ul>
+<p>Amazon Afiliados y Google AdSense seguramente son una de las formas más sencillas en las que un blog personal al que dediques algo de mimo puede generar ingresos, pero por los cantidades que aportan, a mi al menos, no me compensan para ayudar a perpetuar los problemas que estas empresas causan.</p>
+    
+  </div>
+</article>
+      
+        <article class="md-post md-post--excerpt">
+  <header class="md-post__header">
+    
+    <div class="md-post__meta md-meta">
+      <ul class="md-meta__list">
+        <li class="md-meta__item">
+          <time datetime="2020-07-18 00:00:00">18 de julio de 2020</time></li>
+        
+          <li class="md-meta__item">
+            en
+            
+              <a href="category/sin-categor%C3%ADa/" class="md-meta__link">Sin categoría</a></li>
+        
+        
+          
+          <li class="md-meta__item">
+            
+              5 minutos de lectura
+            
+          </li>
+        
+      </ul>
+      
+    </div>
+  </header>
+  <div class="md-post__content md-typeset">
+    <h2 id="presentaciones-de-fotos-en-formato-video-slideshows-desde-la-linea-de-comandos"><a class="toclink" href="2020/07/18/presentaciones-de-fotos-en-formato-video-slideshows-desde-la-linea-de-comandos/">Presentaciones de fotos en formato vídeo (slideshows) desde la línea de comandos</a></h2>
+<p>Hace ya algunos años apareció en este blog como <a href="http://conocimientoabierto.es/hacer-presentaciones-de-fotos-en-formato-video/35/">hacer presentaciones de fotos en formato vídeo</a>. A pesar de que hay muchos programas buenos para editar vídeo en GNU/Linux, esta vez quería tener un proceso sencillo y fácilmente replicable aún a costa de perder un poco de calidad o efectos (como degradado entre imágenes, …).</p>
+<p>En este tutorial veremos, sin entrar en muchos detalles (mis conocimientos no dan para ello), una forma muy rápida de crear un slideshow con música usando únicamente el terminal. Como limitante partimos de la base de que todas las imágenes están en el mismo formato (en este caso JPEG)</p>
+<h3 id="las-herramientas"><a class="toclink" href="2020/07/18/presentaciones-de-fotos-en-formato-video-slideshows-desde-la-linea-de-comandos/#las-herramientas">Las herramientas</a></h3>
+<p><code>&lt;br&gt;&lt;/br&gt;sudo apt-get install --install-recommends rename imagemagick ffmpeg&lt;br&gt;&lt;/br&gt;</code></p>
+<ul>
+<li><a href="https://www.howtogeek.com/423214/how-to-use-the-rename-command-on-linux/">rename</a> permite renombrar archivos usando expresiones regulares</li>
+<li><a href="https://imagemagick.org">imagemagick</a></li>
+<li><a href="https://ffmpeg.org/">ffmpeg</a></li>
+</ul>
+<h3 id="normalizar-los-nombres-y-ordenar-las-imagenes"><a class="toclink" href="2020/07/18/presentaciones-de-fotos-en-formato-video-slideshows-desde-la-linea-de-comandos/#normalizar-los-nombres-y-ordenar-las-imagenes">Normalizar los nombres y ordenar las imágenes</a></h3>
+<p>El primer paso es ordenar las imágenes poniéndolos un «nombre normalizado» que represente ese orden. En este caso partimos de unas imágenes que ya tienen cierto orden, pero arreglamos las mayúsculas, usamos dos caracteres para los números y ajustamos las del medio.</p>
+<p>Cada caso será muy particular pero veamos un ejemplo:</p>
+<p><code>&lt;br&gt;&lt;/br&gt;$ cp -r original copia&lt;br&gt;&lt;/br&gt;$ cd copia&lt;br&gt;&lt;/br&gt;$ ls&lt;br&gt;&lt;/br&gt;0.JPG   1_1.JPG  12_1.JPG  13.jpg  15.jpg  17.JPG  19.jpg  20.jpg  22.jpg  24.jpg  26.jpg  28.jpg  2.JPG   31.jpg  4.JPG  6.JPG  8.JPG&lt;br&gt;&lt;/br&gt;10.JPG  11.JPG   12.JPG    14.jpg  16.jpg  18.jpg  1.JPG   21.JPG  23.jpg  25.JPG  27.jpg  29.jpg  30.jpg  3.JPG   5.jpg  7.JPG  9.JPG&lt;br&gt;&lt;/br&gt;$ rename 's/.JPG/.jpg/' *.JPG&lt;br&gt;&lt;/br&gt;$ rename 's/3(\d).jpg/5$1.jpg/' 3*.jpg&lt;br&gt;&lt;/br&gt;$ rename 's/2(\d).jpg/4$1.jpg/' 2*.jpg&lt;br&gt;&lt;/br&gt;$ rename 's/1([2-9]).jpg/3$1.jpg/' 1*.jpg&lt;br&gt;&lt;/br&gt;$ ls&lt;br&gt;&lt;/br&gt;0.jpg   1_1.jpg  12_1.jpg  2.jpg   33.jpg  35.jpg  37.jpg  39.jpg  40.jpg  42.jpg  44.jpg  46.jpg  48.jpg  4.jpg   51.jpg  6.jpg  8.jpg&lt;br&gt;&lt;/br&gt;10.jpg  11.jpg   1.jpg     32.jpg  34.jpg  36.jpg  38.jpg  3.jpg   41.jpg  43.jpg  45.jpg  47.jpg  49.jpg  50.jpg  5.jpg   7.jpg  9.jpg&lt;br&gt;&lt;/br&gt;$ mv 12_1.jpg 31.jpg&lt;br&gt;&lt;/br&gt;$ rename 's/1([0-1]).jpg/2$1.jpg/' 1*.jpg&lt;br&gt;&lt;/br&gt;$ rename 's/([1-9]).jpg/1$1.jpg/' ?.jpg&lt;br&gt;&lt;/br&gt;$ mv 0.jpg 00.jpg&lt;br&gt;&lt;/br&gt;$ mv 1_1.jpg 01.jpg&lt;br&gt;&lt;/br&gt;$ ls&lt;br&gt;&lt;/br&gt;00.jpg  11.jpg  13.jpg  15.jpg  17.jpg  19.jpg  21.jpg  32.jpg  34.jpg  36.jpg  38.jpg  40.jpg  42.jpg  44.jpg  46.jpg  48.jpg  50.jpg&lt;br&gt;&lt;/br&gt;01.jpg  12.jpg  14.jpg  16.jpg  18.jpg  20.jpg  31.jpg  33.jpg  35.jpg  37.jpg  39.jpg  41.jpg  43.jpg  45.jpg  47.jpg  49.jpg  51.jpg&lt;br&gt;&lt;/br&gt;</code></p>
+<h3 id="rotar-las-imagenes"><a class="toclink" href="2020/07/18/presentaciones-de-fotos-en-formato-video-slideshows-desde-la-linea-de-comandos/#rotar-las-imagenes">Rotar las imágenes</a></h3>
+<p>A pesar de que en la previsualización del explorador de archivos podamos ver todas las imágenes rectas, alguna de ellas puede estar girada. Esto es por qué muchas herramientas usan por defecto <a href="https://jdhao.github.io/2019/07/31/image_rotation_exif_info/">los metadatos EXIF de la imagen para rotarlas</a> de la forma lógica.</p>
+<p><code>&lt;br&gt;&lt;/br&gt;# las que no tengan un</code>1<code>están rotadas&lt;br&gt;&lt;/br&gt;identify -verbose * | grep -E '(Image:|Orientation)'</code></p>
+<p># Rotarlas. https://stackoverflow.com/a/19475281/930271<br />
+# Esto modifica todas las fotos, por lo que mejor usarlo sólo con la que deben<br />
+# ser rotadas<br />
+mogrify -auto-orient *.jpg</p>
+<p>identify -verbose * | grep -E '(Image:(.*)|exif:Orientation: [2-9])'<br />
+mogrify -auto-orient 16.jpg<br />
+mogrify -auto-orient 45.jpg</p>
+<h3 id="identificar-tamanos-y-aspect-ratio"><a class="toclink" href="2020/07/18/presentaciones-de-fotos-en-formato-video-slideshows-desde-la-linea-de-comandos/#identificar-tamanos-y-aspect-ratio">Identificar tamaños y «aspect ratio»</a></h3>
+<p>Para montar las imágenes en el vídeo debemos investigar sus tamaños y sobre todo la relación de aspecto. El comando <a href="https://imagemagick.org/script/identify.php">identify</a> de ImageMagick nos puede dar la información más relevante y podemos ordenarla por <em>aspect ratio</em>, anchura, …</p>
+<p><code>&lt;br&gt;&lt;/br&gt;# https://unix.stackexchange.com/questions/50252</code></p>
+<p># ordenadas por aspect ratio<br />
+$ identify -format "%[fx:w/h] %w %h %M\n" *.jpg | sort -n -k1</p>
+<p>1.5 4608 3072 20.jpg<br />
+0.75 1944 2592 15.jpg<br />
+0.75 2304 3072 16.jpg<br />
+0.75 3864 5152 45.jpg<br />
+1.33333 1280 960 44.jpg<br />
+1.33333 1280 960 46.jpg<br />
+1.33333 1280 960 47.jpg<br />
+1.33333 2592 1944 13.jpg<br />
+1.33333 3072 2304 17.jpg<br />
+1.33333 3264 2448 01.jpg<br />
+1.33333 3264 2448 14.jpg<br />
+1.33333 3264 2448 19.jpg<br />
+1.33333 3264 2448 33.jpg<br />
+1.33333 4000 3000 43.jpg<br />
+1.33333 4000 3000 50.jpg<br />
+1.33333 4000 3000 51.jpg<br />
+1.33333 4320 3240 18.jpg<br />
+1.33333 4608 3456 31.jpg<br />
+1.33333 4672 3504 34.jpg<br />
+1.33333 4672 3504 35.jpg<br />
+1.33333 5120 3840 49.jpg<br />
+1.33333 5152 3864 32.jpg<br />
+1.33333 5152 3864 37.jpg<br />
+1.33472 1280 959 38.jpg<br />
+1.33884 2592 1936 00.jpg<br />
+1.33884 2592 1936 11.jpg<br />
+1.49841 3776 2520 21.jpg<br />
+1.77778 3072 1728 12.jpg<br />
+1.77778 3264 1836 39.jpg<br />
+1.77778 3968 2232 41.jpg<br />
+1.77778 5312 2988 36.jpg<br />
+1.77778 5312 2988 40.jpg<br />
+1.77778 5312 2988 42.jpg<br />
+1.77778 5312 2988 48.jpg</p>
+<p># ordenadas por width<br />
+identify -format "%[fx:w/h] %w %h %M\n" *.jpg | sort -n -k2</p>
+<p>Aquí la clave es:</p>
+<ul>
+<li>Ajustar las imágenes para que tengan todas la misma relación de aspecto y que no salgan deformadas. Cosa que haremos directamente con ffmpeg al crear el vídeo.</li>
+<li>Escoger el tamaño de referencia a usar para las imágenes. La «redimensión» la haremos directamente al crear el vídeo.</li>
+</ul>
+<p>Sin entender mucho de vídeos mi criterio es coger el aspect ratio más común a las imágenes, en este caso <strong>1.333</strong>, y un tamaño intermedio, de modo que haya pocas imágenes por debajo de ese tamaño, y que al ampliar no pixelen demasiado, en este caso me quedo con <strong>2592×1936</strong></p>
+<h3 id="montar-el-video"><a class="toclink" href="2020/07/18/presentaciones-de-fotos-en-formato-video-slideshows-desde-la-linea-de-comandos/#montar-el-video">Montar el vídeo</a></h3>
+<p>La wiki de ffmpeg da el comando básico para <a href="https://trac.ffmpeg.org/wiki/Slideshow">hacer el slideshow</a>, y en stackoverflow <a href="https://stackoverflow.com/questions/24961127/how-to-create-a-video-from-images-with-ffmpeg">también</a> hay buenas <a href="https://stackoverflow.com/questions/44634765/ffmpeg-aspect-ratio-of-image-in-a-slideshow">respuestas</a></p>
+<p>El comando que usaremos en este caso es:</p>
+<p><code>&lt;br&gt;&lt;/br&gt;ffmpeg -framerate 1/5 -pattern_type glob -i '*.jpg' -i audio.mp3 -vf 'scale=2592:1936:force_original_aspect_ratio=decrease,pad=2592:1936:(ow-iw)/2:(oh-ih)/2,setsar=1' -c:v libx264 -c:a copy -crf 14 -r 25 -pix_fmt yuv420p -shortest output.mp4&lt;br&gt;&lt;/br&gt;</code></p>
+<p>Los parámetros más relevantes para el <em>slideshow</em>:</p>
+<ul>
+<li><code>-framerate 1/5</code>: El denominador define cuanto se mostrará cada imagen</li>
+<li><code>-pattern_type glob -i '*.jpg'</code>: Cuando las imágenes no están ordenadas exactamente de forma secuencial con este parámetro las meterá en el video ordenadas por nombre</li>
+<li><code>'scale=2592:1936:force_original_aspect_ratio=decrease,pad=2592:1936:(ow-iw)/2:(oh-ih)/2,setsar=1'</code>: Escala las imágenes a 2592×1936 y mete bandas negras de relleno cuando no se pueda conservar la relación de aspecto</li>
+</ul>
+    
+  </div>
+</article>
+      
+        <article class="md-post md-post--excerpt">
+  <header class="md-post__header">
+    
+    <div class="md-post__meta md-meta">
+      <ul class="md-meta__list">
+        <li class="md-meta__item">
+          <time datetime="2020-06-29 00:00:00">29 de junio de 2020</time></li>
+        
+          <li class="md-meta__item">
+            en
+            
+              <a href="category/sin-categor%C3%ADa/" class="md-meta__link">Sin categoría</a></li>
+        
+        
+          
+          <li class="md-meta__item">
+            
+              1 minuto de lectura
+            
+          </li>
+        
+      </ul>
+      
+    </div>
+  </header>
+  <div class="md-post__content md-typeset">
+    <h2 id="circular-dependencies-webcast-por-miguel-grinberg"><a class="toclink" href="2020/06/29/circular-dependencies-webcast-por-miguel-grinberg/">Circular Dependencies Webcast por Miguel Grinberg</a></h2>
+<p>Un <a href="https://blog.miguelgrinberg.com/post/flask-webcast-3-circular-dependencies">Webcast de Miguel Grinberg sobre como evitar Dependencias Circulares</a> en una aplicación Python / Flask.</p>
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" loading="lazy" src="https://www.youtube.com/embed/NH-8oLHUyDc" width="560"></iframe>
+
+<h3 id="my-metadata"><a class="toclink" href="2020/06/29/circular-dependencies-webcast-por-miguel-grinberg/#my-metadata">My Metadata</a></h3>
+<ul>
+<li>Descripción: Un webcast de 1h en el que se refactoriza una aplicación Flask que empieza con un único fichero a varios paquetes y módulos.</li>
+<li>Calificación: 3 sobre 5</li>
+<li>Día de Visualización: 2020-06-28</li>
+<li>Año de publicación: 2018</li>
+<li>Duración: 68 minutos</li>
+<li>Velocidad de reproducción recomendada: 1.75</li>
+<li>Etiquetas: python; flask; dependencies; refactoring</li>
+</ul>
+<h3 id="lecciones-aprendidas"><a class="toclink" href="2020/06/29/circular-dependencies-webcast-por-miguel-grinberg/#lecciones-aprendidas">Lecciones aprendidas</a></h3>
+<ul>
+<li>Mantener el <em>entry point</em> tan limpio como sea posible. Incluso con un único import.</li>
+<li>El módulo que es ejecutado inicialmente por Python adquiere el nombre de <code>__main__</code> a nivel interno, por ello los «nombres» que se definan en este módulo, no se identificarán inicialmente a efectos de dependencias como <code>myfile.myvar</code> si no como <code>__main__.myvar</code>, lo que es más fácil que genere un error de dependencias circulares</li>
+<li>No usar los __init__.py como mecanismo para acortar los imports. Hay tantas opiniones a favor como en contra sobre el tema. A mi me ha generado más problemas que soluciones.</li>
+<li>Usar imports desde la «raíz» <code>from myapp.models.user import User</code> y no estilo <code>from user import User</code>.</li>
+<li>No pasa nada por no poner los <code>import</code> al inicio del fichero cuando tenga sentido que sea de otra forma, por ejemplo para evitar dependencias circulares. Usar <code># noqa</code> para que no pite el linter en estos casos es aceptable.</li>
+</ul>
+    
+  </div>
+</article>
+      
+        <article class="md-post md-post--excerpt">
+  <header class="md-post__header">
+    
+    <div class="md-post__meta md-meta">
+      <ul class="md-meta__list">
+        <li class="md-meta__item">
+          <time datetime="2019-05-13 00:00:00">13 de mayo de 2019</time></li>
+        
+          <li class="md-meta__item">
+            en
+            
+              <a href="category/sin-categor%C3%ADa/" class="md-meta__link">Sin categoría</a></li>
+        
+        
+          
+          <li class="md-meta__item">
+            
+              4 minutos de lectura
+            
+          </li>
+        
+      </ul>
+      
+    </div>
+  </header>
+  <div class="md-post__content md-typeset">
+    <h2 id="comprar-un-portatil-para-desarrollo-en-2019"><a class="toclink" href="2019/05/13/comprar-portatil-desarrollo-2019/">Comprar un portátil para desarrollo en 2019</a></h2>
+<p>Toca cambiar de portátil. 8GB de RAM ya se quedan cortos. La patilla de la pantalla está dañada y no parece que vaya a aguantar mucho más. Y la batería con una vm, el ide y el navegador no dura mucho más de 1h.</p>
+<p>Para situarnos el anterior comprado hace cuatro años era un <a href="https://es.msi.com/Laptop/GE60-2PC-Apache/Overview">MSI GE60 2PC Apache</a>:</p>
+<ul>
+<li>Micro <a href="https://ark.intel.com/content/www/es/es/ark/products/78934/intel-core-i7-4720hq-processor-6m-cache-up-to-3-60-ghz.html">i7-4720HQ</a>. 2.60GHz de frecuencia base, hasta 3.60GHz con el Turboboost. 4 cores, 8 threads, 6MB de cache y un TDP de 47W.</li>
+<li>8GB RAM SODIMM DDR3 a 1600 fabricada por Kingston. No se cual es la latencia.</li>
+<li>Nvidia GeForce GTX 850M con 2MB RAM</li>
+<li>Disco duro mecánico de 1TB a 7200rpm</li>
+<li>Pantalla de 15.5 y resolución de 1920×1080 normalita</li>
+<li>Wireless-AC 3160, b/g/n y bt 4.0</li>
+<li>hdmi, vga. 2 puertos USB 2.0 y 2 puertos USB 3.0, además de jacks para salida y entrada de audio.</li>
+<li>383 x 249 x 30 y 2.6kg de peso con batería</li>
+<li>Batería de 6 celdas, 49Wh</li>
+</ul>
+<p>Cuando lo compré escribí una <a href="http://conocimientoabierto.es/buscando-portatil-programar/752/">guía de compra de portátil</a> que aunque desactualizada me sirve de base para buscar uno nuevo. En base al rendimiento actual los requisitos no han variado demasiado:</p>
+<ul>
+<li>Todo lo importante debe funcionar al 100% con linux. Si no va la luz del teclado me da igual. Si deja de funcionar el wifi con cada actualización del kernel adios.</li>
+<li>Mínimo 16GB de RAM</li>
+<li>Un i7 o equivalente en AMD. Un vistazo rápido me dice que los i5-82xxu que se montan en este rango de precios no son mucho mejores que mi micro actual y no me interesa averiguar si con un i5 me llega.</li>
+<li>Resolución pantalla mínima 1920 x 1080. Como la mayoría del tiempo uso una externa como principal no necesito que sea extraordinariamente buena pero no quiero quemarme los ojos así que será un plus interesante</li>
+<li>Mínimo 1TB de disco</li>
+<li>No tengo necesidad de gráfica dedicada pero prefiero que no me coma RAM extra</li>
+<li>No lo quiero más grande ni pesado que el actual. A pesar de que el 85% del tiempo está apoyado en una mesa, el 15% restante de viajes en tren, reuniones y uno o dos viajes de trabajo al año hacen que prefiera uno más pequeño. Pero no voy a sacrificar más de 150€ o rendimiento por ello</li>
+<li>Quiero un teclado «bueno» a pesar de que la mayor parte del tiempo use uno externo</li>
+<li>No tengo demasiadas necesidades de conectividad y puertos, no necesito Bluetooth y me da igual que tenga salida VGA y lector de DVD. Estos detalles me ayudaran en la decisión final pero asumo que con el resto de características que busco las necesidades mínimas en este aspecto estarán cubiertas. <em>Update: Cuando revisé las opciones disponibles esto varió un poco, más en otro post</em></li>
+<li>La marca no me preocupa. Hay demasiadas opiniones y experiencias particulares a favor y en contra de todas las marcas. Por experiencias cercanas doy puntos positivos a MSI y Slimbook y negativos a los HP y los Dell pero sólo en la clasificación final cuando haya dudas. No a priori. Y lo mismo con <a href="http://conocimientoabierto.es/buscando-portatil-impresiones-foros-reviews/760/">otras consideraciones como el uso de minerales de zonas de conflicto</a></li>
+<li>Mi orquilla inicial es amplia y la reduciré a medida que investigue un poco. Empezaré por portátiles entre 900 y 1300€ con IVA. Una cantidad por la que se puede comprar algo aceptable para cuatro años si estás dispuesto a sacrificar alguna característica a cambio de precio como: batería, tamaño o potencia.</li>
+</ul>
+<p>Hay un par de puntos clave sobre los que tenía dudas al principio:</p>
+<ul>
+<li>Tamaño de la pantalla. Probablemnte la decisión más eliminadora a la hora de comprar el portátil. El de ahora es de 15.6 y para mi uso es cómodo. Pero siempre dudo con coger uno más pequeño. 14» sería perfecto. A los de 13» les tengo algo de manía. <em>Update: Al poco de empezar a buscar los de 14» quedaron prácticamente descartados porque no me interesaba tanto sacrificar rendimiento o precio a cambio de mejoras de tamaño y batería</em></li>
+<li>Con el disco duro también tengo dudas. De comprar unicamente un único disco magnético (HDD) tengo claro que sea de 7.200rpm. Una búsqueda rápida me dice que hay algún SSD de 1TB (lo ideal) a partir de 1.100€ pero en general suben bastante el precio. La opción de dos discos SSD + HDD puede ser buena pero me da que consume bastante batería y me puede fastidiar un poco mi organización actual de particiones, donde guardo las cosas cifrado y backups. <em>Update: Cerca de tomar la decisión final quedó claro que en ese rango de precios tengo que sacrificar mi organización actual.</em></li>
+</ul>
+<p>Con esto en la cabeza preparo mi hoja de cálculo y la inicializo con un par de configuraciones de <a href="https://slimbook.es/">Slimbook</a> que me servirán de referencia. Luego voy rellenando algunos datos principales y descartando algunos directamente a partir de la búsqueda en un par de páginas. Fundamentalmente:</p>
+<ul>
+<li>https://www.pccomponentes.com/</li>
+<li>https://slimbook.es/</li>
+<li>https://www.vantpc.es/</li>
+<li><a href="https://www.amazon.es/b?_encoding=UTF8&amp;tag=conocimientoa-21&amp;linkCode=ur2&amp;linkId=36da4e949e420deafa18c8184e2926cd&amp;camp=3638&amp;creative=24630&amp;node=683279031">Amazon</a></li>
+</ul>
+<p>y un vistazo rápido a:</p>
+<ul>
+<li>http://tiendas.mediamarkt.es/ordenadores-portatiles</li>
+<li>https://www.worten.es/inicio/informatica/ordenadores/portatil.html</li>
+<li>http://www.elcorteingles.es</li>
+<li>https://www.dell.com/es-es</li>
+<li>https://www.pcbox.com/</li>
+<li>https://www.lenovo.com/</li>
+</ul>
+<p>Si estás interesado en este tema puedes ver <a href="http://conocimientoabierto.es/tag/comprar-portatil/">otros artículos parecidos</a> o seguir esta serie <a href="http://conocimientoabierto.es/tag/comprar-portatil-2019/">en esta etiqueta</a>.</p>
+    
+  </div>
+</article>
+      
+      
+        
+          
+
+
+
+<nav class="md-pagination">
+  <span class="md-pagination__current">1</span> <a class="md-pagination__link" href="page/2/">2</a> <a class="md-pagination__link" href="page/3/">3</a> <span class="md-pagination__dots">..</span> <a class="md-pagination__link" href="page/39/">39</a>
+</nav>
+        
+      
+    </div>
+  </div>
+
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Volver al principio
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright (C) 2007-2024 Francisco Puga. Bajo licencia CC-BY 4.0.
+    </div>
+  
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+    
+    
+    <a href="https://github.com/fpuga" target="_blank" rel="noopener" title="fpuga on GitHub" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8M97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="https://x.com/fpuga" target="_blank" rel="noopener" title="fpuga on X" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="https://stackoverflow.com/users/930271/francisco-puga" target="_blank" rel="noopener" title="fpuga on StackOverflow" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M290.7 311 95 269.7 86.8 309l195.7 41zm51-87L188.2 95.7l-25.5 30.8 153.5 128.3zm-31.2 39.7L129.2 179l-16.7 36.5L293.7 300zM262 32l-32 24 119.3 160.3 32-24zm20.5 328h-200v39.7h200zm39.7 80H42.7V320h-40v160h359.5V320h-40z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+      <div class="md-progress" data-md-component="progress" role="progressbar"></div>
+    
+    
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.indexes", "navigation.tabs", "navigation.tabs.sticky", "navigation.sections", "navigation.top", "navigation.instant", "navigation.instant.progress", "navigation.tracking", "header.autohide", "toc.follow", "content.code.copy"], "search": "../assets/javascripts/workers/search.6ce7567c.min.js", "translations": {"clipboard.copied": "Copiado al portapapeles", "clipboard.copy": "Copiar al portapapeles", "search.result.more.one": "1 m\u00e1s en esta p\u00e1gina", "search.result.more.other": "# m\u00e1s en esta p\u00e1gina", "search.result.none": "No se encontraron documentos", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Teclee para comenzar b\u00fasqueda", "search.result.term.missing": "Falta", "select.version": "Seleccionar versi\u00f3n"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.d6f25eb3.min.js"></script>
+      
+        <script src="../extra/extra.js"></script>
+      
+    
+  </body>
+</html>
