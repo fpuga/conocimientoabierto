@@ -356,8 +356,8 @@ plugins:
         - "yahoo pipes"
         - "young adult"
         - "youtube"
-  - privacy:
-      enabled: !ENV [CI, false]
+#   - privacy:
+#       enabled: !ENV [CI, false]
   - rss:
       match_path: "blog/posts/.*"
       abstract_chars_count: -1
@@ -384,7 +384,7 @@ extra:
     - icon: fontawesome/brands/stack-overflow
       name: fpuga on StackOverflow
       link: https://stackoverflow.com/users/930271/francisco-puga
-      
+
 
 markdown_extensions:
   - attr_list
