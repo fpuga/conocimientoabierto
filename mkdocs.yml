@@ -1,33 +1,41 @@
-site_name: Conocimiento Abierto
-site_description: Blog personal de Francisco Puga
-site_url: https://fpuga.github.io/conocimientoabierto
+site_name: Francisco Puga
+site_description: Página personal de Francisco Puga
+site_url: https://franciscopuga.es
 site_author: Francisco Puga
-copyright: Copyright (C) 2007-2024 Francisco Puga. Bajo licencia CC-BY 4.0.
+copyright: Copyright &copy; 2007-2024 Francisco Puga. Bajo licencia CC-BY 4.0.
 
 theme:
   name: material
   language: es
   custom_dir: overrides
+  # favicon: favicon.ico
   palette:
       scheme: conocimientoabierto
   features:
       - navigation.indexes
       - navigation.tabs
-      - navigation.tabs.sticky
+      # - navigation.tabs.sticky
       - navigation.sections
-      - navigation.top
-      - navigation.instant
-      - navigation.instant.progress
-      - navigation.tracking
-      - header.autohide
+      # - navigation.top
+      # - navigation.instant
+      # - navigation.instant.progress
+      # - navigation.tracking
+      # - header.autohide
       - toc.follow
       - content.code.copy
+      # - content.tabs.link
+      # navigation.footer
+      # navigation.indexes
+      # - search.highlight
+      # - search.share
+      # - search.suggest
+
 
 
 extra_css:
     - extra/extra.css
-extra_javascript:
-    - extra/extra.js
+# extra_javascript:
+#     - extra/extra.js
 
 exclude_docs: |
     drafts/            # A "drafts" directory anywhere.
@@ -43,7 +51,19 @@ plugins:
   - search
   - blog:
       blog_toc: true
-      archive_date_format: MMMM yyyy
+      # archive: false
+      archive_date_format: yyyy
+      archive_url_date_format: yyyy
+      categories: false
+      post_readtime: false
+
+
+
+      pagination_per_page: 5
+      # blog_dir: .
+      # categories_name: Categories
+      # post_url_format: "blog/{date}/{slug}"
+      # post_url_date_format: yyyy/MMM
       categories_allowed:
         - "General"
         - "Ibrahima Niang"
@@ -88,9 +108,9 @@ plugins:
         - "voluntariado"
         - "web 2.0"
         - "webcam"
-      pagination_per_page: 5
+
   - tags:
-      enabled: true
+      enabled: false
       tags: true
       tags_file: tags.md
       # tags_file: blog/tags.md
@@ -358,7 +378,11 @@ plugins:
         - "youtube"
 #   - privacy:
 #       enabled: !ENV [CI, false]
+#   - social:
+#       cards: !ENV [CARDS, false]
+
   - rss:
+      # enabled: !ENV [CARDS, false]
       match_path: "blog/posts/.*"
       abstract_chars_count: -1
       feed_ttl: 2880
@@ -367,10 +391,13 @@ plugins:
         # as_creation: date.created
         # as_update: date.updated
         as_creation: date
-        as_update: git
+        # as_update: git
       feeds_filenames:
         rss_created: rss.xml
-        rss_updated: rss-updated.xm
+        rss_updated: rss-updated.xml
+    #   categories:
+    #     - categories
+    #     - tags
 
 extra:
   generator: false
@@ -378,37 +405,61 @@ extra:
     - icon: fontawesome/brands/github
       name: fpuga on GitHub
       link: https://github.com/fpuga
-    - icon: fontawesome/brands/twitter
+    - icon: fontawesome/brands/x-twitter
       name: fpuga on X
       link: https://x.com/fpuga
     - icon: fontawesome/brands/stack-overflow
       name: fpuga on StackOverflow
       link: https://stackoverflow.com/users/930271/francisco-puga
+    - icon: fontawesome/brands/linkedin
+      link: hhttps://www.linkedin.com/in/francisco-puga-b25a8361/
 
 
 markdown_extensions:
   - attr_list
+  # - def_list
   - abbr
   - md_in_html
   - admonition
   - pymdownx.details
-  - pymdownx.superfences
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
       pygments_lang_class: true
   - pymdownx.inlinehilite
-  - pymdownx.snippets
   - pymdownx.tabbed:
         alternate_style: true
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+#   - pymdownx.magiclink:
+#       repo_url_shorthand: true
+#       user: KumoCorp
+#       repo: kumomta
+  - pymdownx.snippets:
+    #   base_path:
+    #     - assets
+  # - pymdownx.tasklist:
+  #       custom_checkbox: true
+  - pymdownx.superfences:
+    #   custom_fences:
+    #     - name: mermaid
+    #       class: mermaid
+    #       format: !!python/name:pymdownx.superfences.fence_code_format
+
 
 nav:
-  - Home: index.md
-  - Proyectos: proyectos/
-  - Tags: tags.md
-  - Blog:
-     - blog/index.md
+    - index.md
+  # - Home: index.md
+  # - Proyectos: proyectos/
+  # - Tags: tags.md
+    - Blog:
+      - blog/index.md
      # - blog/tags.md
+
+#   - "Blog": index.md
+#   - "About": about.md
+#   - "Mentoring": mentoring.md
+#   - "Sponsor": sponsor.md
+#   - "Projects": projects.md
+#   - "Publications": publications.md

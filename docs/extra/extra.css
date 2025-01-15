@@ -10,6 +10,12 @@
     --md-footer-bg-color--dark: #007bc4;
 }
 
-h1 {
-    color: red !important;
+.md-typeset img.crop-left-mug {
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
+    object-fit: cover;
+    object-position: top;
 }
