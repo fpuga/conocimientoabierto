@@ -11,11 +11,24 @@
 }
 
 .md-typeset img.crop-left-mug {
-    width: 200px;
-    height: 200px;
     float: left;
-    margin-right: 1em;
+    height: 200px;
     margin-bottom: 1em;
+    margin-right: 1em;
     object-fit: cover;
     object-position: top;
+    width: 200px;
+}
+
+/* Keep main page title in header */
+.md-header__ellipsis .md-header__topic:first-child {
+    opacity: 1;
+    position: static;
+    transform: translateX(0);
+    visibility: visible;
+}
+
+/* Hide current page title in header */
+.md-header__ellipsis .md-header__topic:last-child {
+    display: none;
 }
