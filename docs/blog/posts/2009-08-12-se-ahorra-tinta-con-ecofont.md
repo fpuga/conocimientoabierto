@@ -1,6 +1,6 @@
 ---
 categories:
-- General
+  - General
 date: 2009-08-12
 permalink: /se-ahorra-tinta-con-ecofont/125/
 slug: se-ahorra-tinta-con-ecofont
@@ -12,7 +12,7 @@ slug: se-ahorra-tinta-con-ecofont
 
 **Licencia**. Ecofont está basada en la fuente [Vera Sans](http://www.bitstream.com/font_rendering/products/dev_fonts/vera.html). Vera Sans tiene una [licencia semi-abierta](http://www.gnome.org/fonts/). En la página web de Ecofont se describe como «De descarga gratuita y de uso gratuito.», pero no aparece nada referido a si se puede modificar, empaquetar con otro software, etc…
 
-**Legibilidad**. Existen dos familias principales de tipografías. [Serif](http://en.wikipedia.org/wiki/Serif) (también llamada Roman) o Sans-Serif (también llamada Ghotic). La serif son los tipos de fuentes que terminan las letras con algún adorno, por ejemplo entre un i mayúscula que es simplmente un palo o a la que se añaden rayas horizontales arriba y abajo ([imagen y texto aclaratorio](http://www.webestilo.com/guia/serif.php3)).
+**Legibilidad**. Existen dos familias principales de tipografías. [Serif](http://en.wikipedia.org/wiki/Serif) (también llamada Roman) o Sans-Serif (también llamada Ghotic). La serif son los tipos de fuentes que terminan las letras con algún adorno, por ejemplo entre un i mayúscula que es simplemente un palo o a la que se añaden rayas horizontales arriba y abajo ([imagen y texto aclaratorio](http://www.webestilo.com/guia/serif.php3)).
 
 Si bien [no hay ningún estudio serio que lo pruebe](http://www.alexpoole.info/academic/literaturereview.html), se suele considerar que a la hora de imprimir la tipografía serif resulta más legible, y es por tanto la opción más empleada para el cuerpo de texto de libros y periódicos. En impresión la sans-serif se suele reservar para títulos y textos pequeños que requieran una apariencia más informal que la que producen las serif. A la hora de visualizar en la pantalla se suele considerar que la sans-serif es la más legible, y muchas página web la emplean por esta razón.
 

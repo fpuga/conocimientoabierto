@@ -1,0 +1,32 @@
+---
+categories:
+  - cultura
+  - ciencia
+date: 2007-06-11
+permalink: /primates-violencia-y-genes/14/
+slug: primates-violencia-y-genes
+---
+
+# Primates, violencia y genes
+
+Acabo de verlo en la [tele](http://www.tve.es) y no he podido resistirme.
+
+Los [babuínos](http://es.wikipedia.org/wiki/Papio) son una especie de primates bastante violenta. A principio de los 80 los machos de una manada de babuínos de la reserva de [Masai Mara](http://es.wikipedia.org/wiki/Masai_Mara) fallecieron por culpa de unos alimentos tóxicos. A pesar de esto el grupo consiguió sobrevivir (supongo que quedaría algún macho o con machos provenientes de otras manadas) pero la hembra cobró protagonismo. Estudios posteriores constataron como en este grupo las peleas (habituales entre los babuínos) se habían reducido considerablemente dado que las hembras transmitían entre generaciones una especie de _cultura de la paz_.
+
+La interpretación la voy a dejar para cada cual, sólo un par de preguntas...
+
+- ¿Son los machos violentos por naturaleza y las hembras pacíficas?
+- ¿Predomina la cultura sobre la genética?
+
+## Disclaimer
+
+No he podido encontrar enlaces donde explicaran el caso en detalle y por tanto el artículo está basado en 5 minutos de documental visto en televisión y como tal debe interpretarse.
+
+## Actualización
+
+- [Sapolsky and Share. A Pacific Culture among Wild Baboons: Its Emergence and Transmission](http://biology.plosjournals.org/perlserv/?request=get-document&doi=10.1371%2Fjournal.pbio.0020106)
+- [Waal. Peace Lessons from an Unlikely Source](http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=387271)
+
+El primer enlace es el artículo original en el que se comenta el caso. Debo decir que a pesar de no haberlo leído entero el tema no es exactamente como yo lo había planteado pero la esencia sigue siendo la misma.
+
+El segundo enlace es una discusión un poco más amplia sobre el tema de la violencia en humanos y animales bastante interesante escrito por alguien a quien ya hemos citado [aquí](./2007-04-30-cooperacion-y-supervivencia.md)

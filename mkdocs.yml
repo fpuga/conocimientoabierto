@@ -82,7 +82,6 @@ plugins:
               - "economia"
               - "epd"
               - "esf"
-              - "genetica"
               - "globalizacion"
               - "ideologia"
               - "intimo"
@@ -93,7 +92,6 @@ plugins:
               - "mundodesigual07"
               - "politica"
               - "portatil"
-              - "primates"
               - "receta"
               - "recomendacion"
               - "relato"
@@ -146,6 +144,7 @@ plugins:
               - "backup"
               - "base de datos"
               - "bash"
+              - "blog"
               - "blogroll"
               - "bloguzz"
               - "bolsa-caca"
@@ -159,7 +158,7 @@ plugins:
               - "charlas"
               - "ciberactivismo"
               - "ciberpunk"
-              - "cienc"
+              - "ciencia"
               - "ciencia ficción"
               - "cifrado"
               - "cifrar"
@@ -374,12 +373,15 @@ plugins:
               - "yahoo pipes"
               - "young adult"
               - "youtube"
+              - "llm"
+              - "ai"
     #   - privacy:
     #       enabled: !ENV [CI, false]
     #   - social:
     #       cards: !ENV [CARDS, false]
     - rss:
           # enabled: !ENV [CARDS, false]
+          pretty_print: true
           match_path: "blog/posts/.*"
           abstract_chars_count: -1
           feed_ttl: 2880

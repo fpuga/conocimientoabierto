@@ -1,23 +1,23 @@
 ---
 categories:
-- Sin categoría
+  - Sin categoría
 date: 2013-01-04
 permalink: /la-era-del-diamante-ciencia-ficcion/519/
 slug: la-era-del-diamante-ciencia-ficcion
 tags:
-- Asimov
-- ciberpunk
-- cienc
-- educación
-- fabbing
-- futuro
-- impresora 3D
-- Ken Robinson
-- khan academy
-- La era del diamante
-- libros
-- mooc
-- Neal Stephenson
+  - Asimov
+  - ciberpunk
+  - ciencia
+  - educación
+  - fabbing
+  - futuro
+  - impresora 3D
+  - Ken Robinson
+  - khan academy
+  - La era del diamante
+  - libros
+  - mooc
+  - Neal Stephenson
 ---
 
 # La era del diamante ¿Ciencia Ficción?

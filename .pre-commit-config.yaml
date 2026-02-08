@@ -30,7 +30,7 @@ repos:
             args: [--write, --ignore-path, .ignore]
             language: system
             types: [file]
-            files: \.(js|json|md|vue|yaml|yml)$ # html
+            files: \.(js|json|md|vue|yaml|yml|toml)$ # html
             verbose: true
 
           - id: "markdownlint-cli2"
