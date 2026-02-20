@@ -1,16 +1,15 @@
 ---
 categories:
-- Sin categoría
+  - Sin categoría
 date: 2016-09-30
 permalink: /diy-reparar-mando-distancia-papel-albal/884/
 slug: diy-reparar-mando-distancia-papel-albal
 tags:
-- cinco erres
-- como
-- diy
-- hardware
-- how to
-- maker
+  - como
+  - diy
+  - hardware
+  - how to
+  - maker
 ---
 
 # DIY: Reparar el mando a distancia con papel albal

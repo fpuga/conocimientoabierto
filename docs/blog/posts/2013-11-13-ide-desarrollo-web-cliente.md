@@ -1,14 +1,13 @@
 ---
 categories:
-- Sin categoría
+  - Sin categoría
 date: 2013-11-13
 permalink: /ide-desarrollo-web-cliente/604/
 slug: ide-desarrollo-web-cliente
 tags:
-- desarrollo sofware
-- desarrollo web
-- Escoger IDE web
-- IDE
+  - desarrollo sofware
+  - desarrollo web
+  - IDE
 ---
 
 # IDE para desarrollo web en cliente

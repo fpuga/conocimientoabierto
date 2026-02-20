@@ -1,14 +1,13 @@
 ---
 categories:
-- Sin categoría
+  - Sin categoría
 date: 2014-06-26
 permalink: /aptana-ide-desarrollo-web/719/
 slug: aptana-ide-desarrollo-web
 tags:
-- desarrollo sofware
-- desarrollo web
-- Escoger IDE web
-- IDE
+  - desarrollo sofware
+  - desarrollo web
+  - IDE
 ---
 
 # Aptana. Un IDE para desarrollo web

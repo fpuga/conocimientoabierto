@@ -1,15 +1,14 @@
 ---
 categories:
-- Sin categoría
+  - Sin categoría
 date: 2019-05-13
 permalink: /comprar-portatil-desarrollo-2019/990/
 slug: comprar-portatil-desarrollo-2019
 tags:
-- comprar portátil
-- comprar portátil 2019
-- hardware
-- portátil
-- recomendaciones
+  - comprar portátil
+  - hardware
+  - portátil
+  - recomendaciones
 ---
 
 # Comprar un portátil para desarrollo en 2019
@@ -38,14 +37,14 @@ Cuando lo compré escribí una [guía de compra de portátil](http://conocimient
 - No tengo necesidad de gráfica dedicada pero prefiero que no me coma RAM extra
 - No lo quiero más grande ni pesado que el actual. A pesar de que el 85% del tiempo está apoyado en una mesa, el 15% restante de viajes en tren, reuniones y uno o dos viajes de trabajo al año hacen que prefiera uno más pequeño. Pero no voy a sacrificar más de 150€ o rendimiento por ello
 - Quiero un teclado «bueno» a pesar de que la mayor parte del tiempo use uno externo
-- No tengo demasiadas necesidades de conectividad y puertos, no necesito Bluetooth y me da igual que tenga salida VGA y lector de DVD. Estos detalles me ayudaran en la decisión final pero asumo que con el resto de características que busco las necesidades mínimas en este aspecto estarán cubiertas. *Update: Cuando revisé las opciones disponibles esto varió un poco, más en otro post*
+- No tengo demasiadas necesidades de conectividad y puertos, no necesito Bluetooth y me da igual que tenga salida VGA y lector de DVD. Estos detalles me ayudaran en la decisión final pero asumo que con el resto de características que busco las necesidades mínimas en este aspecto estarán cubiertas. _Update: Cuando revisé las opciones disponibles esto varió un poco, más en otro post_
 - La marca no me preocupa. Hay demasiadas opiniones y experiencias particulares a favor y en contra de todas las marcas. Por experiencias cercanas doy puntos positivos a MSI y Slimbook y negativos a los HP y los Dell pero sólo en la clasificación final cuando haya dudas. No a priori. Y lo mismo con [otras consideraciones como el uso de minerales de zonas de conflicto](http://conocimientoabierto.es/buscando-portatil-impresiones-foros-reviews/760/)
 - Mi orquilla inicial es amplia y la reduciré a medida que investigue un poco. Empezaré por portátiles entre 900 y 1300€ con IVA. Una cantidad por la que se puede comprar algo aceptable para cuatro años si estás dispuesto a sacrificar alguna característica a cambio de precio como: batería, tamaño o potencia.
 
 Hay un par de puntos clave sobre los que tenía dudas al principio:
 
-- Tamaño de la pantalla. Probablemnte la decisión más eliminadora a la hora de comprar el portátil. El de ahora es de 15.6 y para mi uso es cómodo. Pero siempre dudo con coger uno más pequeño. 14» sería perfecto. A los de 13» les tengo algo de manía. *Update: Al poco de empezar a buscar los de 14» quedaron prácticamente descartados porque no me interesaba tanto sacrificar rendimiento o precio a cambio de mejoras de tamaño y batería*
-- Con el disco duro también tengo dudas. De comprar unicamente un único disco magnético (HDD) tengo claro que sea de 7.200rpm. Una búsqueda rápida me dice que hay algún SSD de 1TB (lo ideal) a partir de 1.100€ pero en general suben bastante el precio. La opción de dos discos SSD + HDD puede ser buena pero me da que consume bastante batería y me puede fastidiar un poco mi organización actual de particiones, donde guardo las cosas cifrado y backups. *Update: Cerca de tomar la decisión final quedó claro que en ese rango de precios tengo que sacrificar mi organización actual.*
+- Tamaño de la pantalla. Probablemnte la decisión más eliminadora a la hora de comprar el portátil. El de ahora es de 15.6 y para mi uso es cómodo. Pero siempre dudo con coger uno más pequeño. 14» sería perfecto. A los de 13» les tengo algo de manía. _Update: Al poco de empezar a buscar los de 14» quedaron prácticamente descartados porque no me interesaba tanto sacrificar rendimiento o precio a cambio de mejoras de tamaño y batería_
+- Con el disco duro también tengo dudas. De comprar unicamente un único disco magnético (HDD) tengo claro que sea de 7.200rpm. Una búsqueda rápida me dice que hay algún SSD de 1TB (lo ideal) a partir de 1.100€ pero en general suben bastante el precio. La opción de dos discos SSD + HDD puede ser buena pero me da que consume bastante batería y me puede fastidiar un poco mi organización actual de particiones, donde guardo las cosas cifrado y backups. _Update: Cerca de tomar la decisión final quedó claro que en ese rango de precios tengo que sacrificar mi organización actual._
 
 Con esto en la cabeza preparo mi hoja de cálculo y la inicializo con un par de configuraciones de [Slimbook](https://slimbook.es/) que me servirán de referencia. Luego voy rellenando algunos datos principales y descartando algunos directamente a partir de la búsqueda en un par de páginas. Fundamentalmente:
 
