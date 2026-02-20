@@ -412,6 +412,9 @@ extra:
           link: https://stackoverflow.com/users/930271/francisco-puga
         - icon: fontawesome/brands/linkedin
           link: hhttps://www.linkedin.com/in/francisco-puga-b25a8361/
+    analytics:
+        provider: umami
+        enabled: !ENV [ANALYTICS, false]
 
 markdown_extensions:
     - attr_list

@@ -1,0 +1,26 @@
+
+{% if config.extra.analytics and config.extra.analytics.enabled %}
+  {{ config.extra.analytics.enabled }}
+  {% set provider = config.extra.analytics.provider %}
+{% endif %}
+
+{% if provider %}
+  {% include "partials/integrations/analytics/" ~ provider ~ ".html" %}
+
+  <!-- Consent necessary -->
+  {% if config.extra.consent %}
+    <script>
+      if (typeof __md_analytics !== "undefined") {
+        var consent = __md_get("__consent")
+        if (consent && consent.analytics)
+          __md_analytics()
+      }
+    </script>
+
+  {% else %}
+    <script>
+      if (typeof __md_analytics !== "undefined")
+        __md_analytics()
+    </script>
+  {% endif %}
+{% endif %}
