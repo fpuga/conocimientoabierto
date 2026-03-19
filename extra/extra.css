@@ -1,0 +1,34 @@
+/* https://github.com/squidfunk/mkdocs-material/blob/master/src/templates/assets/stylesheets/main/_colors.scss */
+[data-md-color-scheme="conocimientoabierto"] {
+    --md-primary-fg-color: #007bc4;
+    --md-primary-bg-color: #fff;
+
+    /* --md-primary-fg-color--light: #ecb7b7;
+    --md-primary-fg-color--dark: #90030c; */
+    --md-footer-fg-color: #fff;
+    --md-footer-bg-color: #007bc4;
+    --md-footer-bg-color--dark: #007bc4;
+}
+
+.md-typeset img.crop-left-mug {
+    float: left;
+    height: 200px;
+    margin-bottom: 1em;
+    margin-right: 1em;
+    object-fit: cover;
+    object-position: top;
+    width: 200px;
+}
+
+/* Keep main page title in header */
+.md-header__ellipsis .md-header__topic:first-child {
+    opacity: 1;
+    position: static;
+    transform: translateX(0);
+    visibility: visible;
+}
+
+/* Hide current page title in header */
+.md-header__ellipsis .md-header__topic:last-child {
+    display: none;
+}

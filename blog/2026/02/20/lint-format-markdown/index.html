@@ -1,0 +1,1334 @@
+
+<!doctype html>
+<html lang="es" class="no-js">
+  <head>
+    
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+
+<!-- Page description -->
+
+<meta name="description" content="Página personal de Francisco Puga" />
+
+
+<!-- Page author -->
+
+<meta name="author" content="Francisco Puga" />
+
+
+<!-- Canonical -->
+
+<link rel="canonical" href="https://franciscopuga.es/blog/2026/02/20/lint-format-markdown/" />
+
+
+<!-- Previous page -->
+
+<link rel="prev" href="../../08/bash-debug-mode/" />
+
+
+<!-- Next page -->
+
+<link rel="next" href="../../28/lint-format-rumdl/" />
+
+
+<!-- RSS feed -->
+
+<link
+  rel="alternate"
+  type="application/rss+xml"
+  title="Fuente RSS"
+  href="../../../../../rss.xml"
+/>
+<link
+  rel="alternate"
+  type="application/rss+xml"
+  title="Fuente RSS de contenido actualizado"
+  href="../../../../../rss_updated.xml"
+/>
+
+
+<!-- Favicon -->
+<link rel="icon" href="../../../../../assets/images/favicon.png" />
+
+<!-- Generator banner -->
+<meta name="generator" content="mkdocs-1.6.1, $md-name$-$md-version$" />
+
+    
+      
+        <title>Herramientas de Lint y Format para Markdown - Francisco Puga</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../../../assets/stylesheets/main.8c3ca2c6.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../../../extra/extra.css">
+    
+    <script>__md_scope=new URL("../../../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="conocimientoabierto" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#herramientas-de-lint-y-format-para-markdown" class="md-skip">
+          Saltar a contenido
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabecera">
+    <a href="../../../../.." title="Francisco Puga" class="md-header__button md-logo" aria-label="Francisco Puga" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Francisco Puga
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Herramientas de Lint y Format para Markdown
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Búsqueda" placeholder="Búsqueda" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Buscar">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Limpiar" aria-label="Limpiar" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando búsqueda
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Pestañas" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../../.." class="md-tabs__link">
+        
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../../../../" class="md-tabs__link">
+          
+  
+    
+  
+  Blog
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+                
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" hidden>
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navegación" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../../../.." title="Francisco Puga" class="md-nav__button md-logo" aria-label="Francisco Puga" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Francisco Puga
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+      
+        
+        
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../../" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Blog
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_2" id="__nav_2_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Blog
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_2" id="__nav_2_2_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Archivo
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            Archivo
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../archive/2026/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2026
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../archive/2025/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2025
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../archive/2021/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2021
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../archive/2020/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2020
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../archive/2019/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2019
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../archive/2018/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2018
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../archive/2017/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2017
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../archive/2016/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2016
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../archive/2015/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2015
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../archive/2014/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2014
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../archive/2013/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2013
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../archive/2012/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2012
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../archive/2011/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2011
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../archive/2010/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2010
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../archive/2009/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2009
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../archive/2008/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2008
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../archive/2007/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2007
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+                
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Tabla de contenidos">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#requisitos-deseables" class="md-nav__link">
+    <span class="md-ellipsis">
+      Requisitos Deseables
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#herramientas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Herramientas
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Herramientas">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#mdformat" class="md-nav__link">
+    <span class="md-ellipsis">
+      mdformat
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#prettier" class="md-nav__link">
+    <span class="md-ellipsis">
+      prettier
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#markdownlint" class="md-nav__link">
+    <span class="md-ellipsis">
+      markdownlint
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#remark" class="md-nav__link">
+    <span class="md-ellipsis">
+      remark
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="remark">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#un-ejemplo-de-instalacion-y-uso" class="md-nav__link">
+    <span class="md-ellipsis">
+      Un ejemplo de instalación y uso
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#un-ejemplo-de-configuracion" class="md-nav__link">
+    <span class="md-ellipsis">
+      Un ejemplo de configuración
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#herramientas-descartadas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Herramientas Descartadas
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Herramientas Descartadas">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#biome" class="md-nav__link">
+    <span class="md-ellipsis">
+      Biome
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pymarkdown" class="md-nav__link">
+    <span class="md-ellipsis">
+      PyMarkdown
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="PyMarkdown">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#dprint" class="md-nav__link">
+    <span class="md-ellipsis">
+      dprint
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#otras-referencias" class="md-nav__link">
+    <span class="md-ellipsis">
+      Otras referencias
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#conclusiones" class="md-nav__link">
+    <span class="md-ellipsis">
+      Conclusiones
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+  <div class="md-content md-content--post" data-md-component="content">
+    <div class="md-sidebar md-sidebar--post" data-md-component="sidebar" data-md-type="navigation">
+      <div class="md-sidebar__scrollwrap">
+        <div class="md-sidebar__inner md-post">
+          <nav class="md-nav md-nav--primary">
+            <div class="md-post__back">
+              <div class="md-nav__title md-nav__container">
+                <a href="../../../../" class="md-nav__link">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+                  <span class="md-ellipsis">
+                    Regresar al índice
+                  </span>
+                </a>
+              </div>
+            </div>
+            
+            <ul class="md-post__meta md-nav__list">
+              <li class="md-nav__item md-nav__item--section">
+                <div class="md-post__title">
+                  <span class="md-ellipsis">
+                    Metadata
+                  </span>
+                </div>
+                <nav class="md-nav">
+                  <ul class="md-nav__list">
+                    <li class="md-nav__item">
+                      <div class="md-nav__link">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 19H5V8h14m-3-7v2H8V1H6v2H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2h-1V1m-1 11h-5v5h5z"/></svg>
+                        <time datetime="2026-02-20 00:00:00" class="md-ellipsis">20 de febrero de 2026</time>
+                      </div>
+                    </li>
+                    
+                    
+                    
+                  </ul>
+                </nav>
+              </li>
+            </ul>
+          </nav>
+          
+        </div>
+      </div>
+    </div>
+    <article class="md-content__inner md-typeset">
+      
+        
+
+
+<h1 id="herramientas-de-lint-y-format-para-markdown">Herramientas de Lint y Format para Markdown</h1>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>No te pierdas la continuación de este artículo <a href="../../28/lint-format-rumdl/">hablando de la herramienta rumdl</a></p>
+</div>
+<p>Llevo bastante tiempo usando <code>markdownlint-cli2</code> y <code>prettier</code> para linting y formatting de Markdown, pero no tenía un análisis de las herramientas disponibles, para ver si había mejores opciones.</p>
+<h2 id="requisitos-deseables">Requisitos Deseables</h2>
+<ul>
+<li>Integración con el IDE. Una buena extensión para VSCode y derivados</li>
+<li>Integración con pre-commit (oficial en el repo, no sólo ejecución local)</li>
+<li>Una sola herramienta mejor que varias herramientas. En todo caso el linter y el formatter deben ser compatibles.</li>
+<li>Bien mantenida, popular, ...</li>
+<li>Rápida</li>
+<li>Rust &gt; Python &gt; Javascript</li>
+<li>Prefiero herramientas en lenguajes que generan binarios como Rust porqué son más fáciles de instalar y mantener. Luego en Python porqué conozco mejor el ecosistema</li>
+<li>Formato:</li>
+<li>Mucho Markdown es para LLMs o producido por LLMs. Así que prefiero un <a href="https://franciscopuga.es/blog/2025/09/28/estilo-markdown-producido-llm/">estilo que concuerde</a>.</li>
+<li>Que se lleve bien con MkDocs, que tiene su propio sabor (<a href="https://github.com/Python-Markdown/markdown">python-markdown</a>, y <a href="https://github.com/facelessuser/pymdown-extensions">python-markdown-extensions</a>)</li>
+</ul>
+<p class="annotate">Aunque preparando el artículo me entero de que <a href="https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/">MkDocs está <em>deprecated</em></a> y Zensical del mismo equipo usará en el futuro (1) CommonMark</p>
+<ol>
+<li><img alt="🙏" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f64f.svg" title=":pray:" /> !Gracias!</li>
+</ol>
+<h2 id="herramientas">Herramientas</h2>
+<h3 id="mdformat">mdformat</h3>
+<p><a href="https://github.com/hukkin/mdformat">mdformat</a> es un formatter escrito en Python.</p>
+<ul>
+<li>Usa markdown-it-py cómo parser.</li>
+<li>643 estrellas</li>
+<li>Soporta CommonMark, GFM, MysT</li>
+<li>Tiene plugins para soportar casos particulares como Admonitions, formatear código dentro de fenced blocks, ...</li>
+<li>Opinionated. Pocas opciones de configuración</li>
+<li>Soporta MkDocs <a href="https://github.com/KyleKing/mdformat-mkdocs">a través de plugin</a>:</li>
+<li>Aunque <a href="https://github.com/mkdocs/mkdocs/issues/1835">hay que probar bien</a>.</li>
+<li>Plugin <a href="https://github.com/hukkin/mdformat/issues/528">no oficial para vscode</a>.</li>
+<li>Tiene soporte para pre-comit</li>
+</ul>
+<p>No me acaba de convencer.</p>
+<h3 id="prettier">prettier</h3>
+<p><a href="https://github.com/prettier/prettier">Prettier</a> es el estándar para formatear en el ecosistema JavaScript.</p>
+<ul>
+<li>Usa remark-parser como parser</li>
+<li>50k estrellas</li>
+<li>Soporte para CommonMark, GFM y MDXv1</li>
+<li>Muy buena integración con el IDE</li>
+<li>Es <em>opinionated</em>. La única opción específica markdown es <a href="https://prettier.io/docs/options#prose-wrap">prose-wrap</a></li>
+<li>No hay <a href="https://github.com/prettier/prettier/discussions/16227">soporte oficial para pre-commit</a>, ni para prek</li>
+</ul>
+<p>Una opción que nunca es mala, aunque puede no ser la mejor.</p>
+<h3 id="markdownlint">markdownlint</h3>
+<p>Bajo este nombre encontramos varias herramientas de lint:</p>
+<ul>
+<li><a href="https://github.com/markdownlint/markdownlint">Una herramienta escrita en Ruby</a></li>
+<li><a href="https://github.com/DavidAnson/markdownlint">Una librería escrita en NodeJS</a>. Es uno de los linters más populares para markdown</li>
+<li><a href="https://github.com/igorshubovych/markdownlint-cli">Una ClI sobre markdown lint</a>.</li>
+<li><a href="https://github.com/DavidAnson/markdownlint-cli2">Otra CLI sobre markdown lint</a> escrita por la <a href="https://dlaa.me/blog/post/markdownlintcli2">misma persona</a> que markdownlint.</li>
+</ul>
+<p>La que nos interesa es <code>markdownlint-cli2</code>.</p>
+<ul>
+<li>Markdown/CommonMark</li>
+<li>pre-commit, github action, <a href="https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint">extensión para vscode</a>.</li>
+<li>Distintos formatos de salida (xml, json, consola, con colores, ...)</li>
+<li>La configuración es algo confusa, pero los ficheros <code>.markdownlint-cli2.*</code> permiten configurar tanto la CLI, cómo la extensión para code, cómo la librería</li>
+<li>El linter usa por debajo el parse <a href="https://www.npmjs.com/package/markdown-it">markdown-it</a>.</li>
+</ul>
+<p><a href="https://blog.scottlowe.org/2024/03/01/linting-your-markdown-files/">Un artículo sobre la herramienta</a>.</p>
+<p>A pesar de las confusiones de nombres, y la documentación dispersa no es una mala opción.</p>
+<h3 id="remark">remark</h3>
+<p><a href="https://github.com/remarkjs/remark">Remark</a> no es una herramienta si no un ecosistema en torno a Markdown que a su vez forma forma parte de <a href="https://unifiedjs.com/">unifiedjs</a>.</p>
+<p>Por defecto trabaja con ConmmonMark pero tiene plugins para otras versiones.</p>
+<p>Es muy configurable, tanto, que entender bien cómo funciona, escoger los plugins y configurar las opciones adecuadas se vuelve complicado.</p>
+<p><a href="https://github.com/remarkjs/remark-lint/issues/227">Sin soporte oficial para pre-commit</a>.</p>
+<p>La <a href="https://github.com/drewbourne/vscode-remark-lint">extensión de remark-lint para vscode</a> que aparece en el README no se actualiza desde 2018. Hay otra <a href="https://github.com/remarkjs/vscode-remark">extensión que parece oficial</a> que en el momento de escribir esto lleva más de año y medio (Abril/2024) sin actualizarse.</p>
+<ul>
+<li><a href="https://github.com/remarkjs/remark/tree/main/packages/remark-parse">remark-parse</a> es la librería que convierte markdown a AST. Es usada también por prettier.</li>
+<li><a href="https://github.com/remarkjs/remark/tree/main/packages/remark-stringify">remark-stringify</a>. Es la librería que se encarga de convertir el AST a Markdown. Cuando formateamos Markdown remark-parse lo convierte a AST, y remark-stringify lo convierte de nuevo a Markdown. Las reglas que queremos para el formatter son las que admita esta librería más plugins.</li>
+<li><a href="https://github.com/remarkjs/remark-lint">remark-lint</a>. Es un monorepo que contiene la librería básica de linting y un montón de reglas que están por separadas o en conjuntos llamados "<a href="https://github.com/remarkjs/remark-lint?tab=readme-ov-file#rules">presets</a>". Pero no es una herramienta, el uso de la librería es a través de remark-cli. Cuando instalamos un preset el paquete base remark-lint va cómo dependencia. Los presets más habituales:</li>
+<li><a href="https://github.com/remarkjs/remark-lint/tree/main/packages/remark-preset-lint-consistent">remark-preset-lint-consistent</a> — rules that enforce consistency</li>
+<li><a href="https://github.com/remarkjs/remark-lint/tree/main/packages/remark-preset-lint-markdown-style-guide">remark-preset-lint-markdown-style-guide</a> — rules that enforce the markdown style guide</li>
+<li><a href="https://github.com/remarkjs/remark-lint/tree/main/packages/remark-preset-lint-recommended">remark-preset-lint-recommended</a> — rules that prevent mistakes or stuff that fails across vendors.</li>
+<li><a href="https://github.com/remarkjs/remark/tree/main/packages/remark-cli">remark-cli</a>, es la herramienta de línea de comandos para llevar a cabo operaciones.</li>
+<li><a href="https://github.com/remarkjs/remark?tab=readme-ov-file#plugins">plugins</a> para casi todo lo que podamos imaginar. Otras versiones de markdown cómo remark-gfm, manipulaciones cómo remark-toc, linting cómo remark-lint, ...</li>
+</ul>
+<h4 id="un-ejemplo-de-instalacion-y-uso">Un ejemplo de instalación y uso</h4>
+<div class="language-bash highlight"><pre><span></span><code><span id="__span-0-1"><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a><span class="c1"># Instalar la línea de comandos genérica</span>
+</span><span id="__span-0-2"><a id="__codelineno-0-2" name="__codelineno-0-2" href="#__codelineno-0-2"></a>npm<span class="w"> </span>install<span class="w"> </span>--save-dev<span class="w"> </span>remark-cli
+</span><span id="__span-0-3"><a id="__codelineno-0-3" name="__codelineno-0-3" href="#__codelineno-0-3"></a>
+</span><span id="__span-0-4"><a id="__codelineno-0-4" name="__codelineno-0-4" href="#__codelineno-0-4"></a><span class="c1"># Instalar plugins cómo remark-toc o un conjunto de reglas</span>
+</span><span id="__span-0-5"><a id="__codelineno-0-5" name="__codelineno-0-5" href="#__codelineno-0-5"></a>npm<span class="w"> </span>install<span class="w"> </span>--save-dev<span class="w"> </span>remark-preset-lint-markdown-style-guide<span class="w"> </span>remark-toc
+</span><span id="__span-0-6"><a id="__codelineno-0-6" name="__codelineno-0-6" href="#__codelineno-0-6"></a>
+</span><span id="__span-0-7"><a id="__codelineno-0-7" name="__codelineno-0-7" href="#__codelineno-0-7"></a><span class="c1"># Format de un fichero</span>
+</span><span id="__span-0-8"><a id="__codelineno-0-8" name="__codelineno-0-8" href="#__codelineno-0-8"></a>remark<span class="w"> </span>--output<span class="w"> </span>readme.md
+</span><span id="__span-0-9"><a id="__codelineno-0-9" name="__codelineno-0-9" href="#__codelineno-0-9"></a>
+</span><span id="__span-0-10"><a id="__codelineno-0-10" name="__codelineno-0-10" href="#__codelineno-0-10"></a><span class="c1"># Format de un fichero añadiendo el TOC</span>
+</span><span id="__span-0-11"><a id="__codelineno-0-11" name="__codelineno-0-11" href="#__codelineno-0-11"></a>remark<span class="w"> </span>--output<span class="w"> </span>--use<span class="w"> </span>remark-toc<span class="w"> </span>readme.md
+</span><span id="__span-0-12"><a id="__codelineno-0-12" name="__codelineno-0-12" href="#__codelineno-0-12"></a>
+</span><span id="__span-0-13"><a id="__codelineno-0-13" name="__codelineno-0-13" href="#__codelineno-0-13"></a><span class="c1"># Lint de todos los ficheros acorde a remark-preset-lint-markdown-style-guide</span>
+</span><span id="__span-0-14"><a id="__codelineno-0-14" name="__codelineno-0-14" href="#__codelineno-0-14"></a>remark<span class="w"> </span>--use<span class="w"> </span>remark-preset-lint-markdown-style-guide<span class="w"> </span>.
+</span><span id="__span-0-15"><a id="__codelineno-0-15" name="__codelineno-0-15" href="#__codelineno-0-15"></a>
+</span><span id="__span-0-16"><a id="__codelineno-0-16" name="__codelineno-0-16" href="#__codelineno-0-16"></a><span class="c1"># Format de todos los ficheros markdown en el directorio actual</span>
+</span><span id="__span-0-17"><a id="__codelineno-0-17" name="__codelineno-0-17" href="#__codelineno-0-17"></a>remark<span class="w"> </span>.<span class="w"> </span>--output
+</span><span id="__span-0-18"><a id="__codelineno-0-18" name="__codelineno-0-18" href="#__codelineno-0-18"></a>
+</span><span id="__span-0-19"><a id="__codelineno-0-19" name="__codelineno-0-19" href="#__codelineno-0-19"></a><span class="c1"># Lint de todos los ficheros markdown en el directorio actual</span>
+</span><span id="__span-0-20"><a id="__codelineno-0-20" name="__codelineno-0-20" href="#__codelineno-0-20"></a>remark<span class="w"> </span>.
+</span></code></pre></div>
+<h4 id="un-ejemplo-de-configuracion">Un ejemplo de configuración</h4>
+<div class="language-yaml highlight"><pre><span></span><code><span id="__span-1-1"><a id="__codelineno-1-1" name="__codelineno-1-1" href="#__codelineno-1-1"></a><span class="l l-Scalar l-Scalar-Plain">// .remarkrc.yaml</span>
+</span><span id="__span-1-2"><a id="__codelineno-1-2" name="__codelineno-1-2" href="#__codelineno-1-2"></a><span class="l l-Scalar l-Scalar-Plain">plugins</span><span class="p p-Indicator">:</span>
+</span><span id="__span-1-3"><a id="__codelineno-1-3" name="__codelineno-1-3" href="#__codelineno-1-3"></a><span class="w">  </span><span class="c1"># Check that markdown is consistent.</span>
+</span><span id="__span-1-4"><a id="__codelineno-1-4" name="__codelineno-1-4" href="#__codelineno-1-4"></a><span class="w">  </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">remark-preset-lint-consistent</span>
+</span><span id="__span-1-5"><a id="__codelineno-1-5" name="__codelineno-1-5" href="#__codelineno-1-5"></a><span class="w">  </span><span class="c1"># Few recommended rules.</span>
+</span><span id="__span-1-6"><a id="__codelineno-1-6" name="__codelineno-1-6" href="#__codelineno-1-6"></a><span class="w">  </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">remark-preset-lint-recommended</span>
+</span><span id="__span-1-7"><a id="__codelineno-1-7" name="__codelineno-1-7" href="#__codelineno-1-7"></a><span class="w">  </span><span class="c1"># Generate a table of contents in `## Contents`</span>
+</span><span id="__span-1-8"><a id="__codelineno-1-8" name="__codelineno-1-8" href="#__codelineno-1-8"></a><span class="w">  </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">remark-toc</span>
+</span><span id="__span-1-9"><a id="__codelineno-1-9" name="__codelineno-1-9" href="#__codelineno-1-9"></a><span class="w">    </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">heading</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">contents</span>
+</span><span id="__span-1-10"><a id="__codelineno-1-10" name="__codelineno-1-10" href="#__codelineno-1-10"></a><span class="nt">settings</span><span class="p">:</span>
+</span><span id="__span-1-11"><a id="__codelineno-1-11" name="__codelineno-1-11" href="#__codelineno-1-11"></a><span class="w">  </span><span class="nt">bullet</span><span class="p">:</span><span class="w"> </span><span class="s">&quot;*&quot;</span>
+</span><span id="__span-1-12"><a id="__codelineno-1-12" name="__codelineno-1-12" href="#__codelineno-1-12"></a><span class="w">  </span><span class="nt">emphasis</span><span class="p">:</span><span class="w"> </span><span class="s">&quot;_&quot;</span>
+</span><span id="__span-1-13"><a id="__codelineno-1-13" name="__codelineno-1-13" href="#__codelineno-1-13"></a><span class="w">  </span><span class="nt">strong</span><span class="p">:</span><span class="w"> </span><span class="s">&quot;*&quot;</span>
+</span></code></pre></div>
+<h2 id="herramientas-descartadas">Herramientas Descartadas</h2>
+<h3 id="biome">Biome</h3>
+<p><a href="https://github.com/biomejs/biome">Biome</a> es la alternativa a prettier y eslint escrita en rust, pero todavía no implementa todas las reglas ni todos los lenguajes que soporta prettier. No soporta Markdown <a href="https://github.com/biomejs/biome/issues/3718">por ahora</a>.</p>
+<h3 id="pymarkdown">PyMarkdown</h3>
+<p><a href="https://github.com/jackdewinter/pymarkdown">PyMarkdown</a> es un linter escrito en Python que cumple pocos de los requisitos.</p>
+<ul>
+<li>Usan su propio parser.</li>
+<li>109 estrellas</li>
+<li>Soporta CommonMark y GFM</li>
+<li>Tiene soporte para pre-commit</li>
+<li>No parece tener extensión para vscode, ni ningún otro IDE</li>
+<li>Tienen muchas opciones y reglas y es muy configurable</li>
+</ul>
+<h4 id="dprint">dprint</h4>
+<p><a href="https://github.com/dprint/dprint">dprint</a> no es un proyecto al que le hubiera prestado mucha atención si no fuera porqué lo usan Deno y Helix.</p>
+<p>Es un "framework" para formatting escrito en Rust que soporta muchos lenguajes a través de plugins, entre ellos Markdown. Por ejemplo tienen un plugin para ruff para formatear Python.</p>
+<p>Para markdown usa un <a href="https://github.com/pulldown-cmark/pulldown-cmark">parser</a> centrado en CommonMark con soporte parcial para GFM. Las reglas de formato son poco configurables. Parece tener integración con pre-commit (no oficial) y vscode, pero no muy mantenida:</p>
+<p>Bugs a los que prestar atención:</p>
+<ul>
+<li><a href="https://github.com/dprint/dprint/issues/859">#859</a></li>
+<li><a href="https://github.com/dprint/dprint/issues/442">#442</a></li>
+</ul>
+<h2 id="otras-referencias">Otras referencias</h2>
+<ul>
+<li><a href="https://dlaa.me/blog/post/markdownlintanalyzeconfig">A brief analysis of markdownlint rule popularity</a></li>
+</ul>
+<h2 id="conclusiones">Conclusiones</h2>
+<p>Prettier y Markdownlint son las mejores opciones en este momento. Habrá que estar atentos a la evolución de otras herramientas cómo dprint, biome u <a href="https://oxc.rs/">Oxc</a>, y también a lo que salga de Zensical.</p>
+<p>Si manipular el Markdown mediante línea de comandos también es de interés remark es una opción a estudiar.</p>
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+
+
+  
+
+
+
+      
+    </article>
+  </div>
+
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2007-2024 Francisco Puga. Bajo licencia CC-BY 4.0.
+    </div>
+  
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+    
+    
+    <a href="https://github.com/fpuga" target="_blank" rel="noopener" title="fpuga on GitHub" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8M97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="https://x.com/fpuga" target="_blank" rel="noopener" title="fpuga on X" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8l164.9-188.5L26.8 48h145.6l100.5 132.9zm-24.8 373.8h39.1L151.1 88h-42z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="https://stackoverflow.com/users/930271/francisco-puga" target="_blank" rel="noopener" title="fpuga on StackOverflow" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M290.7 311 95 269.7 86.8 309l195.7 41zm51-87L188.2 95.7l-25.5 30.8 153.5 128.3zm-31.2 39.7L129.2 179l-16.7 36.5L293.7 300zM262 32l-32 24 119.3 160.3 32-24zm20.5 328h-200v39.7h200zm39.7 80H42.7V320h-40v160h359.5V320h-40z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="hhttps://www.linkedin.com/in/francisco-puga-b25a8361/" target="_blank" rel="noopener" title="www.linkedin.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3M135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5m282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../../../../..", "features": ["navigation.indexes", "navigation.tabs", "navigation.sections", "toc.follow", "content.code.copy"], "search": "../../../../../assets/javascripts/workers/search.6ce7567c.min.js", "translations": {"clipboard.copied": "Copiado al portapapeles", "clipboard.copy": "Copiar al portapapeles", "search.result.more.one": "1 m\u00e1s en esta p\u00e1gina", "search.result.more.other": "# m\u00e1s en esta p\u00e1gina", "search.result.none": "No se encontraron documentos", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Teclee para comenzar b\u00fasqueda", "search.result.term.missing": "Falta", "select.version": "Seleccionar versi\u00f3n"}}</script>
+    
+    
+      <script src="../../../../../assets/javascripts/bundle.d6f25eb3.min.js"></script>
+      
+    
+  </body>
+</html>
