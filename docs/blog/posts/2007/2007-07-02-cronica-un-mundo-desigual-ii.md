@@ -1,12 +1,12 @@
 ---
 categories:
   - cooperacion
-  - epd
   - esf
-  - mundodesigual07
 date: 2007-07-02
 permalink: /cronica-un-mundo-desigual-ii/17/
 slug: cronica-un-mundo-desigual-ii
+tags:
+  - mundodesigual07
 ---
 
 # Crónica: Un mundo desigual (II)

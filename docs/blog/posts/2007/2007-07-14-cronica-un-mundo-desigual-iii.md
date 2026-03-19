@@ -1,7 +1,6 @@
 ---
 categories:
   - cooperacion
-  - Ibrahima Niang
   - ideologia
   - mundodesigual07
 date: 2007-07-14

@@ -62,8 +62,6 @@ plugins:
           # post_url_date_format: yyyy/MMM
           categories_allowed:
               - "General"
-              - "Ibrahima Niang"
-              - "Palestina"
               - "Sin categoría"
               - "activismo"
               - "blog action day"
@@ -89,7 +87,6 @@ plugins:
               - "linux"
               - "literatura"
               - "migracion"
-              - "mundodesigual07"
               - "politica"
               - "portatil"
               - "receta"
@@ -101,7 +98,6 @@ plugins:
               - "tercer sector"
               - "voluntariado"
               - "web 2.0"
-              - "webcam"
 
     - tags:
           enabled: false
@@ -280,6 +276,7 @@ plugins:
               - "monetization"
               - "mooc"
               - "motivacion"
+              - "mundodesigual07"
               - "mvc"
               - "nodejs"
               - "odiseus"
@@ -372,6 +369,7 @@ plugins:
               - "youtube"
               - "llm"
               - "ai"
+              - "codign-agents"
     #   - privacy:
     #       enabled: !ENV [CI, false]
     #   - social:
