@@ -85,7 +85,7 @@ const config = {
         {
             files: "*.md",
             options: {
-                tabWidth: 2,
+                tabWidth: 4,
             },
         },
     ],

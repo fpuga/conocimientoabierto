@@ -54,6 +54,7 @@ plugins:
           archive_url_date_format: yyyy
           categories: false
           post_readtime: false
+          pagination: true
 
           pagination_per_page: 5
           # blog_dir: .
@@ -385,6 +386,7 @@ plugins:
               # as_creation: date.created
               # as_update: date.updated
               as_creation: date
+              datetime_format: "%Y-%m-%dT%H:%M:%S"
               # as_update: git
           feeds_filenames:
               rss_created: rss.xml

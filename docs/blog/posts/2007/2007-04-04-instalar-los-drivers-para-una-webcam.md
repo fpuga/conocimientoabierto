@@ -1,10 +1,9 @@
 ---
 categories:
-  - drivers
-  - itrust wb-1200p
-  - linux
-  - receta
-  - webcam
+    - drivers
+    - itrust wb-1200p
+    - linux
+    - receta
 date: 2007-04-04
 permalink: /instalar-los-drivers-para-una-webcam/9/
 slug: instalar-los-drivers-para-una-webcam
@@ -12,7 +11,9 @@ slug: instalar-los-drivers-para-una-webcam
 
 # Instalar los drivers para una webcam
 
-**Actualización 19/06/2009:** Este artículo está desfasado. En la actualidad la mayoría de las webcam funcionan en gnu/linux simplemente con enchufarlas. Lo explico algo mejor [en este artículo](./2009-06-11-instalar-drivers-webcam-linux.md).
+!!! warning Actualización 19/06/2009
+
+    Este artículo está desfasado. En la actualidad la mayoría de las webcam funcionan en gnu/linux simplemente con enchufarlas. Lo explico algo mejor [en este artículo](../2009/2009-06-11-instalar-drivers-webcam-linux.md).
 
 Lo primero que debemos hacer es acudir a esta [página](http://mxhaard.free.fr/spca5xx.html) y comprobar si nuestra webcam está soportada. Para ello podemos buscar el nombre de nuestra cámara en la 5 columna, la que pone algo parecido a _based cameras_.
 
